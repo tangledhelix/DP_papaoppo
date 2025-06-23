@@ -14,7 +14,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Things to revisit ###
 
-* [ ] Example item
+* [ ] Chapter XVIII section numbering is odd, see forum thread.
 
 ### Project manager notes ###
 
