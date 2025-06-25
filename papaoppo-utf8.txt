@@ -312,8 +312,8 @@ whatever to completeness.
                controversiis judicio.</i> 3 vols. Rome. 1739.
 */
 -----File: f013.png--------------------------------------------------------
-
 /*
+
 <sc>Pallavicini.</sc> <i>Hist. C. Trent.</i>
 <sc>Pastor.</sc> <i>History of the Popes.</i> English translation. 1891.
 <sc>Perraud, A.</sc> Le P. <i>Gratry ses Derniers Jours.</i> 1872.
@@ -4965,13 +4965,13 @@ disappeared. They are replaced by a series of ten
 enquiries, with answers giving exactly the contrary
 doctrine. The first of these runs as follows:--
 
-/*
+/#
 "(<i>Q.</i>) What do Catholics believe concerning the
 Infallibility of the Pope?
 
 (<i>A.</i>) That the visible Head of the Church on earth
 received from Christ the same prerogative of Infalli-*
-*/
+#/
 -----File: p112.png--------------------------------------------------------
 /#
 *bility which we have shown above to be necessary
@@ -7749,11 +7749,11 @@ as such by three Ecumenical Councils in succession."
 
 Here is the language of the first of these:--
 
-/*
+/P
 Anathema to the heretic Cyrus.
 Anathema to the heretic Honorius.
 Anathema to the heretic Pyrrhus.
-*/
+P/
 
 Two other Ecumenical Councils repeated this condemnation
 of Honorius. The solemn profession of
@@ -15605,7 +15605,7 @@ mankind.
 INDEX
 
 
-/*
+/i
 Acton, Lord, 70, 117 and <i>sqq.</i>, 326 and <i>sqq.</i>
 
 Agatho, 34, 38, 40, 42
@@ -15645,10 +15645,10 @@ Barral, 8
 Basle, Council of, alluded to by Bossuet, 95
 
 Bellarmine, 7, 9, 12, 18, 28, 29, 38 and <i>sqq.</i>, 60 and <i>sqq.</i>, 72 and <i>sqq.</i>, 168, 263
-*/
+i/
 -----File: p371_2.png------------------------------------------------------
+/i
 
-/*
 Benedict XIII., claims to be above appeal, 57
 
 Bergier's <i>Theological Dictionary</i>, 147
@@ -15701,11 +15701,11 @@ Council, 28-31, 33-40, 42, 45, 59-66, 74, 77, 83, 95, 348 and <i>sqq.</i>;
 Cyprian, St, 14 and <i>sqq.</i>
 
 Cyrus, Patriarch of Alexandria, 32-34, 43
-*/
+i/
 -----File: p372_1.png------------------------------------------------------
+/i
 
 
-/*
 Darboy, Archbishop, 157 and <i>sqq.</i>, 187, 265 and <i>sqq.</i>, 271, 292 and <i>sqq.</i>
 
 Daru, Count, 249, 250
@@ -15776,10 +15776,10 @@ Gratry, 8, 13, 19, 20, 54, 177, 179, 296 and <i>sqq.</i>
 Gregory VII., 49
 
 ---- XII., 57 and <i>sqq.</i>
-*/
+i/
 -----File: p372_2.png------------------------------------------------------
+/i
 
-/*
 Gregory the Great <i>v.</i> Papal Infallibility, 353
 
 Guibert, Archbishop, 251 and <i>sqq.</i>, 295
@@ -15834,10 +15834,10 @@ Infallibility, not conferred on St Peter, 7, 8;
 
 ---- and the Council of Trent, 70;
   the question not mentioned at beginning of the Vatican Council, 232, 238
-*/
+i/
 -----File: p373_1.png------------------------------------------------------
+/i
 
-/*
 Infallibility, Romanist utterances on:--
   Acton, 327 and <i>sqq.</i>, 333
   Aquinas, 30, 51 and <i>sqq.</i>
@@ -15891,10 +15891,10 @@ Irenæus, St, 11 and <i>sqq.</i>
 
 <i>Janus</i>, 27, 54, 182, 192, 193;
   <i>Dublin Review</i> on, 195
-*/
+i/
 -----File: p373_2.png------------------------------------------------------
+/i
 
-/*
 Jerome, St, 20, 21
 
 John IV., 33
@@ -15973,10 +15973,10 @@ Napoleon and reconstruction of French Episcopate, 143 and <i>sqq.</i>
 ---- III., 250
 
 Newman, 130 and <i>sqq.</i>, 177, 226, 280 and <i>sqq.</i>, 348, 359 and <i>sqq.</i>, 366
-*/
+i/
 -----File: p374_1.png------------------------------------------------------
+/i
 
-/*
 <i>New Regulations</i>, the, 253 and <i>sqq.</i>
 
 Nicea[** Nicæa?], Canon of, on Episcopal consecration, 69
@@ -16044,10 +16044,10 @@ Schism, Great, 55, and <i>sqq.</i>
 Schwane, 12, 51, 52, 53, 76, 77, 346
 
 Schwarzenberg, 190 and <i>sqq.</i>, 271
-*/
+i/
 -----File: p374_2.png------------------------------------------------------
+/i
 
-/*
 Sergius, Patriarch of Constantinople, 32 and <i>sqq.</i>
 
 Sibour, 184
@@ -16115,12 +16115,12 @@ Ward, 116, 117, 129
 Will, relation of human and divine, 341 and <i>sqq.</i>
 
 Wiseman, Cardinal, 102-104, 119
-*/
+i/
 -----File: p375.png--------------------------------------------------------
 -----File: p376.png--------------------------------------------------------
 
 
-/*
+/C
 PRINTED AT THE EDINBURGH PRESS
 9 AND 11 YOUNG STREET
-*/
+C/

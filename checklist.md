@@ -56,18 +56,16 @@ Check for:
 * [x] If original book had errata, apply it and note in TN
 
 ### Fix Block Markups and Proofer Notes
-* [ ] Use the `Search` menu to step through all `/* */` blocks.
+Instructions for `/* */` and `/# #/` blocks:
+* Check for a blank line before and after markup
+* Make sure correct [Rewrap Markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) are used
+* For blocks that span a page boundary: if the next-page opening marker is on the second line with one blank before it, but it's still part of the same block from the previous page, move the wrap marker to the first line of the page, next to the page separator. This will make it easier to remove them during the removal of page separators.
+* [x] Use the `Search` menu to step through all `/* */` blocks.
   * Regex: `^(/\*|\*/)`
-  * Check for a blank line before and after markup
-  * Make sure correct [Rewrap Markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) are used
-  * Close-up where broken at page boundaries, if not already done
   * Apply specific [indent value](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Table_Indent) if desired
   * Make sure poetry line numbers are at least two spaces to the right of the line.
-* [ ] Use the `Search` menu to step through all `/#..#/` blocks.
+* [x] Use the `Search` menu to step through all `/#..#/` blocks.
   * Regex: `^(/#|#/)`
-  * Check for a blank line before and after markup
-  * Make sure correct [Rewrap Markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) are used
-  * Close-up where broken at page boundaries, if not already done
   * Check consistent indentation of block text
   * Apply specific [margin values](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Block_Quote_Indent_and_Margins) if desired
 * [ ] `Search → Find Proofer Comments`. Resolve all proofer's notes.
@@ -89,6 +87,7 @@ Check for:
 
 ### Remove Visible Page Breaks
 * [ ] Run `Tools → Page Separator Fixup` to remove visible page separators
+* Note this tool can't rejoin split index entries; fix those manually
 
 ### Apply Word-Frequency Checks
 * [ ] Open `Tools → Word Frequency`. Click on an entry to jump to it.

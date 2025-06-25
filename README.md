@@ -14,7 +14,16 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Things to revisit ###
 
+Guiguts beta items:
+* [ ] Can footnotes be moved between paragraphs correctly before removing page markers, not leaving useless blanks within paragraphs?
+* [ ] When removing page separators, will it properly handle clearing `/* */` and `/# #/`?
+* [ ] What about others like `/i i/`?
+* [ ] What if there are wrap markers and also hyphenated words to join?
+
+Book items:
 * [ ] Chapter XVIII section numbering is odd, see forum thread.
+* [ ] p002 and forward, sections i, ii, iii etc are marked up as `/# #/` but really they're hanging-indent section headers? Review the structure of the book to determine if these are h3 or what
+* [ ] again on p023, similar i., ii.
 
 ### Project manager notes ###
 
@@ -25,6 +34,8 @@ Images from [TIA](https://archive.org/details/a608931100sparuoft).
 Index pages have been split for proofing.
 
 ### Forum notes ###
+
+N/A
 
 ### General notes ###
 
