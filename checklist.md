@@ -49,12 +49,11 @@ Check for:
 * Note any illustrations in a list in `README.md` for later handling
 
 ### Basic Fixup
-* [ ] Use `Tools → Basic Fixup`.
-* [ ] `Tools → Remove End-of-line Spaces`
-* [ ] Remove any remaining `[Blank Page]` lines
+* [x] Use `Tools → Basic Fixup`.
+* [x] Remove any remaining `[Blank Page]` lines
 
 ### Errata
-* [ ] If original book had errata, apply it and note in TN
+* [x] If original book had errata, apply it and note in TN
 
 ### Fix Block Markups and Proofer Notes
 * [ ] Use the `Search` menu to step through all `/* */` blocks.
