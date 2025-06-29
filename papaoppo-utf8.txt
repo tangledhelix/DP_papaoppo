@@ -165,14 +165,14 @@ whatever to completeness.
 /*
 <sc>Acta.</sc> <i>Concil. Vaticani. Collectio Lacensis.</i> T. vii. 1892.
 <sc>Acton.</sc> <i>History of Freedom.</i>
-  "        <i>Sendschreiben an einem[**einen] Deutschen Bischof.</i> 1870.
+  "        <i>Sendschreiben an einen Deutschen Bischof.</i> 1870.
 <sc>Alzog.</sc> <i>History of the Church.</i>
 <sc>Anonymous.</sc> <i>Pourquoi le Clergé Français est Ultramontane.</i> 1879.
   "        <i>Ce qui se passe au Concile.</i> 1870.
 <sc>Aquinas.</sc> <i>Opuscula Selecta.</i> Paris. 4 vols. 1884.
   "        <i>In Sententiis.</i> 3 vols. Parma Edit.
 <sc>Argentre, D'.</sc> <i>Elementa Theologica.</i> Paris. 1702.
-<sc>Augustine.</sc> Works. <i>Gaume's Edition.</i> [**s/b "<i>Works.</i> Gaume's Edition."?]
+<sc>Augustine.</sc> <i>Works.</i> Gaume's Edition.
 
 <sc>Barral.</sc> <i>Defense des Libertés de l'Eglise Gallicane.</i> 1817.
 <sc>Baunard.</sc> <i>Hist. de Card. Pie.</i> 2 vols. Paris. 1886.
@@ -196,10 +196,10 @@ whatever to completeness.
 <sc>Chauvin.</sc> <i>Le Père Gratry.</i> 1901.
 <sc>Choupin L.</sc> <i>Valeur des Decisions Doctrinale.</i> 1908.
 <sc>Chrismann.</sc> <i>Regula Fidei Catholicæ.</i> 1854.
-<sc>Christophe.</sc> <i>Histoire de la Papautè[**Papauté], pendant le XIV. Siècle.</i> 3 vols. 1853.
+<sc>Christophe.</sc> <i>Histoire de la Papauté, pendant le XIV. Siècle.</i> 3 vols. 1853.
 <sc>Clifford</sc>, Lord. <i>Letters to the Earl of Winchelsea.</i>
 <sc>Cobb, G. F.</sc> <i>Few Words on Reunion.</i> 1869.
-<sc>Consalvi</sc>, Card. <i>Memoires[**Mémoires].</i> 2 vols. Cretineau-Joly. 1864.
+<sc>Consalvi</sc>, Card. <i>Mémoires.</i> 2 vols. Cretineau-Joly. 1864.
 <i>Correspondant.</i> 10th Feb. 1906. Articles by Thureau Dangin.
 <sc>Cyprian.</sc> Ed. Hartel. 3 vols.
 
@@ -221,7 +221,7 @@ whatever to completeness.
 <sc>Franzelin.</sc> <i>De Traditione.</i>
 <sc>Friedberg.</sc> <i>Aktenstücke.</i> 1876.
 <sc>Friedrich.</sc> <i>Documenta ad illustrandum Conc. Vat.</i> 2 vols. 1871.
-    "     <i>Döllinger. Sein Leben.</i> 3 vols. Munchen[**München]. 1899.
+    "     <i>Döllinger. Sein Leben.</i> 3 vols. Munchen. 1899.
     "     <i>Tagebuch.</i> 1871.
 
 <sc>Gallitzin.</sc> <i>Defence of Catholic Principles.</i>
@@ -236,7 +236,7 @@ whatever to completeness.
 <sc>Gladstone.</sc> <i>Vaticanism.</i>
 <sc>Gosselin.</sc> <i>Temporal Power of the Pope in the Middle Ages.</i>
                    Transl. by Kelly of Maynooth. 2 vols. 1853.
-<sc>Goyau.</sc> <i>L'Allemayne[**Allemagne] religieuse.</i> 5 vols. 1905.
+<sc>Goyau.</sc> <i>L'Allemagne religieuse.</i> 5 vols. 1905.
 <sc>Granderath.</sc> <i>Vatican Council.</i> 3 vols.
 <sc>Gratry.</sc> <i>Letters.</i>
 <sc>Gregorovius.</sc> <i>Roman Journals.</i>
@@ -272,7 +272,7 @@ whatever to completeness.
 /*
 <sc>Ketteler.</sc> <i>Le Concile Œcuménique.</i> Tr. Bélet. (?) 1869.
     "     <i>Liberté Antorité, Église.</i> Tr. Bélet. 1862.
-    "     <i>Das Unfehlbare lehramt[**unfehlbare Lehramt] des Papstes.</i> 1871.
+    "     <i>Das unfehlbare Lehramt des Papstes.</i> 1871.
 <i>Knabenbauer in Luc.</i>
 <sc>Krautheimer.</sc> <i>Catechism of the Catholic Religion.</i> 1845.
 
@@ -328,13 +328,13 @@ whatever to completeness.
 <sc>Quirinus.</sc> <i>Letters from Rome on the Council.</i> 1870.
 
 <sc>Reinkens.</sc> <i>Ueber die Einheit der katholischen Kirche.</i> 1877.
-    "     <i>Kniefall und Fall des Bischop[**Bischof] Ketteler.</i> 1877.
+    "     <i>Kniefall und Fall des Bischof Ketteler.</i> 1877.
 <sc>Reusch.</sc> <i>Letters in Schulte Altkatholicismus.</i>
 <sc>Review.</sc> <i>Dublin.</i> 1869.
   "    <i>Home and Foreign.</i> 1863.
   "    <i>Rambler.</i> 1862.
 <i>Revue des Deux Mondes.</i> 1858.
-<sc>Richerius.</sc> <i>Vindiciæ Doctrines[**? Doctrinæ - F1] Majorum.</i> 1683.
+<sc>Richerius.</sc> <i>Vindiciæ Doctrinæ Majorum.</i> 1683.
 <sc>Rosière.</sc> <i>Liber Diurnus.</i> 1869.
 <sc>Rudis.</sc> <i>Petra Romana.</i> 1869.
 <sc>Rump.</sc> <i>Die Unfehlbarkeit des P.</i> 1870.
@@ -791,7 +791,7 @@ Other writers have seen Infallibility implied in every
 
 [Footnote 1: See <i>Controv.</i>]
 
-[Footnote 2: Cf. Turmel, <i>Hist. Theol.[**typo for Théol.?] Positive</i>, p. 303.]
+[Footnote 2: Cf. Turmel, <i>Hist. Théol. Positive</i>, p. 303.]
 -----File: p010.png--------------------------------------------------------
 recognition of authority or primacy; in every judicial
 sentence of the Roman See.
@@ -1199,7 +1199,9 @@ incurred condemnation for heresy."
 [Footnote 1: Augustine, <i>De Baptismo</i>, II. iv. p. 5.]
 -----File: p019.png--------------------------------------------------------
 
-[**possible TB - F1]3. From the writings of St Augustine probably no
+<tb>
+
+3. From the writings of St Augustine probably no
 phrase has been more often quoted in behalf of papal
 inerrancy than that in which, referring to the Pelagian
 controversy, he says:--
@@ -1240,7 +1242,7 @@ Augustine's sentiments were commonly quoted for
 centuries. Gratry's criticism upon it represents the
 opposition.
 
-[Footnote 1: St Aug. Serm. cxxii. Gaume, v. 930[**P2: .]]
+[Footnote 1: St Aug. Serm. cxxii. Gaume, v. 930.]
 
 [Footnote 2: Botalla, i. p. 77.]
 
@@ -1413,7 +1415,7 @@ Vincent's application of this test to several instances
 shows alike its clearness and its use.
 
 /#
-i. First Case--If the Local oppose the Universal.[**thought break above instead?]
+i. First Case--If the Local oppose the Universal.
 #/
 
 "What, then, will a Catholic Christian do if a small
@@ -1653,7 +1655,7 @@ advocates of the papal authority, contradict one another
 on this point. Baronius asserts that the Bishops regarded
 the letter of Leo as the rule and guide in faith which
 
-[Footnote 1: Janus, p. 89[** .]]
+[Footnote 1: Janus, p. 89.]
 
 [Footnote 2: Bossuet, <i>Defence</i>, i. p. 80.]
 
@@ -1858,7 +1860,7 @@ the two Patriarchs, Cyrus of Alexandria and Sergius of
 Constantinople, were both condemned as Monothelites;
 and in which, without any allusion to Honorius, it
 was affirmed that the coexistence of two wills in
-Christ was a necessary consequence of the co-existence[**P3: coexistence above]
+Christ was a necessary consequence of the co-existence
 of the two natures, human and divine. In 680 was held
 the Sixth General Council with a view to reconcile and
 reunite the East with the West. To this Council Pope
@@ -2547,7 +2549,7 @@ of the Universal Church should wish to deceive anybody,
 specially in those matters which the whole Church
 receives and approves."[2] And he argued from this in
 
-[Footnote 1: Schwane, <i>Hist. Dogm.</i>[**Dogme] v. p. 321.]
+[Footnote 1: Schwane, <i>Hist. Dogm.</i> v. p. 321.]
 
 [Footnote 2: <i>In Sententiis</i>, 4 Disc. 20, a. 17.]
 -----File: p052.png--------------------------------------------------------
@@ -2721,13 +2723,13 @@ writer declares himself unable to characterise either
 with the title of Antipope.[4] Nations were divided,
 so were cities and universities, into Urbanists and
 
-[Footnote 1: Christophe, <i>Histoire de la Papautè[**Papauté?], pendant le XIV. Siècle</i>, iii. p. 36.]
+[Footnote 1: Christophe, <i>Histoire de la Papauté, pendant le XIV. Siècle</i>, iii. p. 36.]
 
 [Footnote 2: Pastor, i. p. 119.]
 
 [Footnote 3: <i>Ibid.</i> i. p. 131.]
 
-[Footnote 4: Christophe, <i>Histoire de la Papautè[**Papauté?], pendant le XIV. Siècle</i>, iii. p. 37.]
+[Footnote 4: Christophe, <i>Histoire de la Papauté, pendant le XIV. Siècle</i>, iii. p. 37.]
 -----File: p057.png--------------------------------------------------------
 Clementines. Urban and Clement both died, but each
 received successors. It looked as if Christendom might
@@ -3084,7 +3086,7 @@ do not have the clear vision of God before the Final
 Judgment."
 #/
 
-Bossuet calls the readers[**F1:no ' ?] attention to Pope Hadrian's
+Bossuet calls the reader's attention to Pope Hadrian's
 view of the Papacy.[1] How clearly he taught, and held
 as indisputable, that the Pope could be a heretic not
 only in his private capacity, but in his official decisions
@@ -3493,7 +3495,7 @@ realised this doctrine in all its purity."[3]
 [Footnote 1: Cf. Döllinger und Reusch, <i>Die Selbstbiographie des Cardinals Bellarmin</i>,
 p. 38, and notes pp. 106-111.]
 
-[Footnote 2: Ghilardi, <i>De Plenitudine Potestatis</i>, <i>R.P.</i>[**single set of italics?] p. 15.]
+[Footnote 2: Ghilardi, <i>De Plenitudine Potestatis, R.P.</i> p. 15.]
 
 [Footnote 3: <i>Hist. Dogm.</i>, v. p. 377.]
 -----File: p077.png--------------------------------------------------------
@@ -3771,7 +3773,7 @@ theory is not heretical, for its advocates are tolerated
 by the Church. If Bellarmine, nevertheless, labels this
 same theory proximate to heresy, this is his individual
 view and in Veron's judgment unjustifiable. As to
-further discussion, Veron deprecates it[**typo missing "." ?] He writes as
+further discussion, Veron deprecates it. He writes as
 a Catholic teacher and not in a scholastic or speculative
 way.
 
@@ -4308,7 +4310,7 @@ errors approximate to heresy, Protestant converts could
 hardly fail to retort: We submitted to the Church on
 the distinct assertion that no Catholic was required to
 
-[Footnote 1: Bossuet, t. xxi. p. 129[**.]]
+[Footnote 1: Bossuet, t. xxi. p. 129.]
 
 [Footnote 2: <i>Ibid.</i> vol. xiii. pp. 103, 104.]
 
@@ -5186,7 +5188,7 @@ prudence, and that our danger lies in half truths."[6]
 
 [Footnote 1: Murray, <i>Tractatus de Ecclesia Christ.</i> ii. (1), p. 171.]
 
-[Footnote 2: Ollivier, <i>L'Eglise et L'Etat</i>.[**,] ii. p. 9.]
+[Footnote 2: Ollivier, <i>L'Eglise et L'Etat</i>, ii. p. 9.]
 
 [Footnote 3: <i>Quirinus</i>, p. 290.]
 
@@ -5415,7 +5417,7 @@ Notwithstanding this severe rebuke Acton continued
 to persevere.
 
 The suppression of Lord Acton's brilliant but short-lived
-<i>Home and Foreign Review</i> ilustrates[**typo for illustrates] the restraints
+<i>Home and Foreign Review</i> illustrates the restraints
 
 [Footnote 1: Acton, <i>History of Freedom</i>, p. 454.]
 
@@ -6069,7 +6071,7 @@ Infallibility formed no part of the faith of Catholics.
 
 Manning indeed saw a host of practical reasons why
 
-[Footnote 1: <i>Pastoral</i> (1867), p. 40[**.]]
+[Footnote 1: <i>Pastoral</i> (1867), p. 40.]
 
 [Footnote 2: <i>Ibid.</i> p. 41.]
 -----File: p137.png--------------------------------------------------------
@@ -6364,7 +6366,7 @@ a spirit of resignation to authority, which afterwards
 exhibited itself in the province of dogmatic truth, and
 contributed indirectly not a little to the passing of the
 
-[Footnote 1: Consalvi, <i>Memoires</i>, i. p. 345.]
+[Footnote 1: Consalvi, <i>Mémoires</i>, i. p. 345.]
 
 [Footnote 2: Jervis, p. 363.]
 
@@ -7350,7 +7352,7 @@ filial piety should desire to adorn a father with all gifts
 and all prerogatives; but, congenial as these instincts
 were to filial piety, the definition of a dogma demanded
 other considerations than sentiment. Journalism, in
-the pages of the <i>Civilta[**Civiltà?] Cattolica</i>, had assumed the
+the pages of the <i>Civilta Cattolica</i>, had assumed the
 right to anticipate theological decisions; and declarations
 of faith in the personal and separate Infallibility
 of the Pope were being elicited from the most simple-minded
@@ -7553,7 +7555,7 @@ by a father and composed of brethren."
 #/
 
 Dupanloup, says Quirinus in the well-known <i>Letters
-from Rome</i>[**F1:no colon?]--
+from Rome</i>--
 
 /#
 "attacked the opportuneness with such a powerful array
@@ -8109,7 +8111,7 @@ of great discouragements, an international committee of
 the opposition Episcopate was formed, which materially
 strengthened their forces.
 
-[Footnote 1: Lagrange, iii. p. 156[**.]]
+[Footnote 1: Lagrange, iii. p. 156.]
 -----File: p188.png--------------------------------------------------------
 
 
@@ -8642,7 +8644,7 @@ have taught the opposite, and these the Church none
 the less considers to be pious and earnest defenders
 #/
 
-[Footnote 1: Lichtenberger, <i>Encyclopédie des Sciences Religreuses</i>.][**Religieuses]
+[Footnote 1: Lichtenberger, <i>Encyclopédie des Sciences Religieuses</i>.]
 
 [Footnote 2: Liebermann, <i>Institutiones Theologicæ</i>, ii. p. 540.]
 -----File: p201.png--------------------------------------------------------
@@ -8888,10 +8890,10 @@ passages to which Infallibilists chiefly appealed was the
 exhortation to strengthen his brethren. But this is an
 exhortation, not a promise. "It is a violent perversion to
 turn an admonition to duty into a promise of the invariable
-fulfilment [**P2: fulfillment] of that duty." Still less can this exhortation
+fulfilment of that duty." Still less can this exhortation
 be transferred as a promise to his successors, when
 it was only a personal admonition. It was, moreover, an
-exhortation which Peter himself did not invariably fulfil [**P2: fulfill].
+exhortation which Peter himself did not invariably fulfil.
 Far from strengthening the Church at Antioch in the
 faith, he rather perplexed it by his dissimulation.
 
@@ -9079,7 +9081,7 @@ Friedrich is, of course, a violent partisan, and no
 
 [Footnote 3: <i>Ibid.</i> p. 375]
 
-[Footnote 4: <i>Ibid.</i> ii. 3.[**P2: in this order?  Not in book]]
+[Footnote 4: <i>Ibid.</i> ii. 3.]
 -----File: p211.png--------------------------------------------------------
 more capable of historical impartiality than Veuillot or
 Manning. At the same time much may be ascertained
@@ -9269,7 +9271,7 @@ consequently that it is of faith. I declare it
 in the simplicity of my heart. This is demanded by
 truth and theological thought. This is demanded by
 the pure doctrine of the Roman Church. This by great
-good fortune I inbibed[**P2: imbibed?] in my youth in its purest source,
+good fortune I imbibed in my youth in its purest source,
 the Roman College of the Propaganda itself. This I
 have defended. It is demanded by the opposition of
 men of malignant intentions against the Holy See. It
@@ -9623,7 +9625,7 @@ nothing in her <i>authorised</i> teaching which you do not
 yourselves teach in your own pulpits and Catechisms.
 That she is actually separated from the centre of
 visible Catholic unity is a fact deplorable indeed, but
-too patent to be questioned; that she is wilfully [**P2: willfully],
+too patent to be questioned; that she is wilfully,
 avowedly, and therefore guiltily schismatical we utterly
 deny; to say that we ourselves are schismatics is
 simply to give the lie to the most cherished longing
@@ -10852,12 +10854,12 @@ was appropriate that so influential a mover in the Congregation
 of Proposals should afterwards be selected for
 the Archbishopric of Paris, and the rank of Cardinal.
 
-But to whom should the task be intrusted[**P2: entrusted] of
+But to whom should the task be intrusted of
 introducing the great subject into the Council itself?
 There was a personage singularly fitted for this difficult
 work. One of the most active spirits in Rome was
 
-[Footnote 1: Follenay, <i>Vie de Cardinal Guibert</i>, ii[**.] p. 426.]
+[Footnote 1: Follenay, <i>Vie de Cardinal Guibert</i>, ii. p. 426.]
 -----File: p255.png--------------------------------------------------------
 Mgr. Pie, Bishop of Poitiers. His antecedents were,
 from a curialist standpoint, irreproachable. He was,
@@ -11880,7 +11882,7 @@ thought it was not a good thing, not necessary, not
 for the benefit of souls in countries well known to them,
 and who for this reason abstained from taking part
 in this decision, may after the solemn decision, if they
-think it advisible[**], represent to the faithful of their
+think it advisable, represent to the faithful of their
 dioceses the position which they previously adopted
 towards the doctrine, in order that their conduct may
 not be misunderstood. But they must now themselves
@@ -11936,7 +11938,7 @@ personally I have no difficulty in admitting it. The
 question is, Does it come to me with the authority of
 an Ecumenical Council?
 
-"Now the <i>primâ[**typo for prima?] facie</i> argument is in favour of its
+"Now the <i>primâ facie</i> argument is in favour of its
 having that authority. The Council was legitimately
 called; it was more largely attended than any Council
 before it....
@@ -12089,7 +12091,7 @@ to the thought of the mercifulness of our Lord. This,
 at any rate, is what many within the Roman Communion
 undoubtedly felt. They did not believe in the
 rightfulness of expecting Providence to nullify the
-perverseness and self-will of an overwhelming majority[**.]
+perverseness and self-will of an overwhelming majority.
 
 Subtle, attractive, bearing in every line of it the distinctive
 impress of his wonderful personality, Newman's
@@ -12417,7 +12419,7 @@ of the doctrine to be morally impossible.
 
 I. AMONG THE FRENCH ROMANISTS
 
-2.[**PP: 1 ??] The Archbishop of Paris voted,[2] consistently with his
+2. The Archbishop of Paris voted,[2] consistently with his
 entire attitude, against the doctrine of Papal Infallibility,
 on the critical day, 13th July. In the interview on
 Saturday 16th, he prefaced his expostulations with a
@@ -12484,7 +12486,7 @@ Indeed the Pope knows them. He has my letter of
 as the question of its opportuneness which made us
 hesitate. All the world knows this; and, for my own
 part, I said it in full Council. It seems, therefore, to me
-superfluous to affirm to-day that I accept the Decree[**P2: missing .] It
+superfluous to affirm to-day that I accept the Decree. It
 would be even misleading; for it would give grounds
 to the suggestion that I withheld my adherence to the
 present time--which is false. Still, if the Holy Father
@@ -12655,7 +12657,7 @@ no one has any right to question me; not even
 
 [Footnote 1: <i>Acta</i>, p. 1405.]
 
-[Footnote 2: Guillermin, <i>Vie.[** '.'  needed?] de Mgr. Darboy</i>, p. 261.]
+[Footnote 2: Guillermin, <i>Vie de Mgr. Darboy</i>, p. 261.]
 -----File: p298.png--------------------------------------------------------
 /#
 Mgr. Darboy's successor. To require of me a public
@@ -12838,7 +12840,7 @@ inevitable, unless I were prepared to separate myself
 
 [Footnote 2: Friedrich's <i>Documenta</i>, p. 210.]
 
-[Footnote 3: Schulte, <i>Der Altkathliusmus[** Altkatholismus?]</i>, p. 267.]
+[Footnote 3: Schulte, <i>Der Altkatholismus</i>, p. 267.]
 -----File: p302.png--------------------------------------------------------
 /#
 at least in the judgment of most Catholics from the
@@ -13409,11 +13411,11 @@ another that the risk of schism appeared."
 
 Moreover, a mathematical formula may illustrate the
 effect of the papal claim on the Episcopate. If <i>a</i>+<i>b</i>=<i>a</i>
-then <i>b</i>=<i>o</i>[**0]; or, at any rate, is a practically negligible
+then <i>b</i>=<i>0</i>; or, at any rate, is a practically negligible
 quantity.
 
 Hasenclever complains that he can nowhere obtain a
-direct reponse[** response] to the question, How is it that innumerable
+direct response to the question, How is it that innumerable
 treatises and works of all kinds approved by the
 Church have hitherto affirmed that Papal Infallibility is
 no part of the Catholic Faith? What particularly
@@ -13458,7 +13460,7 @@ the minority. On the 18th the new dogma was pro-*
 claimed. On the 19th Archbishop Scherr was back in
 Munich again. On the 21st the Theological Faculty,
 headed by Döllinger, met him. Scherr's criticisms
-of the Roman precedure[**procedure?], says Döllinger's German
+of the Roman procedure, says Döllinger's German
 biographer, Friedrich, confirmed them in the views of
 the Council which they had already taken. But, said
 Scherr, Rome has spoken. There was nothing for it
@@ -13500,7 +13502,7 @@ and not really competent authority (he dwells much
 on the scheme <i>de concilio</i>, as completely destroying the
 freedom, and so the authority, of the Council), with
 a notorious absence of any internal assent. The Archbishop
-of Munich is very anxious. He told Dr[**P2: missing .] Döllinger
+of Munich is very anxious. He told Dr Döllinger
 that the deputation which went to the Pope, begging
 him to spare the Church, nearly carried its point."
 #/
@@ -13862,7 +13864,7 @@ Gladstone, supplying him with information hostile to
 the Council; "poisoning his mind," as Archbishop
 Manning phrases it, against Papal Infallibility and the
 Pope's friends and supporters. Lord Acton, as a friend
-and disciple of Dr [**P2: missing .] Döllinger, had great influence with
+and disciple of Dr Döllinger, had great influence with
 
 [Footnote 1: <i>Lord Acton and his Circle</i>, pp. 211, 212, 215.]
 
@@ -13894,7 +13896,7 @@ of their designs; when he gave illustrations
 of authority overriding history, and the unscrupulous
 suppression of uncongenial facts; when he quoted at
 length Montalembert's emphatic letter on the transformation
-of Catholic France into an anti[**ante]-chamber
+of Catholic France into an anti-chamber
 of the Vatican--he was recording what was calculated
 to advance the other side. Yet, of course, the registration
 of adverse facts is a different province from personal
@@ -14035,7 +14037,7 @@ remained to the opposing Bishops but to break
 up the Council."
 #/
 
-This was exactly where their courage failed them[**.]
+This was exactly where their courage failed them.
 They protested, but submitted. And here comes Acton's
 judgment on their submission:--
 
@@ -14879,7 +14881,7 @@ of various truths. It appears to be still acknowledged
 that all antiquity is committed to belief in the
 Infallibility of the entire Episcopate, whether assembled
 or dispersed. It appears to be also affirmed that the
-Pope alone is infallible whatever the Bishops may think,[**should be period?]
+Pope alone is infallible whatever the Bishops may think.
 If the Pope's authority can render the minority infallible,
 what becomes of the Infallibility of the entire Episcopate?
 
@@ -15522,7 +15524,7 @@ detestation.
 And if the Vatican Decree is moderate relatively to
 a school of extravagance, it is no less stupendous
 relatively to a school of antiquity. Judged by the
-conceptions of St[**missing .?] Vincent of Lerins the dogma is not
+conceptions of St Vincent of Lerins the dogma is not
 moderate, it is most extreme. If some who anticipated
 and feared something much more pronounced acquiesced
 in the actual dogma with comparative relief, a very
@@ -15657,7 +15659,7 @@ Bertin, 81
 
 Bona, Cardinal, 36
 
-Bossuet, 8, 20 and sqq., 26, 28, 29, 38 and <i>sqq.</i>, 53, 57, 62 and <i>sqq.</i>, 70, 73, 85 and <i>sqq.</i>[**;?]
+Bossuet, 8, 20 and sqq., 26, 28, 29, 38 and <i>sqq.</i>, 53, 57, 62 and <i>sqq.</i>, 70, 73, 85 and <i>sqq.</i>;
   His sermon on Unity, 86 and <i>sqq.</i>;
   <i>Defence of the Declaration</i>, 93 and <i>sqq.</i>;
   <i>Exposition</i>, 96, 107
@@ -15750,7 +15752,7 @@ Flavian, Leo's letter to, 28, 29
 
 Florence, Council of, 83
 
-<i>Franzelin.</i>[** . keep?], 25
+<i>Franzelin</i>, 25
 
 Friedrich, 210 and <i>sqq.</i>, 318, 321
 
@@ -15817,13 +15819,14 @@ Infallibility, not conferred on St Peter, 7, 8;
   Infallibility of the Church, 77, 94, 110, 111, 115, 168 and <i>sqq.</i>, 343.
   See Authority
 
-----, Papal, 21, 42; works out as Infallibility of the Church, 77, 94;
+----, Papal, 21, 42;
+  works out as Infallibility of the Church, 77, 94;
   officially denied in Lyons and Rouen, 97;
   by English Roman Catholics of eighteenth century, 100;
   by <i>Faith of Catholics</i>, 106;
-  nature of Infallibility, 340 and <i>sqq.</i>,[**;?]
+  nature of Infallibility, 340 and <i>sqq.</i>;
   conditions of its exercise, 357 and <i>sqq.</i>, cf. 11;
-  parallel drawn between dogma of Christ's Divinity and that of Infallibility, 113 and <i>sqq[** .]</i>;
+  parallel drawn between dogma of Christ's Divinity and that of Infallibility, 113 and <i>sqq.</i>;
   doctrine of intention, 360, 361
 
 ----, Carson's list of Infallible utterances, 364
@@ -15877,9 +15880,9 @@ Infallibility, Romanist utterances on:--
   Ryder, 354 and <i>sqq.</i>
   Schulte, 289
   Sorbonne, 58
-  Torquemada, 77;[**, ?] cf. 94, 108
+  Torquemada, 77; cf. 94, 108
   Veron, 84
-  Wurtzburg[**Würzburg?], Theological Faculty of, 198, 199
+  Wurtzburg, Theological Faculty of, 198, 199
 
 
 Innocent I., 19
@@ -15979,7 +15982,7 @@ i/
 
 <i>New Regulations</i>, the, 253 and <i>sqq.</i>
 
-Nicea[** Nicæa?], Canon of, on Episcopal consecration, 69
+Nicea, Canon of, on Episcopal consecration, 69
 
 
 Oriental Churches, attitude of, 221
@@ -16023,7 +16026,7 @@ Quotations from Holy Scripture:--
   1 Thess. iii. 2; iii. 13, p. 5
   2 Thess. ii. 17; iii. 3, p. 6
   Heb. i. 12, p. 4
-  1 Pet. v. 10, p. 6.[** del .]
+  1 Pet. v. 10, p. 6
   2 Pet. i. 12, p. 6
   Rev. iii. 2, p. 6
 
