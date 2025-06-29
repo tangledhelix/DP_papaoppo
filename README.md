@@ -15,10 +15,10 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 ### Things to revisit ###
 
 Guiguts beta items:
-* [ ] Can footnotes be moved between paragraphs correctly before removing page markers, not leaving useless blanks within paragraphs?
-* [ ] When removing page separators, will it properly handle clearing `/* */` and `/# #/`?
-* [ ] What about others like `/i i/`?
-* [ ] What if there are wrap markers and also hyphenated words to join?
+* [x] Can footnotes be moved between paragraphs correctly before removing page markers, not leaving useless blanks within paragraphs?
+* [x] When removing page separators, will it properly handle clearing `/* */` and `/# #/`?
+* [x] What about others like `/i i/`?
+* [x] What if there are wrap markers and also hyphenated words to join?
 
 Book items:
 * [ ] Chapter XVIII section numbering is odd, see forum thread.
@@ -103,7 +103,11 @@ Things to do:
 
 ### Illustrations ###
 
+None.
+
 ### Proofer's notes ###
+
+No notes.
 
 ### Joined hyphenated words ###
 
