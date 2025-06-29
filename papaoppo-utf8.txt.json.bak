@@ -1,6 +1,6 @@
 {
-  "md5checksum": "e46d45e9a14940f16c5db92687954537",
-  "insertpos": "430.0",
+  "md5checksum": "b3ff32788d8eb624645b41dd3126996f",
+  "insertpos": "409.60",
   "insertpospeer": "16130.0",
   "pagedetails": {
     "f001": {
@@ -2383,6 +2383,8 @@
   "imagedir": "/Users/dan/dp/pp/papaoppo/pngs",
   "projectid": "projectID6111624b0410e",
   "languages": "en",
-  "bookmarks": {},
+  "bookmarks": {
+    "Bookmark1": "375.0"
+  },
   "imagerotate": {}
 }

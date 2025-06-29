@@ -81,9 +81,21 @@ Instructions for `/* */` and `/# #/` blocks:
 * [x] Edit the TOC. Find each matching chapter head; make sure heads are 1:1 with TOC. Protect TOC with `/X...X/`. Note that your TOC will probably need to be indented to prevent rewrapping, particularly if you use multiple spaces to align page numbers.
 * [x] If book has illustrations, edit or create *List of Illustrations* (**Note:** this is not a requirement). Make sure it is 1:1 with `[Illustration]` captions. Protect with `/X...X/`.
 
-### Edit Transliterations
-* [ ] Use `Tools → Character Tools` to search for transliterations. Check the content of each transliteration. For Greek, there's a "Greek Transliteration Tool", but entering Unicode Greek is preferable.
-  * (not supported in GG2)
+### Transliterations
+* [x] Check for non-Latin script tags. `\[(Greek|Hebrew|Arabic|Cyrillic)`
+* [x] Handle each case as appropriate.
+
+### Fix Footnotes
+* [x] Use `Tools → Footnote Fixup`. This will help you validate and move any footnotes.
+  * `Next / Prev FN` to navigate
+  * Look for `*` and use `Join Selected FN to Previous` to join them
+  * THERE SHOULD BE NO SUSPECTS AT TOP OF WINDOW
+    * Exception: sometimes a footnote is really long
+    * Exception: multiple anchors per footnote can confuse it?
+* [x] Move footnotes between paragraphs
+  * `Footnote Fixup`, `Re-run`
+  * `All to Number`, `Reindex`
+  * `Re-run`, `Move FNs to Paragraphs`
 
 ### Remove Visible Page Breaks
 * [ ] Run `Tools → Page Separator Fixup` to remove visible page separators
@@ -152,20 +164,6 @@ Instructions for `/* */` and `/# #/` blocks:
 * [ ] Read the [discussion](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Sidenotes). Step through sidenotes with: Search & Replace of `[S`, not regex, not whole word, ignore case. Click `Search` to find each Sidenote.
   * Compare to page image. Move note above paragraph if feasible.
   * Otherwise, position it above the sentence to which it applies, with blank lines to prevent rewrapping if you decide that is best.
-
-### Fix Footnotes
-* [ ] Use `Tools → Footnote Fixup`. This will help you validate and move any footnotes.
-  * `Next / Prev FN` to navigate
-  * Look for `*` and use `Join Selected FN to Previous` to join them
-  * THERE SHOULD BE NO SUSPECTS AT TOP OF WINDOW
-    * Exception: sometimes a footnote is really long
-    * Exception: multiple anchors per footnote can confuse it?
-* [ ] Move footnotes between paragraphs
-  * `Footnote Fixup`, `Re-run`
-  * `All to Number`, `Reindex`
-  * `Re-run`, `Move FNs to Paragraphs`
-* [ ] Save file, `Tools → Bookloupe` and check only `No punctuation at para end`
-  * Find para and error, move footnotes as needed
 
 ### Fix Poetry Line Numbers
 * [ ] If the book has poetry that uses line numbers, read [this page](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Poetry_Line_Numbers) and align the line numbers consistently.
