@@ -98,7 +98,7 @@ Instructions for `/* */` and `/# #/` blocks:
   * `Re-run`, `Move FNs to Paragraphs`
 
 ### Remove Visible Page Breaks
-* [ ] Run `Tools → Page Separator Fixup` to remove visible page separators
+* [x] Run `Tools → Page Separator Fixup` to remove visible page separators
 * Note this tool can't rejoin split index entries; fix those manually
 
 ### Apply Word-Frequency Checks
