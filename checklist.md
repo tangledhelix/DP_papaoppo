@@ -58,7 +58,7 @@ Check for:
 ### Fix Block Markups and Proofer Notes
 Instructions for `/* */` and `/# #/` blocks:
 * Check for a blank line before and after markup
-* Make sure correct [Rewrap Markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) are used
+* If specific [rewrap markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) should be used, don't change them now, but add a note to your list for later handling, after page separators are removed.
 * For blocks that span a page boundary: if the next-page opening marker is on the second line with one blank before it, but it's still part of the same block from the previous page, move the wrap marker to the first line of the page, next to the page separator. This will make it easier to remove them during the removal of page separators.
 * [x] Use the `Search` menu to step through all `/* */` blocks.
   * Regex: `^(/\*|\*/)`
@@ -75,11 +75,6 @@ Instructions for `/* */` and `/# #/` blocks:
 * [x] Use `Tools → Unmatched → Brackets` to check each type of bracket and markup.
   * Do not omit the lowly parenthesis, often mis-scanned as curly-brace.
 * [x] Look for malformed thought-breaks (5 stars). Regex: `\*\s*\*\s*\*\s*\*\s*\*`
-
-### Format Front Matter
-* [x] Format the title page, preserving as much of the original material as possible. Protect in `/X...X/` (no rewrap, no indent) or `/F...F/` (the same, except that it will be centered in the html version).
-* [x] Edit the TOC. Find each matching chapter head; make sure heads are 1:1 with TOC. Protect TOC with `/X...X/`. Note that your TOC will probably need to be indented to prevent rewrapping, particularly if you use multiple spaces to align page numbers.
-* [x] If book has illustrations, edit or create *List of Illustrations* (**Note:** this is not a requirement). Make sure it is 1:1 with `[Illustration]` captions. Protect with `/X...X/`.
 
 ### Transliterations
 * [x] Check for non-Latin script tags. `\[(Greek|Hebrew|Arabic|Cyrillic)`
@@ -99,7 +94,14 @@ Instructions for `/* */` and `/# #/` blocks:
 
 ### Remove Visible Page Breaks
 * [x] Run `Tools → Page Separator Fixup` to remove visible page separators
-* Note this tool can't rejoin split index entries; fix those manually
+
+### Format Front Matter
+* [x] Format the title page, preserving as much of the original material as possible. Protect in `/X...X/` (no rewrap, no indent) or `/F...F/` (the same, except that it will be centered in the html version).
+* [x] Edit the TOC. Find each matching chapter head; make sure heads are 1:1 with TOC. Protect TOC with `/X...X/`. Note that your TOC will probably need to be indented to prevent rewrapping, particularly if you use multiple spaces to align page numbers.
+* [x] If book has illustrations, edit or create *List of Illustrations* (**Note:** this is not a requirement). Make sure it is 1:1 with `[Illustration]` captions. Protect with `/X...X/`.
+
+### Add Noted Rewrap Markers
+* [x] If the to-do list has any notes about adding [rewrap markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) (such as indexes or poetry), make those changes.
 
 ### Apply Word-Frequency Checks
 * [ ] Open `Tools → Word Frequency`. Click on an entry to jump to it.
