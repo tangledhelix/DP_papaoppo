@@ -119,6 +119,7 @@ No notes.
 * p. ix: changed "einem" to "einen" (Sendschreiben an einen Deutschen Bischof)
 * p. x: changed "Memoires" to "Mémoires" (Consalvi, Card. Mémoires.)
 * p. xi: changed "Allemayne" to "Allemagne" (L'Allemagne religieuse)
+* p. xi: changed "Rufinium" to "Rufinum" (Ad Rufinum. De Script Eccles.)
 * p. xiii: changed "Bischop" to "Bischof" (Kniefall und Fall des Bischof Ketteler)
 * p. xiii: changed "Doctrines" to "Doctrinæ" (Vindiciæ Doctrinæ Majorum)
 * p. 9: changed "Theol" to "Théol" (Hist. Théol. Positive)
@@ -129,6 +130,7 @@ No notes.
 * p. 279: changed "advisible" to "advisable" (if they think it advisable)
 * p. 301: changed "Altkathliusmus" to "Altkatholismus" (Schulte, Der Altkatholismus)
 * p. 315: changed "reponse" to "response" (direct response to the question)
+* p. 316: changed "apearance" to "appearance" (a very different appearance)
 * p. 317: changed "precedure" to "procedure" (of the Roman procedure)
 
 ### HTML file review ###

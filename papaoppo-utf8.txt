@@ -169,7 +169,7 @@ whatever to completeness.
 <sc>Baunard.</sc> <i>Hist. de Card. Pie.</i> 2 vols. Paris. 1886.
 <sc>Bausset</sc>, Card. <i>Histoire de Bossuet.</i> 4 vols.
 <sc>Bellarmine.</sc> <i>De Controversiis.</i> Works. 11 vols. Paris. 1874.
-<sc>Bergier.</sc> <i>Dict. de Theologie.</i> 12 vols. Paris. 1876.
+<sc>Bergier.</sc> <i>Dict. de Théologie.</i> 12 vols. Paris. 1876.
 <sc>Berrington & Kirk.</sc> <i>Faith of Catholics.</i> 1830.
 <sc>Billuart.</sc> <i>De Ecclesia.</i>
 <sc>Bonnechose.</sc> <i>Hist. C. Constance.</i>
@@ -246,7 +246,7 @@ Cambridge Modern History</i>--<i>French Revolution.</i>
 <sc>Irenæus.</sc> Ed. Harvey. 2 vols. 1857.
 
 <sc>Janus.</sc> <i>The Pope and the Council.</i> Rivingtons. 1869.
-<sc>Jerome.</sc> <i>Ad Rufinium. De Script Eccles.</i>
+<sc>Jerome.</sc> <i>Ad Rufinum. De Script Eccles.</i>
 <sc>Jervis.</sc> <i>Hist. Ch. France.</i> 2 vols. 1872.
   "    <i>The Gallican Church and the Revolution.</i> 1882.
 <sc>Jourdain.</sc> <i>Hist. Univ. Paris.</i>
@@ -267,7 +267,7 @@ Cambridge Modern History</i>--<i>French Revolution.</i>
                 the Vatican Council.</i> 1876.
 <sc>Lenormant.</sc> <i>Les Origines de l'Histoire.</i>
 <sc>Leto (Pompanio).</sc> <i>Eight Months at Rome.</i> 1876.
-<sc>Lichtenberger.</sc> <i>Encyclopédie des Sciences Réligieuses.</i> 12 vols.
+<sc>Lichtenberger.</sc> <i>Encyclopédie des Sciences Religieuses.</i> 12 vols.
 <sc>Liddon.</sc> <i>Life of Pusey.</i> 4 vols.
 <sc>Liebermann.</sc> <i>Institutiones Theologicæ.</i> 5 vols. 1831.
 <sc>Luzerne, De</sc>, Card. <i>Works.</i> Migne. 6 vols.
@@ -2204,7 +2204,7 @@ Monothelite."[67]
 
 Hefele also was unable to accept the excuse for this
 language, proposed by Honorius's immediate successor,
-to the effect that, being consulted only on the man-*hood
+to the effect that, being consulted only on the manhood
 of Christ, there was no occasion to speak of
 anything else than the human will. This interpretation
 Hefele characterises as <i>suavior quam verior</i>. For it
@@ -2632,7 +2632,7 @@ to intervene and take steps in behalf of unity. It
 was now <sc>A.D.</sc> 1400. The Avignon line was now
 represented by Peter de Luna, entitled Benedict XIII.;
 the Italian line by Angelo Corario, entitled Gregory XII.
-Christendom was scandalised by their mutual ex-communications.
+Christendom was scandalised by their mutual excommunications.
 
 [Footnote 80: Pastor, i. p. 119.]
 
@@ -4281,7 +4281,7 @@ any ecclesiastical power whatever."[151] And--what now
 particularly concerns us here--they said: "We acknowledge
 no Infallibility in the Pope."
 
-[Footnote 148: <i>See</i> Butler, <i>Historical Memoirs of the English Catholics</i>, vol. ii. p. 115ff.]
+[Footnote 148: See Butler, <i>Historical Memoirs of the English Catholics</i>, vol. ii. p. 115ff.]
 
 [Footnote 149: See Butler, <i>Historical Memoirs of the English Catholics</i>, vol. ii. p. 117.]
 
@@ -4667,7 +4667,7 @@ has any <i>separate personal</i> gift of the infallible guidance
 of the Holy Spirit, but it is given to all collectively
 in order to enable them <i>safely to keep</i> and <i>rightly to
 apprehend</i> the Deposit of Faith.... Now it follows
-from my view that all Catholics--from the Pope down-*wards
+from my view that all Catholics--from the Pope downwards
 to the meanest baptized layman--all are under
 the infallible guidance of the Holy Spirit, as long as
 all, in their respective positions, whether as Teachers
@@ -5171,7 +5171,7 @@ the apologists have, so far as effectiveness is concerned,
 collapsed before it.
 
 /#
-"Investigations have become so impersonal, so colour-*less,
+"Investigations have become so impersonal, so colourless,
 so free from the prepossessions which distort truth,
 from predetermined aims and foregone conclusions, that
 their results can only be met by investigations in which
@@ -5588,7 +5588,7 @@ nothing to say about it. I have ever thought it likely
 to be true, never thought it certain. I think, too, its
 definition inexpedient and unlikely; but I should have
 no difficulty in accepting it, were it made. And I
-don't think my reason will ever go forward or back-*ward
+don't think my reason will ever go forward or backward
 in the matter."[203]
 #/
 
@@ -5640,7 +5640,7 @@ very anxious strain:--
 allowed to make the heart of the just sad, whom the
 Lord hath not made sorrowful? I pray those early
 doctors of the Church whose intercession would decide
-the matter (Augustine, Ambrose,and Jerome; Athanasius,
+the matter (Augustine, Ambrose, and Jerome; Athanasius,
 Chrysostom, and Basil) to avert this great calamity. If
 it is God's will that the Pope's Infallibility be defined,
 then it is God's will to throw back the times and
@@ -5929,7 +5929,7 @@ Assertion--vigorous, uncompromising, sweeping--was
 not only the bent of Manning's disposition; it was
 also cultivated on principle. What the English people
 wanted, according to the Archbishop of Westminster,
-was neither compromise nor accommodation. "Down-*right
+was neither compromise nor accommodation. "Downright
 truth, boldly and broadly stated, like the ring
 of true metal, wins their confidence." When Gladstone
 described him as "the oracle," Manning replied, "He
@@ -7425,7 +7425,7 @@ year, the Bishop selected the following examples:
 Veuillot declared that Ecumenical Councils never had
 so much authority as the Decrees of the Holy See.
 Dupanloup asks whether that applies to the Nicene
-proclamation of the Divinity of Christ. Veuillot mis-*interpreted
+proclamation of the Divinity of Christ. Veuillot misinterpreted
 the text "Lo, I am with you always"--you
 collectively (for it is in the plural) into you singular--that
 is, "you, the Pope." He further declared that when
@@ -7467,7 +7467,7 @@ would have been considered possible in the days when
 I was young.... Of all the strange events which the
 history of the Church presents, I know none which
 equals or surpasses this rapid and complete transformation
-of Catholic France into a vestibule of the ante-*chambers
+of Catholic France into a vestibule of the antechambers
 of the Vatican."[251]
 #/
 
@@ -8116,7 +8116,7 @@ declared that the writers of <i>Janus</i> had excluded all
 possibility of mistake as to whether they were
 Catholics. They had "shown that they are just as
 much and just as little Catholics as are Dean Stanley
-and Professor Jowett." "Janus is an openly anti-*Catholic
+and Professor Jowett." "Janus is an openly anti-Catholic
 writer." The <i>Dublin Review</i> laid it down
 that "the Ultramontane doctrine exhibits certainly
 most singular harmony with the whole past course of
@@ -12160,7 +12160,7 @@ the influence of preconceptions."
 [Footnote 408: Ollivier, i. p. 443.]
 
 3. Gratry may be taken next: Gratry--whose famous
-four letters had focussed[P2**focused] in brilliant light the difficulties,
+four letters had focussed in brilliant light the difficulties,
 the contradictions, the adverse facts, the ignorant
 methods, the falsified documents. Men wondered what
 steps the former priest of the Oratory would now take;
@@ -12976,7 +12976,7 @@ publicly upon a treatise, and afterwards to pronounce it
 heretical, was consistent with the maintenance of an
 unchanged faith. Moreover, if Papal Infallibility had
 been the traditional principle, the entire history of the
-Church must have presented a very different apearance [P2**appearance]
+Church must have presented a very different appearance
 from what it does. Where, he asks, is any faith in
 an infallible Pope exhibited in the Church during the
 Arian struggles? Certainly the Bishops of the Sixth
@@ -13083,7 +13083,7 @@ would require him to refute his lifelong historical teaching.
 He would have to declare that his doctrine hitherto was
 false and perverted. In the face of his public declarations
 no one would believe in the sincerity of his submission.
-All the world would consider the transition a hypo-*critical
+All the world would consider the transition a hypocritical
 instance of convictions denied from fear and
 personal interest. In the terribly painful situation into
 which recent events had brought him, Döllinger asked
@@ -14484,7 +14484,7 @@ importance that they should distinguish sharply the
 Divine from the human element, the objects as to
 which they claimed for the Pope certain Infallibility,
 from those as to which they could not prove that
-he was not fallible. They had to meet numberless[P2**numerous?] historical
+he was not fallible. They had to meet numberless historical
 objections, plausible at least, grounded upon
 the apparent mispronouncements of Popes in <i>materiâ
 fidei</i>, and they dared not undertake the defence of more
@@ -14699,8 +14699,8 @@ to qualify the character of papal decisions. There is
 the doctrine of intention. The Pope, urges Newman,
 
 /#
-"could not fulfil[P2**fulfill] the above conditions of an <i>ex cathedra</i>
-utterance if he did not actually <i>mean</i> to fulfil[P2**fulfill] them....
+"could not fulfil the above conditions of an <i>ex cathedra</i>
+utterance if he did not actually <i>mean</i> to fulfil them....
 What is the worth of a signature if a man does not consider
 what he is signing? The Pope cannot address his
 people East and West, North and South, without meaning
@@ -14828,7 +14828,7 @@ Luther.
 Jansenists--the Bull <i>Unigenitus</i>.
 
 4. The Constitution <i>Auctorem Fidei</i> of Pius VI.
-against the Synod of Pistoia; wherein many pre-*positions
+against the Synod of Pistoia; wherein many pre-positions
 are condemned with various degrees of
 censure.
 
@@ -15139,7 +15139,7 @@ Bertin, 81
 
 Bona, Cardinal, 36
 
-Bossuet, 8, 20 and sqq., 26, 28, 29, 38 and <i>sqq.</i>, 53, 57, 62 and <i>sqq.</i>, 70, 73, 85 and <i>sqq.</i>;
+Bossuet, 8, 20 and <i>sqq.</i>, 26, 28, 29, 38 and <i>sqq.</i>, 53, 57, 62 and <i>sqq.</i>, 70, 73, 85 and <i>sqq.</i>;
   His sermon on Unity, 86 and <i>sqq.</i>;
   <i>Defence of the Declaration</i>, 93 and <i>sqq.</i>;
   <i>Exposition</i>, 96, 107
