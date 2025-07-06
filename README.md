@@ -25,6 +25,7 @@ Book items:
     * also see below review of book numbering layout
 * [ ] p002 and forward, sections i, ii, iii etc are marked up as `/# #/` but really they're hanging-indent section headers? Review the structure of the book to determine if these are h3 or what
 * [ ] again on p023, similar i., ii.
+* [ ] throughout book abbrs like `Dr` and `St` have no `.`; note this when looking for them to add `<abbr>` tags in HTML.
 
 ### Project manager notes ###
 

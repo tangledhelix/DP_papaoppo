@@ -128,10 +128,10 @@ Instructions for `/* */` and `/# #/` blocks:
 ```
 
 ### Apply Scanno Checks
-* [ ] Use `Tools → Stealth Scannos`
-  * [ ] Search based on `en-commn.rc`. Work through the list.
-  * [ ] Search based on `misspelled.rc`. Work through the list.
-  * [ ] Search based on `regex.rc`. Work through the list.
+* [x] Use `Tools → Stealth Scannos`
+  * [x] Search based on `en-common.json`. Work through the list.
+  * [x] Search based on `misspelled.json`. Work through the list.
+  * [x] Search based on `regex.json`. Work through the list.
 * [ ] `Tools → Jeebies`. Examine its report of possible `he/be` errors.
 
 ### Misc checks
