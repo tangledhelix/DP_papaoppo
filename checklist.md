@@ -161,21 +161,21 @@ Instructions for `/* */` and `/# #/` blocks:
 * Work through the list, correcting as appropriate.
 
 ### Apply Spellcheck
-* [ ] Use `Tools → Spelling`. Proceed through the document, correcting words or adding them to the project dictionary as appropriate.
+* [x] Use `Tools → Spelling`. Proceed through the document, correcting words or adding them to the project dictionary as appropriate.
 
 ### Fix Sidenotes
-* [ ] Read the [discussion](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Sidenotes). Step through sidenotes with: Search & Replace of `[S`, not regex, not whole word, ignore case. Click `Search` to find each Sidenote.
+* [x] Read the [discussion](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Sidenotes). Step through sidenotes with: Search & Replace of `[S`, not regex, not whole word, ignore case. Click `Search` to find each Sidenote.
   * Compare to page image. Move note above paragraph if feasible.
   * Otherwise, position it above the sentence to which it applies, with blank lines to prevent rewrapping if you decide that is best.
 
 ### Fix Poetry Line Numbers
-* [ ] If the book has poetry that uses line numbers, read [this page](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Poetry_Line_Numbers) and align the line numbers consistently.
+* [x] If the book has poetry that uses line numbers, read [this page](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Poetry_Line_Numbers) and align the line numbers consistently.
 
-### Consider page numbers and curly quotes
-* [ ] Curly quotes are [recommended](https://www.pgdp.net/phpBB3/viewtopic.php?f=3&t=73290) in both the text and HTML versions. Now is the time to put them in, before the split.
+### Curly quotes
+* [x] Curly quotes are [recommended](https://www.pgdp.net/phpBB3/viewtopic.php?f=3&t=73290) in both the text and HTML versions. Now is the time to put them in, before the split.
     * `Tools → Convert to Curly Quotes`
     * Various fixup tools included on this panel
-* [ ] If needed, validate quotes pairings by searching for `[“”‘’]`
+* [x] If needed, validate quotes pairings by searching for `[“”‘’]`
 
 ### Unicode dashes
 * [ ] Long dash: S/R `([^-])----([^-]|$)` → `$1——$2`
