@@ -149,6 +149,7 @@ Instructions for `/* */` and `/# #/` blocks:
 * [x] Look at `<tb>` and look for improper uses
 * [x] Check all ellipses. Regex: `\.\.\.`
 * [x] Check for 3 dashes (not either 2 or 4). Regex: `[^-]---[^-]`
+* [x] Check for 5 dashes (not either 2 or 4). Regex: `[^-]-----[^-]`
 * [x] Look for spaces around em- or long-dash. Regex: `\s+--(--)?\s+`
 * [x] Check adjacent letters and numbers. Regex: `([0-9][A-Za-z]|[A-Za-z][0-9])`
 * [x] Superscripts (search `^` without regex). Can use `^` or `^{th}` form
@@ -177,17 +178,14 @@ Instructions for `/* */` and `/# #/` blocks:
     * Various fixup tools included on this panel
 * [x] If needed, validate quotes pairings by searching for `[“”‘’]`
 
-### Unicode dashes
-* [ ] Long dash: S/R `([^-])----([^-]|$)` → `$1——$2`
-  * There exists a “long dash” Unicode character (TWO-EM DASH, U+2E3A). However, display support for it is not broad, so it’s better to use two consecutive EM DASH, which is widely supported.
-* [ ] Em dash: S/R `([^-])--([^-]|$)` → `$1—$2`
-  * There exists another dash (HORIZONTAL BAR, U+2015) which one PM/PP prefers to EM DASH (using two bars for one EM DASH), based on appearance in text version. I opted not to use this in favor of using the EM DASH character in both text and HTML.
-* [ ] [En dash](https://www.pgdp.net/wiki/En-dash): S/R `([^-])-([^-]|$)` → `$1–$2`
+### Unicode EN dashes
+For now, process only EN dash. The EM dash and long dash (2x EM) are left for after the text/html split.
+* [x] [En dash](https://www.pgdp.net/wiki/En-dash): S/R `([^-])-([^-]|$)` → `\1–\2`
   * Range of numbers `12–15`
   * Mathematical minus sign `15 – 12 = 3`
   * Negative numbers `–14º`
   * **Do not** use en-dash for fractions like `1-1/2` (or Convert Fractions function will be confused)
-* Any dashes not covered above are simple hyphens.
+* Any single dashes not covered above are simple hyphens.
 
 ### Last pre-split check
 * [ ] Look at the revisit list for anything to handle before text/html split
@@ -263,6 +261,16 @@ p. 123: changed “foo” to “fool” (the fool and his money)
 
 ## Prepare the HTML Version
 Finally, we create an HTML version of the book.
+
+### Convert EM and LONG dashes to UTF8
+Earlier, EN dashes were converted. That's done before the split for both versions. The EM and LONG dash conversions are left for HTML only, because the EM dash character displays as a fixed width for most readers of the text file. There have been differences of opinion about this matter, but I'm sticking to `--`, `----` in the text unless PG stops accepting it.
+
+References: ([p1347865](https://www.pgdp.net/phpBB3/viewtopic.php?p=1347865#p1347865)), ([p1179008](https://www.pgdp.net/phpBB3/viewtopic.php?p=1179008#p1179008))
+
+* [ ] Long dash: S/R `([^-])----([^-]|$)` → `$1——$2`
+  * There exists a “long dash” Unicode character (TWO-EM DASH, U+2E3A). However, display support for it is not broad, so it’s better to use two consecutive EM DASH, which is widely supported.
+* [ ] Em dash: S/R `([^-])--([^-]|$)` → `$1—$2`
+  * There exists another dash (HORIZONTAL BAR, U+2015) which one PM/PP prefers to EM DASH (using two bars for one EM DASH), based on appearance in text version. I opted not to use this in favor of using the EM DASH character in both text and HTML.
 
 ### Generate the HTML
 * [ ] Open `papaoppo.html` that was saved previously.
