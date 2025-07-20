@@ -197,7 +197,7 @@ Cambridge Modern History</i>--<i>French Revolution.</i>
       "     . <i>Declarations and Letters.</i>
 <sc>Duchesne.</sc> <i>Beginnings of the Temporal Power of the Pope.</i> 1908.
 <sc>Dupanloup.</sc> <i>Observations.</i> 1869.
-    "     . <i>Lettre sur le futur Concile Œcuménique addressée par Mgr.
+    "     . <i>Lettre sur le futur Concile Œcuménique adressée par Mgr.
             L'Évêque d'Orléans au clergé de son Diocese.</i> 1868.
     "     . See Chapon. <i>Mgr. Dupanloup et la Liberté.</i> 1889.
             and <i>Revue du Clergé Français</i>. 1st May 1909, p. 375.
@@ -225,7 +225,7 @@ Cambridge Modern History</i>--<i>French Revolution.</i>
 <sc>Granderath.</sc> <i>Vatican Council.</i> 3 vols.
 <sc>Gratry.</sc> <i>Letters.</i>
 <sc>Gregorovius.</sc> <i>Roman Journals.</i>
-<sc>Grisar.</sc> <i>Lainez-Disputationes Tridentince.</i> 2 vols. 1886.
+<sc>Grisar.</sc> <i>Lainez-Disputationes Tridentinae.</i> 2 vols. 1886.
 <sc>Gueranger.</sc> <i>De la Monarchie Pontificate.</i> 1870.
 <sc>Guettée.</sc> <i>Histoire de l'Eglise de France.</i> 12 vols. 1856.
 <sc>Guillermin.</sc> <i>Vie de Mgr. Darboy.</i> 1888.
@@ -5472,7 +5472,7 @@ when the present tyranny of ignorance should be overpast,
 is worthy of all regard. The dignified surrender,
 coupled with frank reassertion of unaltered conviction,
 is most significant. He bows to an authority which
-has trangressed its limits, and which rejects to-day
+has transgressed its limits, and which rejects to-day
 what it must of necessity at length believe. His
 theory that the truth must pervade and possess the
 members in order that it may reach the head, must
@@ -12401,7 +12401,7 @@ to be accepted." The greater number of the Bishops,
 some to the Archbishop's surprise, had already yielded
 assent. As for himself--
 
-[Footnote 416: Schulte, <i>Der Altkatholismus</i>, p. 267.]
+[Footnote 416: Schulte, <i>Der Altkatholicismus</i>, p. 267.]
 
 /#
 "I could not defend the Council or its action; but
