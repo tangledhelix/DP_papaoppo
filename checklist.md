@@ -210,16 +210,18 @@ We now proceed to create a Plain Text Version of the book.
 ### Fix ASCII Tables
 **Pending implementation in GG2**
 
-* [ ] Use `Search → Find Next /**/ Block` to step through all tabular material.
+* [x] Search for `/*` (no regex) and step through any tables
   * Compare to page image; reformat to best convey author intent.
   * For complex tables, try using `Txt → ASCII Table Effects` to reformat?
-* [ ] Try this regex to validate that all border characters were replace with box drawing `[=+|-]`
+* [x] Try this regex to validate that all border characters were replace with box drawing `[=+|-]`
 
 ### Rewrap and Clear Rewrap Markers
-* [ ] Save the file if any unsaved changes.
-* [ ] `Tools → Rewrap All`.
-* [ ] Page through entire text, looking for improper indentation. If found, re-open, clicking NO when asked if you want to save the edits. Find and fix broken rewrap markups. Repeat `Tools → Rewrap All`.
+* [x] Search for `^/[*$pcrflxi]` (regex, no match-case) and make any desired [rewrap marker](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) changes before wrapping
+* [x] Save the file if any unsaved changes.
+* [x] `Tools → Rewrap All`.
+* [x] Page through entire text, looking for improper indentation. If found, re-open, clicking NO when asked if you want to save the edits. Find and fix broken rewrap markups. Repeat `Tools → Rewrap All`.
 * [ ] Under `Tools → Footnote Fixup`, use `Tidy Footnotes`.
+------------------- this next item needs work
 * [ ] `Tools → Clean Up Rewrap Markers`.
 * [ ] Rerun Bookloupe or pptext. Resolve any new issues.
 

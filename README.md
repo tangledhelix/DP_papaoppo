@@ -27,7 +27,8 @@ Book items:
     * again on p023, similar i., ii.
     * Looking at Chapter I, sec. i., ii., etc, are they h3? They seem to be formatted as hanging indent, so far. The output from the rounds left them as blockquote-rewrap.
 * [ ] throughout book abbrs like `Dr` and `St` have no `.`; note this when looking for them to add `<abbr>` tags in HTML.
-* [ ] Chapter I, sections i - iv are hanging indent format
+* [x] (TEXT) Chapter I, sections i - iv are hanging indent format
+* [ ] (HTML) Chapter I, sections i - iv are hanging indent format
 
 ### Project manager notes ###
 
