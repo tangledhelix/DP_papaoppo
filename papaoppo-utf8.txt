@@ -2,15 +2,12 @@
 
 
 
-/C
                       ROMAN CATHOLIC OPPOSITION TO
                            PAPAL INFALLIBILITY
-C/
 
 
 
 
-/C
                              ROMAN CATHOLIC
                               OPPOSITION TO
                            PAPAL INFALLIBILITY
@@ -23,7 +20,6 @@ C/
                                  LONDON
                     JOHN MURRAY, ALBEMARLE STREET, W.
                                   1909
-C/
 
 
 
@@ -133,7 +129,6 @@ editions to which references have been made, and partly as a help
 to study. It is, of course, needless to say that such a list has no
 pretensions whatever to completeness.
 
-/*
   ACTA. _Concil. Vaticani. Collectio Lacensis._ T. vii. 1892.
   ACTON. _History of Freedom._
     ”    _Sendschreiben an einen Deutschen Bischof._ 1870.
@@ -330,7 +325,6 @@ pretensions whatever to completeness.
     ”  (W. G.). _Essays on the Church’s Doctrinal Authority._
   WATERWORTH. _Council of Trent._ 1848.
   WORDSWORTH, CH. _Miscellanies._ 3 vols. 1879.
-*/
 
 
 
@@ -338,7 +332,6 @@ pretensions whatever to completeness.
                                 CONTENTS
 
 
-/$
                                                         PAGE
 
       I. THE EVIDENCE OF SCRIPTURE                         1
@@ -383,7 +376,6 @@ pretensions whatever to completeness.
      XX. WHERE ARE THE INFALLIBLE DECISIONS?             356
 
          INDEX                                           371
-$/
 
 
 
@@ -725,7 +717,6 @@ their opponents employed them.
 
 1. A crucial instance is the famous language of St Irenæus:--
 
-/#
   “It is within the power of all, who may wish to see the truth,
   to contemplate clearly the tradition of the Apostles manifested
   throughout the world in every Church; and we are able to enumerate
@@ -748,7 +739,6 @@ their opponents employed them.
   faithful who are from all quarters; and in this Church the tradition,
   which comes from the Apostles, has ever been preserved by those who
   are from all quarters.”[14]
-#/
 
 [14] St Irenæus, III. iii. pp. 1–2, trans. F. Puller, p. 20.
 
@@ -770,13 +760,11 @@ error or misleading.[16] What else is this but infallible authority?[17]
 
 On the other side a Roman historian of dogmas writes:--
 
-/#
   “Irenæus was not contemplating the case of contradictions between
   churches founded by the Apostles.... There existed at that period
   complete agreement in faith and doctrine. Consequently, the Fathers
   had no cause to consider a case of disagreement between Apostolic
   churches.”[18]
-#/
 
 [18] Schwane, _Histoire du Dogme_, i. p. 667.
 
@@ -798,7 +786,6 @@ underlines the statement which shows that the principle which this
 primitive writer considers Catholic is an appeal to the ancient
 Churches (plural) and by no means exclusive appeal to one.
 
-/#
   “... It is not then necessary to seek elsewhere the truth, since it
   is easily found _in the Church, the Apostles_ having made _of the
   Church_ a rich bank, in which they have amassed all the treasures of
@@ -809,13 +796,11 @@ Churches (plural) and by no means exclusive appeal to one.
   Apostoli conversati sunt_) in which the Apostles themselves have
   lived, and learn from them immediately what is certain and clear upon
   the question?”[20]
-#/
 
 [20] Gratry’s second letter.
 
 Upon this passage Gratry observes:--
 
-/#
   “The reader has here before him the whole doctrine of St Irenæus upon
   this subject. This doctrine is perfectly clear. It is almost the same
   as that of Tertullian, who says: ‘Run over the Apostolic Churches,
@@ -826,7 +811,6 @@ Upon this passage Gratry observes:--
   near Macedonia? Thou hast Philippi; thou hast the Thessalonians. If
   thou canst travel into Asia, thou hast Ephesus. If thou art near to
   Italy, thou hast Rome, where we can find also authority at hand.’”
-#/
 
 The thesis of St Irenæus, adds Gratry, is this:--We must bring back
 heretics “to the tradition of the Apostles, which, by their successors,
@@ -840,7 +824,6 @@ owing to controversies on the actual text. We can only set down the
 chief passage and afterwards indicate the use made of his principles by
 Roman opponents of Infallibility.
 
-/#
   “And although after His resurrection He assigns equal power to all
   His Apostles, ... nevertheless, in order to make the unity manifest,
   He _established one Chair and_ by His own authority appointed the
@@ -855,7 +838,6 @@ Roman opponents of Infallibility.
   He, who strives and rebels against the Church, _he who deserts the
   Chair of Peter on which the Church was founded_, does he trust that
   he is in the Church?”[21]
-#/
 
 [21] Cyprian, _De Unit._ 4.
 
@@ -897,7 +879,6 @@ And this is the principle upon which Cyprian acts. After assembling the
 local Bishops and forming their own decision, Cyprian wrote to Stephen,
 Bishop of Rome, in the following terms:--
 
-/#
   “These considerations, dear brother, we bring home to your conscience
   out of regard to the office we hold in common, and to the simple
   love we bear you. We believe that you, too, from the reality of
@@ -910,14 +891,12 @@ Bishop of Rome, in the following terms:--
   administration of the Church each several prelate has the free
   discretion of his own will--having to account to the Lord for his
   action.”[25]
-#/
 
 [25] _Ep._ xlvii. 3.
 
 Quoting Cyprian’s own words St Augustine repeats the passage from a
 letter:--
 
-/#
   “For neither did Peter whom the Lord chose first, and on whom He
   built His Church, when Paul afterwards disputed with him about
   circumcision, claim or assume anything and arrogantly to himself,
@@ -929,13 +908,11 @@ letter:--
   not pertinaciously love our own opinions, but should rather account
   as our own any true and rightful suggestions of our brethren and
   colleagues for the common health and weal.”[26]
-#/
 
 [26] Cyprian, _Ep._ lxxi.
 
 Upon this Augustine’s comment is:--
 
-/#
   “Here is a passage in which Cyprian records what we also learn in
   Holy Scripture, that the Apostle Peter, in whom the primacy of the
   Apostles shines with such exceeding grace, was corrected by the later
@@ -964,7 +941,6 @@ Upon this Augustine’s comment is:--
   holy and peaceful a soul would have been more ready to assent to the
   arguments of any single person who could prove to him the truth; and
   perhaps he even did so, though we have no knowledge of the fact.”[28]
-#/
 
 [27] Augustine, _De Baptismo_, II. i. 2.
 
@@ -985,7 +961,6 @@ refused to submit to the judgment of his superior.
 Archbishop Kenrick’s dogmatic inference from these facts in the Vatican
 Council was as follows:--
 
-/#
   “When Cyprian, Bishop of Carthage, held mistaken views as to the
   rebaptism of heretics upon their return to the Church, and had
   strenuously defended them against the Roman Pontiff Stephen,
@@ -998,7 +973,6 @@ Council was as follows:--
   doctrine of Pontifical Infallibility. Had he acknowledged it, it must
   have followed that Cyprian was not only indefensible for his conduct,
   but had actually incurred condemnation for heresy.”
-#/
 
        *       *       *       *       *
 
@@ -1006,11 +980,9 @@ Council was as follows:--
 often quoted in behalf of papal inerrancy than that in which, referring
 to the Pelagian controversy, he says:--
 
-/#
   “Already on this matter two Councils have sent to the Apostolic See,
   whence also answers have been received. The cause is finished, would
   that the error were also finished.”[29]
-#/
 
 [29] St Aug. Serm. cxxii. Gaume, v. 930.
 
@@ -1029,12 +1001,10 @@ Pope Innocent’s reply to the African Bishops as an exercise of
 Infallibility. Thus Augustine’s criticism is no evidence of his belief
 in Innocent’s inerrancy.
 
-/#
   “St Augustine and all his century,” says a Bishop of the Roman
   Church, “like the centuries before him, placed the supreme authority,
   the authority which cannot fail, not in the Pope alone, but in the
   Pope and the Episcopate.”[32]
-#/
 
 [32] Maret, i. p. 161.
 
@@ -1044,7 +1014,6 @@ the Vatican struggle. They assigned to St Augustine the statement:
 Augustine’s sentiments were commonly quoted for centuries. Gratry’s
 criticism upon it represents the opposition.
 
-/#
   “Rome has spoken, the cause is finished. It is certain that this
   formula of St Augustine possesses something decisive and absolute
   about it like an axiom. It says everything. ‘Rome has spoken, the
@@ -1053,7 +1022,6 @@ criticism upon it represents the opposition.
 
   “But the objection to this is that St Augustine never said that at
   all.”
-#/
 
 Gratry then quotes the passage as it actually occurs. To Gratry’s mind
 the real words do not even imply that the judgment of Rome by itself is
@@ -1065,21 +1033,17 @@ everything; while the misquoted formula does.[33]
 
 4. Constantly appealed to again are the words of St Jerome.
 
-/#
   “I know that the Roman faith praised by the Apostle’s voice does not
   accept suggestion of such a kind. Although an angel taught otherwise
   than that which has been once proclaimed, strengthened by the
   authority of St Paul, it could not change.”[34]
-#/
 
 [34] _Ad Rufinum_, ii.
 
-/#
   “Upon this rock I know that the Church is builded. I entreat you,
   authorise me by your letters either to assert or not to assert three
   substances. I shall not fear to assert three substances if you order
   me.”[35]
-#/
 
 [35] _Ep. ad Damasum_, ii. p. 131.
 
@@ -1102,14 +1066,12 @@ misguided?
 
 5. Another example is the striking utterance of Pope Gelasius.
 
-/#
   “This it is against which the Apostolic See is greatly on its
   guard, that the glorious confession of the Apostle, since it is the
   security of the world, should not be defiled by the least error
   or contagion.[38] For if--which God avert, and we trust cannot
   happen--such a misfortune should occur, how could we venture to
   resist any error, or how should we be able to correct the wandering?”
-#/
 
 [38] Bossuet, xxii. p. 277.
 
@@ -1152,7 +1114,6 @@ the famous Canon of St Vincent of Lerins. We propose to summarise his
 principles, and then to record their controversial use within the Roman
 Communion.
 
-/#
   “Moreover, in the Catholic Church itself all possible care must be
   taken that we hold that faith which has been believed everywhere
   always by all. For that is truly and in the strictest sense Catholic,
@@ -1167,7 +1128,6 @@ Communion.
   fathers; consent, in like manner, if in antiquity itself we adhere
   to the consentient definitions and determinations of all, or at least
   of almost all priests and doctors.”[40]
-#/
 
 [40] _Commonitorium_, ii.
 
@@ -1212,7 +1172,6 @@ Universal Church. His famous often quoted words must be quoted once
 again, for it would be impossible to express his theory in better terms
 than his own.
 
-/#
   “Keep the Deposit. What is the Deposit? That which has been entrusted
   to thee, not that which thou hast thyself devised: a matter not of
   wit but of learning; not of private adoption but of public tradition;
@@ -1224,7 +1183,6 @@ than his own.
   what antiquity venerated without understanding. Yet teach still the
   same truths which thou hast learned, so that while thou speakest
   newly, thou speakest not what is new.”
-#/
 
 Nothing can be stronger than St Vincent’s sense of the substantial
 immutability of the Faith. Nor is there any finer exposition than his
@@ -1293,7 +1251,6 @@ principles of St Vincent can never legitimately issue in a system of
 absolute Infallibility and monarchy of each individual Pope. Bishop
 Hefele said that
 
-/#
   “when differences on matters of faith arose in the primitive Church
   appeal was made to the Apostolic Churches, Rome, Alexandria, Antioch;
   and that only was dogmatically propounded to the faithful, which was
@@ -1301,7 +1258,6 @@ Hefele said that
   infallible decision of controversies could be obtained by any shorter
   method at the hands of any single individual. On the contrary,
   Vincent said, let us follow universality, antiquity, consent.”[43]
-#/
 
 [43] Friedrich, _Documenta_, ii. p. 121.
 
@@ -1318,7 +1274,6 @@ be infallible without the consent of the episcopate.
 More emphatic still was the statement of the American Archbishop
 Kenrick:--
 
-/#
   “The famous writer, Vincent of Lerins, in his golden treatise the
   _Commonitorium_, which has been highly esteemed for the last fourteen
   centuries ... gives the rule by which a believer should guide himself
@@ -1330,19 +1285,16 @@ Kenrick:--
   to the Pontifical Party, instantly determines all controversies
   of faith. This theory assuredly Vincent never heard of. And his
   contemporaries entirely agreed with him.”
-#/
 
 The authors of Janus made an equally strong appeal to St Vincent of
 Lerins.
 
-/#
   “If the view of Roman Infallibility had existed anywhere in the
   Church at that time, it could not have been possibly passed over
   in a book exclusively concerned with the question of the means for
   ascertaining the genuine Christian doctrine. But the author keeps to
   the three notes of universality, permanence, and consent, and to the
   Ecumenical Councils.”[44]
-#/
 
 [44] Janus, p. 89.
 
@@ -1411,7 +1363,6 @@ The impression made upon a Roman writer by Roman research for proof of
 Infallibility in the writings of the Fathers may be gathered from the
 following significant passage:
 
-/#
   “To sum up. The defenders of the dogma of Infallibility discover
   valuable hints in history. But they also encounter difficulties.
   After systematising against the Gallican School the grounds of their
@@ -1423,7 +1374,6 @@ following significant passage:
   all, from Popes themselves who were not always at the level required
   of their mission, and at times allowed themselves to be ensnared with
   error.”[49]
-#/
 
 [49] Tunnel, _Hist. Théol. Positive_, p. 309.
 
@@ -1549,7 +1499,6 @@ Constantinople. After reading the letter of Sergius to Pope Honorius
 and that of Honorius to Sergius, the Council pronounced judgment in the
 following terms:--
 
-/#
   “We find that these documents are quite foreign to the Apostolic
   dogmas, also to the declarations of the holy Councils, and all the
   Fathers of repute; therefore we entirely reject them, and execrate
@@ -1561,7 +1510,6 @@ following terms:--
   anathematised Honorius, formerly Pope of Old Rome, because we found
   in his letter to Sergius that in all respects he followed his view
   and confirmed his impious doctrines.”
-#/
 
 This conclusion was followed up by burning the heretical letters,
 including that of Pope Honorius. It is significant that when the
@@ -1607,13 +1555,11 @@ by the liturgical writer, Cardinal Bona:[53]--
 
 [53] _Ibid_. cxiii.
 
-/#
   “Since in the Profession of Faith by the Pope elect, P. Honorius is
   condemned as having given encouragement to the depraved assertions
   of heretics--if these words actually occur in the original and there
   is no obvious means of remedying such a wound--it is better that the
   work should not be published--_præstat non divulgari opus_.”[54]
-#/
 
 [54] _Ibid_. cxiii.
 
@@ -1622,7 +1568,6 @@ Such was Cardinal Bona’s opinion and advice.
 Another learned writer, P. Sirmond, in a letter to Holstein, expressed
 himself with still more remarkable frankness:--
 
-/#
   “It appears to me not so astonishing,” said Sirmond, “that the
   Greek Monothelites should attempt to identify Honorius with their
   error, as it seems extraordinary that the Romans themselves, in the
@@ -1633,7 +1578,6 @@ himself with still more remarkable frankness:--
   of Faith, as I found it among the ancient formulas of the Roman
   Church. And this is the only reason which deterred me from producing
   an edition of it, notwithstanding my promise to Cardinal S.”[55]
-#/
 
 [55] Rosière, cxiv.
 
@@ -1736,13 +1680,11 @@ have been few in number and authority.
 
 [62] Turmel, _Hist. Théol. Positive_, p. 76.
 
-/#
   “To allow that a Pope had been solemnly charged with heresy even as
   a private doctor was too much for the infallibilists. On the other
   hand, the Gallicans could not forget Bossuet’s retort. ‘When can a
   Pope have cause to speak _ex cathedra_ if not when consulted by the
   entire East?’”[63]
-#/
 
 [63] Turmel, _Hist. Théol. Positive_, p. 317.
 
@@ -1898,12 +1840,10 @@ by the Vatican Council. After recalling the association of Honorius
 with Sergius and others, and the exact language of the condemnation,
 Hefele says:--
 
-/#
   “From all this it cannot be doubtful in what sense Pope Honorius was
   anathematised by the Sixth Ecumenical Council, and it is equally
   beyond doubt that the Council judged much more severely respecting
   him than we have done.”[69]
-#/
 
 [69] _History of the Councils_, p. 184.
 
@@ -2106,12 +2046,10 @@ mutually supporting.
 
 Elsewhere Aquinas says:--
 
-/#
   “If any one rejected a decision after it had been made by the
   authority of Universal Church, he would be considered a heretic.
   And that authority chiefly [principaliter] resides in the Supreme
   Pontiff.”[75]
-#/
 
 [75] _Summa_, 2, 2, Q. 11, a, 2, ad. 3.
 
@@ -2248,7 +2186,6 @@ authority.[84] A recent historian of the Papacy says:--
 
 [84] _Ibid._ ii. p. 325.
 
-/#
   “The amount of evil wrought by the Schism of 1378, the longest known
   in the history of the Papacy, can only be estimated when we reflect
   that it occurred at a moment when thorough reform in ecclesiastical
@@ -2262,7 +2199,6 @@ authority.[84] A recent historian of the Papacy says:--
   See to its very foundations. It may truly be said that these fifty
   years of Schism prepared the way for the great Apostasy of the
   sixteenth century.”[85]
-#/
 
 [85] Pastor, i. p. 142.
 
@@ -2358,7 +2294,6 @@ the Catholic Church, having its power direct from Jesus Christ.
 Accordingly, to its decision in matters of faith as well as in other
 things, persons of whatever rank, including papal, are subordinate.
 
-/#
   “This holy Synod of Constance, being a General Council, lawfully
   assembled in the Holy Spirit, and representing the Church militant,
   has received immediately from Jesus Christ a power to which all
@@ -2366,15 +2301,12 @@ things, persons of whatever rank, including papal, are subordinate.
   himself, are bound to submit in those matters which concern the
   faith; the extirpation of the existing Schism; and the reformation of
   the Church in its head and its members.”
-#/
 
-/#
   “Whosoever, be his dignity what it may, without excepting the Pope,
   shall obstinately refuse to obey the statutes, ordinances, and
   precepts of the present Council, or of any other General Council
   lawfully assembled, shall be subjected, unless he repent, to
   proportionate penance, and punished according to his deserts” (etc.).
-#/
 
 2. So far, then, for the details of history. We are next to follow
 the criticisms of theological schools within the Roman Communion upon
@@ -2500,7 +2432,6 @@ were elsewhere. Pope Hadrian VI. was successor to Leo X. As Professor
 of Theology at Louvain, he published the following observations on
 Infallibility:--
 
-/#
   “If by the Roman Church is understood its head, that is the Pope, it
   is certain that it can err, even in those matters which concern the
   Faith, by publishing heresy in its decisions and decrees. For many
@@ -2508,7 +2439,6 @@ Infallibility:--
   that Pope John XXII. publicly taught, declared, and commanded to be
   believed by all, that purified souls do not have the clear vision of
   God before the Final Judgment.”
-#/
 
 Bossuet calls the reader’s attention to Pope Hadrian’s view of the
 Papacy.[92] How clearly he taught, and held as indisputable, that the
@@ -2626,13 +2556,11 @@ left the Council with all the French contingent and returned to France.
 Cardinal de Lorraine made no secret of his adherence to the principles
 of the French Church.
 
-/#
   “I am a Gallican,” he said in a letter to Rome, “brought up in the
   University of Paris, in which the authority of a General Council is
   esteemed superior to that of a Pope, and they who hold the contrary
   are condemned as heretics. In France the Council of Constance is
   throughout considered Ecumenical.”[93]
-#/
 
 [93] Richerius, _Vindiciæ Gall._ p. 13.
 
@@ -2829,12 +2757,10 @@ of Papal Infallibility.
 
 [98] Ghilardi, _De Plenitudine Potestatis, R.P._ p. 15.
 
-/#
   “Infallibility of the Pope,” says Schwane, “could not be passed
   over in silence by a papal theologian as eminent as Torquemada.
   Nevertheless, he has not realised this doctrine in all its
   purity.”[99]
-#/
 
 [99] _Hist. Dogm._, v. p. 377.
 
@@ -2981,11 +2907,9 @@ his real convictions.
 
 [104] Richerius, _Vindiciæ Doctrinæ Majorum_, p. 2.
 
-/#
   “I, Edmond Richer ... in the 53 year of my life ... seated in my
   library, sound in body and mind, write this latin codicil in the form
   of a Testament.”[105]
-#/
 
 [105] _Ibid._ p. 11.
 
@@ -3036,7 +2960,6 @@ Florence, because Greek and Latin were therein met in conclave.
 
 [110] Ed. Sebastian Brunner, 1857, p. 145.
 
-/#
   “Accordingly,” Veron’s conclusion is that, “it is not of faith
   that the Roman Pontiff, in his teaching, whether in a particular
   Council, or in a Provincial Synod, even if he address the Universal
@@ -3045,7 +2968,6 @@ Florence, because Greek and Latin were therein met in conclave.
   of controversies, or is infallible; nor that what is so defined is
   of faith, unless the conviction of the Universal Church otherwise
   declare it.”[111]
-#/
 
 [111] _Veron. Regula Fidei._ Ed. Sebastian Brunner, 1857, p. 146.
 
@@ -3170,7 +3092,6 @@ Roman See.
 
 On the relation of the temporal to the spiritual power Bossuet said:--
 
-/#
   “Woe to the Church when these two jurisdictions begin to regard each
   other with a jealous eye.[122] Ministers of the Church and ministers
   of kings are both alike ministers of the King of kings, although
@@ -3179,7 +3100,6 @@ On the relation of the temporal to the spiritual power Bossuet said:--
   State is to serve God? But authority is blind; authority ever aims
   at exalting itself, at extending itself; authority considers itself
   degraded when reminded of its limitations.”
-#/
 
 [122] Bossuet, t. xi. p. 623.
 
@@ -3189,7 +3109,6 @@ Crown and the Episcopate. It remained to be seen how the sermon would
 be regarded at Rome. Bossuet sent the sermon with an explanatory letter
 to a friendly Cardinal.
 
-/#
   “I must tell your Eminence,” he wrote, “that I was forced to speak of
   the liberties of the Gallican Church. You will at once realise what
   that involved. I set before myself two things--the one, to do this
@@ -3208,7 +3127,6 @@ to a friendly Cardinal.
   offending the majesty of Rome. More than this cannot be expected of
   a Gallican Bishop whom circumstances compel to deal with points like
   these.”[124]
-#/
 
 [123] _Ibid._ p. 291.
 
@@ -3251,12 +3169,10 @@ Council remain in full force in Christendom.
 
 4. That the decisions of the Pope are not infallible.
 
-/#
   “The Pope has the principal place in deciding questions of faith,
   and his decrees extend to every Church and all Churches; but,
   nevertheless, his judgment is not irreversible, until confirmed by
   the consent of the Church.”
-#/
 
 Here, then, is the essential point on the subject of Infallibility.
 It resides in the Universal Church, and not in the occupant of a
@@ -3286,11 +3202,9 @@ Arnauld:
 
 [129] Jervis, _Gallican Ch._ ii. p. 52.
 
-/#
   “I pity the Holy See for possessing such defenders. It is a terrible
   judgment of God upon the Church if Rome adopts such methods of
   defence against the Bishops of France.”[130]
-#/
 
 [130] Guettée, xi. p. 87.
 
@@ -3300,16 +3214,13 @@ the probable action of the Pope.
 Bossuet expressed himself very freely on the situation in a letter to
 the Monastery of La Trappe:--
 
-/#
   “The affairs of the Church are in an evil plight. The Pope
   openly threatens us with denunciations and even with new
   Decrees. Well-intentioned mediocrity in high places is a grave
   misfortune.”[131]
-#/
 
 [131] Bossuet, Letter 110, t. xxvi. p. 313.
 
-/#
   “Your letter,” wrote Bossuet to another correspondent, “presents a
   picture of the present state of the Roman Court which positively
   alarms me. Does Bellarmine really hold the chief place there? Has he
@@ -3330,7 +3241,6 @@ the Monastery of La Trappe:--
   been falsified? Will the Church, which has hitherto silenced heresy
   with solid reasons, have no better defence than these pitiful
   prevarications? May God preserve us from it.”[132]
-#/
 
 [132] Bossuet’s letter to M. Dirois.
 
@@ -3390,7 +3300,6 @@ Now the special interest is that this _Defence of the_ Gallican
 _Declaration_ was never condemned at Rome. Here is what Pope Benedict
 XIV., 1748, said about it:--
 
-/#
   “In the time of our immediate predecessor, Clement XII., it was
   seriously debated whether this work ought not to be proscribed; but
   it was finally determined that no censure should be passed upon
@@ -3398,14 +3307,12 @@ XIV., 1748, said about it:--
   author’s memory, who in other respects so worthily served the cause
   of religion, but also out of just apprehension of provoking fresh
   dissertations and renewing the dispute.”[135]
-#/
 
 [135] Jervis, _Church of France_, ii. p. 59.
 
 A striking testimony to the powerful effect of Bossuet’s treatise when
 it first appeared is that of his learned opponent, Cardinal Orsi:--
 
-/#
   “I have heard, not only at Rome, but also in many other places,
   a great many persons, distinguished alike for their character,
   learning, and ability, declare, after careful study of this work of
@@ -3414,7 +3321,6 @@ it first appeared is that of his learned opponent, Cardinal Orsi:--
   it frankly, since they do not see what answer they can make with any
   prospect of success to the historical evidence which Bossuet has
   collected.”[136]
-#/
 
 [136] Bausset, ii. p. 427. Orsi, _De irref. R. P. jud._ Preface t. i. d.
 
@@ -3455,7 +3361,6 @@ of the principles of the Church in France. The ultimate and therefore
 irreversible decision in faith depended on the Collective Episcopate,
 and on that only; as voicing the belief of the Universal Church.
 
-/#
   “What benefit to the Church,” he exclaims in a striking passage,
   “can exist in that doubtful authority, which the Church has not
   yet affirmed, of a Pope’s _ex cathedra_ decisions? We live in the
@@ -3475,7 +3380,6 @@ and on that only; as voicing the belief of the Universal Church.
   would have revealed it to His Church from the very beginning. He
   would not have left it doubtful, inadequately revealed, nor useless
   for want of an indisputable tradition.”[140]
-#/
 
 [140] Bossuet, t. xxi. p. 129.
 
@@ -3535,7 +3439,6 @@ The struggle of Catholic _versus_ Ultramontane in the Roman Communion
 in England finds forcible expression in the famous letter of the
 distinguished Roman Catholic layman, Sir John Throgmorton, in 1790:--
 
-/#
   “He laid stress,” says a Roman writer, “on the fact that ever since
   the day of Pius V.’s excommunication of Elizabeth, ‘the English
   Catholics have been divided into two parties. The “Papistic” party,
@@ -3553,7 +3456,6 @@ distinguished Roman Catholic layman, Sir John Throgmorton, in 1790:--
   Infallibility of the Pope and urged all his claims. He called on
   English Catholics to dissociate themselves from this party and its
   teaching.”[146]
-#/
 
 [146] Quoted in W. Ward’s _Life of Wiseman_, i. p. 513.
 
@@ -3659,12 +3561,10 @@ believe or profess that the Pope is infallible.’”[158]
 No less unmistakable is the language of a Roman Catholic Bishop in
 England in 1822:--
 
-/#
   “Bellarmine and some other divines, chiefly Italians, have believed
   the Pope infallible, when proposing _ex cathedra_ an article of
   faith. But in England or Ireland I do not believe that any Catholic
   maintains the Infallibility of the Pope.”[159]
-#/
 
 [159] Bishop Baine’s Defence, quoted in Gladstone, _Vaticanism_, p. 48.
 
@@ -3729,12 +3629,10 @@ influential quarters in Rome:--
 
 [165] _Ibid._ p. 223.
 
-/#
   “I can say that you have been the instrument under God, to _Romanise_
   England.... You have been able to change the whole feeling of the
   rising clergy, and to instil into the laity what Roman principles
   they possess.”[166]
-#/
 
 [166] 1859.
 
@@ -3774,24 +3672,20 @@ Errington was their greatest fear.
 
 [170] _Ibid._ p. 332.
 
-/#
   “I cannot conceive a greater misfortune,” wrote a high authority from
   Rome to Cardinal Wiseman, “than your being followed by Dr Errington,
   who, I feel certain, if he ever become Archbishop of Westminster,
   will do all he can to undo what has been done, and will be a
   constant source of annoyance to the Holy See.”[171]
-#/
 
 [171] _Life of Wiseman_, p. 331.
 
 Father Faber wrote in similar strains:--
 
-/#
   “If [Dr Errington] returns to Westminster as Archbishop, the Holy See
   will have to reckon that it will take fifty, if not a hundred, years
   to restore England to the pitch of Ultramontanism which she has now
   reached.”[172]
-#/
 
 [172] _Ibid._ p. 370.
 
@@ -3809,7 +3703,6 @@ afterwards in the Vatican Council. As for Bishop Grant, Manning wrote:--
 
 [173] _Life of Manning_, ii. p. 206.
 
-/#
   “I cannot for a moment even fear that the Holy See would accept any
   one of these names. I wish,” added Manning, conscious of the critical
   nature of the struggle for the future of Ultramontanism in England,
@@ -3817,7 +3710,6 @@ afterwards in the Vatican Council. As for Bishop Grant, Manning wrote:--
   perpetuity to the Holy See. For it is perfectly certain that whoever
   comes, it is a question of a change of policy. It is Tories out and
   Whigs in, with all the consequences.”[174]
-#/
 
 [174] _Ibid._
 
@@ -3846,14 +3738,12 @@ centuries--with St Vincent’s maxim on the title-page (“that which has
 been believed always everywhere,” etc.)--we find the following teaching
 on Infallibility:--
 
-/#
   “It is no article of Catholic Faith to believe that the Pope is
   himself infallible, separated from the Church, even in expounding the
   Faith: by consequence, Papal definitions or decrees, in whatever form
   pronounced, taken exclusively from a General Council or acceptance
   of the Church, oblige no one under pain of heresy to an interior
   assent.”[176]
-#/
 
 [176] Page 165.
 
@@ -3892,7 +3782,6 @@ fifteen, in 1825, was moulded in the Roman convictions as held in
 England at that date. Forty years later he recorded his faith in the
 following words:--
 
-/#
   “We are far from claiming for the Papacy any separate Infallibility
   distinct from that which all Catholics are bound to believe in, as
   the prerogative of the _Universal Church_. Those who make so novel
@@ -3900,7 +3789,6 @@ following words:--
   history.... And we believe that with those facts undenied and not
   disproved it would be impossible for the Church to define any such
   theories to be articles of faith.”[177]
-#/
 
 [177] Ambrose Lisle Phillipps, _Union Review_, May 1866, p. 95.
 
@@ -3908,7 +3796,6 @@ The following year De Lisle repeated his convictions on Infallibility
 in a letter to Father Ryder, afterwards Superior of the Birmingham
 Oratory.
 
-/#
   “I will tell you my own belief, as to that attribute of Holy Church,
   which a learned Bishop pronounced accurate and orthodox. First of
   all, I believe Infallibility to be a _conjunctive_ and _collective_
@@ -3932,7 +3819,6 @@ Oratory.
   Deposit, for the preservation and right understanding of which the
   power of _binding and loosing_ and of _feeding_ the whole flock has
   been conferred upon the supreme Pastor.”[178]
-#/
 
 [178] 1867. De Lisle, _Life_, ii. pp. 36, 37.
 
@@ -3941,7 +3827,6 @@ Roman tenets to Protestants and to remove misapprehensions.[179]
 
 [179] Milner, _End of Religious Controversy_, ed. 2, 1819, p. 150.
 
-/#
   “When any fresh controversy arises in the Church, the fundamental
   maxim of the Bishops and Popes to whom it belongs to decide upon
   it, is, not to consult their own private opinion or interpretation
@@ -3972,7 +3857,6 @@ Roman tenets to Protestants and to remove misapprehensions.[179]
   great body of Catholic Bishops, is secure from error? Most certainly
   not, and hence he may gather where all Catholics agree in lodging
   Infallibility.”
-#/
 
 Milner’s view of Catholicism is that if we would know what is of faith,
 we must ask what is and ever has been the doctrine of the Church. A
@@ -3987,7 +3871,6 @@ Infallibility of the Church was a matter which no Catholic doubted.
 
 5. Gallitzin’s rejection of Papal Infallibility is even more emphatic.
 
-/#
   “Although I have plainly told the Protestant minister that the
   Infallibility of the Pope is no part of the Catholic Creed, a mere
   opinion of some divines, an article nowhere to be found in our
@@ -3996,7 +3879,6 @@ Infallibility of the Church was a matter which no Catholic doubted.
   forward, over and over again, as an article of the Catholic faith;
   and takes his opportunity from this forgery of his own to abuse the
   Catholic Church.”[180]
-#/
 
 [180] Gallitzin, _Defence of Catholic Principles_. See _Papal
 Infallibility_, by a Roman Catholic layman, 1876, p. 16.
@@ -4015,7 +3897,6 @@ Ireland.
 
 The book contains the following question and answer:--
 
-/#
   “(_Q._) Must not Catholics believe the Pope in himself to be
   infallible?
 
@@ -4023,7 +3904,6 @@ The book contains the following question and answer:--
   Catholic faith: no decision of his can oblige under pain of heresy,
   unless it be received and enforced by the teaching body, that is by
   the bishops of the Church.”
-#/
 
 _Keenan’s Catechism_ has since 1870 appeared with alterations. The new
 edition is, as the preface justly remarks, “more than a mere reprint.”
@@ -4032,7 +3912,6 @@ question and answer just quoted have of course now disappeared. They
 are replaced by a series of ten enquiries, with answers giving exactly
 the contrary doctrine. The first of these runs as follows:--
 
-/#
   “(_Q._) What do Catholics believe concerning the Infallibility of the
   Pope?
 
@@ -4040,7 +3919,6 @@ the contrary doctrine. The first of these runs as follows:--
   from Christ the same prerogative of Infallibility which we have
   shown above to be necessary to and belong to the Church by divine
   institution.”[181]
-#/
 
 [181] Page 111.
 
@@ -4053,7 +3931,6 @@ explanation. But the later revisers have felt that something more
 was necessary to justify the change. Accordingly they inserted the
 following:--
 
-/#
   “(_Q._) But some Catholics before the Vatican Council denied the
   Infallibility of the Pope, which was also formerly impugned in this
   very Catechism.
@@ -4063,7 +3940,6 @@ following:--
   future definitions’--thus _implicitly_ accepting the dogma; had they
   been prepared to maintain their own opinion contumaciously in such
   case they would have been Catholics only in name.”
-#/
 
 That is to say, that teaching endorsed by Catholic Bishops is delivered
 under the reservation that the opposite may be true; that this is the
@@ -4083,25 +3959,21 @@ by the Church had been preceded by a period of controversy, in which
 theologians ranked themselves on different sides.” Then the question is
 asked:--
 
-/#
   “(_Q._) Can you name any Controversies on fundamental dogma on
   which the Church pronounced in the same way as she did on Papal
   Infallibility at the Vatican Council?
 
   (_A._) Yes. The Divinity of Christ was not formally defined till the
   first Council of Nicæa (325).”
-#/
 
 Some other instances having been given, we then reach the Question--
 
-/#
   “(_Q._) What do you conclude from these observations?
 
   (_A._) That the definition of the Infallibility of the Pope as a
   dogma of primitive Christian Revelation has historically run a course
   similar to the definition of many other fundamental articles of the
   Catholic Faith.”
-#/
 
 The implications of this assertion are worth considering. A parallel
 is drawn between the attitude of Catholics towards the two doctrines
@@ -4164,7 +4036,6 @@ Collective Episcopate whether assembled or dispersed.
 7. Even in the great College of Maynooth itself an Irish Roman Catholic
 Professor could publish as late as 1861 such words as these:--
 
-/#
   “That the Universal Church is infallible in its belief and profession
   of faith, that the body of pastors is infallible in teaching, are
   two dogmas of Catholic faith. That the Infallibility of the Chief
@@ -4175,7 +4046,6 @@ Professor could publish as late as 1861 such words as these:--
   be believed, they who genuinely hold the contrary are by no means or
   only in the least degree (unless indeed some other ground be shown)
   to be considered alien from the Catholic Faith.”[182]
-#/
 
 [182] Murray, _Tractatus de Ecclesia Christ._ ii. (1), p. 171.
 
@@ -4191,11 +4061,9 @@ in him.[183]
 
 [183] Ollivier, _L’Eglise et L’Etat_, ii. p. 9.
 
-/#
   “The Romanised Cullen,” says another, “whom the Pope forced as
   Primate on the Irish Bishops, with the same view as he imposed
   Manning on the English Bishops, is of course an Infallibilist.”[184]
-#/
 
 [184] _Quirinus_, p. 290.
 
@@ -4212,11 +4080,9 @@ rejoiced in his uncompromising tone.
 
 [186] _Ibid._ p. 343.
 
-/#
   “What we need,” he wrote, “is incisive assertion of the loftiest
   truths. I am persuaded that boldness is prudence, and that our danger
   lies in half truths.”[187]
-#/
 
 [187] _Ibid._
 
@@ -4231,7 +4097,6 @@ the short-lived but brilliant _Home and Foreign Review_, recalled the
 Catholic mind to the facts of History. Abbot Gasquet’s estimate of the
 _Dublin Review_ and the _Rambler_ is significant.
 
-/#
   “The _Dublin Review_ and the _Rambler_ were conducted upon lines
   wholly divergent. In historical matters the policy of the _Dublin
   Review_ appears to have been to avoid as far as possible facing
@@ -4240,7 +4105,6 @@ _Dublin Review_ and the _Rambler_ is significant.
   the older centuries. The _Rambler_, on the other hand, held the view
   that the Church had nothing to lose and much to gain by meeting facts
   as they were.”[188]
-#/
 
 [188] Gasquet, _Lord Acton and his Circle_, p. xxxix.
 
@@ -4253,7 +4117,6 @@ uncritical method of advancing truth are inimitable.
 
 [189] “Ultramontanism,” _Home and Foreign Review_, iii. p. 173, 1863.
 
-/#
   “A particular suspicion rested on history, because, as the study
   of facts, it was less amenable to authority and less controlled by
   interest than philosophical speculation. In consequence partly of the
@@ -4289,7 +4152,6 @@ uncritical method of advancing truth are inimitable.
   nothing injurious to the Church can be true, he will combat whatever
   bears an unfavourable semblance with every attainable artifice and
   weapon.”[191]
-#/
 
 [190] “Ultramontanism,” _Home and Foreign Review_, p. 175.
 
@@ -4321,7 +4183,6 @@ modern discoveries.
 
 [194] Acton, _History of Freedom_, p. 446.
 
-/#
   “A political law or a scientific truth may be perilous to the
   morals or the faith of individuals, but it cannot on this ground be
   resisted by the Church. It may at times be a duty of the State to
@@ -4331,7 +4192,6 @@ modern discoveries.
   The difference in this respect between a true and a false religion
   is, that one judges all things by the standard of their truth, the
   other by the touchstone of its own interests.”[195]
-#/
 
 [195] _Ibid._ p. 449.
 
@@ -4350,13 +4210,11 @@ and our policy.” Meanwhile, learning had passed on beyond the vision of
 such apologists, and the apologists have, so far as effectiveness is
 concerned, collapsed before it.
 
-/#
   “Investigations have become so impersonal, so colourless, so free
   from the prepossessions which distort truth, from predetermined aims
   and foregone conclusions, that their results can only be met by
   investigations in which the same methods are yet more completely and
   conscientiously applied.”[196]
-#/
 
 [196] Acton, _History of Freedom_, p. 452.
 
@@ -4381,7 +4239,6 @@ its own interests. It appeared to Ullathorne[198] that
 
 [198] _Pastoral_ (1862), p. 9.
 
-/#
   “to say that the Church cannot refute or object to a discovery which
   will shake the faith of thousands; meaning thereby to deny her right
   to examine that discovery after her own methods, and by the union of
@@ -4393,7 +4250,6 @@ its own interests. It appeared to Ullathorne[198] that
   their faith shaken by the erroneous deductions which men of science
   are too apt to draw from those real discoveries which can never
   conflict with faith.”
-#/
 
 Thus was Acton misunderstood. And Bishop Ullathorne concluded
 by condemning the journal as “containing propositions which are
@@ -4412,26 +4268,22 @@ Congregations, such as that of the Index. It was in the year 1863, when
 his periodical was some four years old, that Pius IX. issued a Brief to
 the Archbishop of Munich in which he affirmed that
 
-/#
   “it is not enough for learned Catholics to receive and venerate
   the dogmas of the Church, but there is also need that they should
   submit themselves to the doctrinal decisions of the pontifical
   congregations.”
-#/
 
 This Papal Brief made no reference to Lord Acton or to the _Home and
 Foreign Review_, but it vitally affected the principles upon which
 that periodical had been throughout its short existence of four years
 conducted. For its principles were these:--
 
-/#
   “To reconcile freedom of enquiry with implicit faith, and to
   discountenance what is untenable and unreal, without forgetting the
   tenderness due to the weak, or the reverence rightly claimed for
   what is sacred. Submitting without reserve to infallible authority,
   it will encourage a habit of manly investigation on subjects of
   scientific interest.”
-#/
 
 This means a claim for freedom in the province of opinion, and a
 right to the fearless assertion of historic truth. But how was it
@@ -4451,7 +4303,6 @@ authority itself included--must necessarily rest. On the other side he
 draws a striking picture of the general attitude of Roman authority
 toward modern thought He says, that in dealing with literature--
 
-/#
   “the paramount consideration of Rome had been the fear of scandal.
   Historical investigations, if they offered perilous occasion to
   unprepared and unstable minds, were suppressed”--upon which he
@@ -4472,7 +4323,6 @@ toward modern thought He says, that in dealing with literature--
   own prohibitive Index, to brand all inconvenient truths with the note
   of falsehood. No party cared for knowledge that could not be made
   available for argument.”
-#/
 
 This suppression of uncongenial fact was less possible in the German
 Universities, where the Roman Catholic teacher was placed amidst
@@ -4484,7 +4334,6 @@ attention to books lacking the Catholic spirit but indispensable to the
 deeper student.” The condition of things in Italy and in Germany was
 widely different.
 
-/#
   “While in Rome it was still held that the truths of Science need not
   be told if, in the judgment of Roman theologians, they were of a
   nature to offend faith, in Germany Catholics vied with Protestants in
@@ -4492,7 +4341,6 @@ widely different.
   it might serve or injure their cause in controversy, or whether it
   was adverse or favourable to the views which it was the object of the
   Index to protect.”
-#/
 
 Yet for a while Rome had tolerated many things. “Publications were
 suffered to pass unnoted in Germany, which would have been immediately
@@ -4500,13 +4348,11 @@ censured if they had come forth beyond the Alps or the Rhine.” German
 philosophers were indeed denounced at Rome, but German historians
 escaped censure. The reason was, according to Lord Acton, plain:--
 
-/#
   “The philosopher cannot claim the same exemption as the historian.
   God’s handwriting exists in history independently of the Church, and
   no ecclesiastical exigence can alter a fact. The divine lesson has
   been read, and it is the historian’s duty to copy it faithfully and
   without ulterior views.”
-#/
 
 But this toleration of independence in the realm of facts was now
 abruptly terminated by authority. The Pope’s letter to the Archbishop
@@ -4534,13 +4380,11 @@ Consequently, the question arose, what future was possible for the
 _Home and Foreign Review_? Continued existence on unaltered principles
 meant reiteration of principles denounced at Rome.
 
-/#
   “The periodical reiteration of rejected propositions would amount
   to insult and defiance, and would probably provoke more definite
   measures; and thus the result would be to commit authority yet more
   irrevocably to an opinion which might otherwise take no deep root,
   and might yield ultimately to the influence of time.”
-#/
 
 That this change of mind on the part of authority would be anything
 else than the far-off outcome of a process indefinitely slow, Lord
@@ -4549,7 +4393,6 @@ by Pius IX. expressed the general sentiment of the large majority of
 Catholics of the age. And in Lord Acton’s view of the case, if new
 truth is to gain recognition from authority, it
 
-/#
   “must first pervade the members in order that it may reach the head.
   While the general sentiment of Catholics is unaltered, the course
   of the Holy See remains unaltered too. As soon as that sentiment
@@ -4562,25 +4405,21 @@ truth is to gain recognition from authority, it
   action of public opinion bears the Holy See along, without any
   demoralising conflict or dishonourable capitulation. This action it
   belongs essentially to the graver scientific literature to direct.”
-#/
 
 Meantime, Lord Acton’s lot is cast in the period when truth is resisted
 and denounced. Hitherto forbearance has been extended to the minority.
 But this is the case no longer. “The adversaries of the Roman theory
 have been challenged with the summons to submit.”
 
-/#
   “In these circumstances, there are two courses which it is impossible
   to take. It would be wrong to abandon principles which have been well
   considered and are sincerely held, and it would also be wrong to
   assail the authority which contradicts them. The principles have not
   ceased to be true, nor the authority to be legitimate, because the
   two are in contradiction.”
-#/
 
 Accordingly, Lord Acton’s practical solution is as follows:--
 
-/#
   “Warned, therefore, by the language of the Brief, I will not provoke
   ecclesiastical authority to a more explicit repudiation of doctrines
   which are necessary to secure its influence upon the advance of
@@ -4589,7 +4428,6 @@ Accordingly, Lord Acton’s practical solution is as follows:--
   obedience which is due to legitimate ecclesiastical authority with
   an equally conscientious maintenance of the rightful and necessary
   liberty of thought.”
-#/
 
 From that date accordingly the _Home and Foreign Review_ ceased to
 exist. The expiration of a periodical may be an exceedingly small
@@ -4636,7 +4474,6 @@ upon the faith of its noblest sons.
 Bishop Ullathorne viewed the successive collapse of Acton’s journals
 with a natural satisfaction.
 
-/#
   “The unsound taint,” he wrote, “was brought to England by certain
   young laymen, pupils of Dr Döllinger or others associated with him,
   and exhibited itself in the later numbers of the _Rambler_ after it
@@ -4644,7 +4481,6 @@ with a natural satisfaction.
   British Review_, and the _Chronicle_. But the Catholics of this
   country repelled the poison, and these publications dropped rapidly
   one after another into their grave.”[200]
-#/
 
 [200] _Expostulation_, p. 5.
 
@@ -4686,7 +4522,6 @@ When Ward attempted to enlist Newman in his Infallibility campaign,
 Newman’s characteristic sincerity did not attempt to conceal the
 repugnance with which he viewed the proposal.
 
-/#
   “As to writing a volume on the Pope’s Infallibility it never so
   much as entered into my thought. I am a controversialist, not a
   theologian, and I should have nothing to say about it. I have ever
@@ -4694,14 +4529,12 @@ repugnance with which he viewed the proposal.
   too, its definition inexpedient and unlikely; but I should have no
   difficulty in accepting it, were it made. And I don’t think my reason
   will ever go forward or backward in the matter.”[203]
-#/
 
 [203] 1866, Thureau Dangin, iii. p. 111; Purcell, _Manning_, ii. p. 321.
 
 But Newman despaired of inducing his fellow Romanists to attend to
 history.
 
-/#
   “Nothing would be better,” he wrote, “than a historical review. But
   who would bear it? Unless one doctored all one’s facts one would be
   thought a bad Catholic. The truth is, there is a keen conflict going
@@ -4710,7 +4543,6 @@ history.
   is not extravagant is thought treacherous. I sometimes think of King
   Lear’s daughters, and consider that they, after all, may be found
   the truest who are in speech more measured.”[204]
-#/
 
 [204] See _Guardian_ article, 6th June 1906, from _the Month_ of
 January 1903.
@@ -4733,7 +4565,6 @@ anxious strain:--
 
 [205] _Life of Pusey_, iv. p. 128.
 
-/#
   “Why should an insolent, aggressive faction be allowed to make the
   heart of the just sad, whom the Lord hath not made sorrowful? I pray
   those early doctors of the Church whose intercession would decide
@@ -4743,7 +4574,6 @@ anxious strain:--
   back the times and moments of the triumph which He has destined for
   His kingdom, and I shall feel that I have but to bow my head to His
   inscrutable Providence.”[206]
-#/
 
 [206] _Standard_, 7th April 1870; Salmon, _Infallibility_, p. 22;
 Thureau Dangin, iii. p. 124.
@@ -4828,7 +4658,6 @@ The second period in the doctrine’s progress is that of analysis and
 contention. And here Manning pours unqualified contempt on the Gallican
 view. Gallicanism was Manning’s peculiar and special abomination.
 
-/#
   “Gallicanism,” he said, “is rationalism; that which the Gospel cast
   out; that which grew up again in mediæval Christendom. Gallicanism is
   no more than a transient and modern opinion which arose in France,
@@ -4841,7 +4670,6 @@ view. Gallicanism was Manning’s peculiar and special abomination.
   out of indulgence, by reason of his good services to the Church: and
   that even the lawfulness of giving absolution to those who defend the
   Gallican Articles has been gravely questioned.”[212]
-#/
 
 [212] _Ibid._ p. 41.
 
@@ -4856,7 +4684,6 @@ no more of an innovation than the doctrine of our Lord’s Divinity at
 Nicæa. It is true that he is conscious of a possible objection lurking
 in suspicious minds.
 
-/#
   “If any one shall answer that these evidences do not prove the
   Infallibility of the Pope speaking _ex cathedra_, they will lose
   their labour.
@@ -4864,7 +4691,6 @@ in suspicious minds.
   “I adduce them,” he continues, “to prove the immemorial and universal
   practice of the Church in having recourse to the Apostolic See as the
   last and certain witness and judge of the Divine tradition of faith.”
-#/
 
 But Manning’s real interests were not in endeavours to ascertain what
 history declares. The sole duty of the believer was absolute submission
@@ -4875,24 +4701,20 @@ famous identification of history with heresy, for which Manning made
 himself responsible. His assurance of the doctrine is so unassailable
 that he can scarcely tolerate the enquiry, Is it true?
 
-/#
   “The question is not,” he writes, “whether the doctrine be true,
   which cannot be doubted; or definable, which is not open to doubt;
   but whether such a definition be opportune, that is, timely and
   prudent.”[213]
-#/
 
 [213] _Pastoral_ (1867), p. 119.
 
 Or again, more emphatically still if possible--
 
-/#
   “With the handful of Catholics who do not believe the Infallibility
   of the Vicar of Jesus Christ, speaking _ex cathedra_, we will not
   now occupy ourselves. But the opinion of those who believe the
   doctrine to be true, but its definition to be inopportune deserves
   full and considerate examination.”
-#/
 
 That the doctrine is opportune, said Manning, followed at once from the
 fact that it was true. God has revealed it. “Can it be permitted to us
@@ -4907,7 +4729,6 @@ being taught. Manning could scarcely ignore the fact that this denial
 of Infallibility was no new thing in the Roman Church. His answer to
 this is equally significant.
 
-/#
   “We are told by objectors that the denial is far more ancient
   and widespread: that only makes the definition all the more
   necessary.”[214] “In England, some Catholics are stunned and
@@ -4915,7 +4736,6 @@ this is equally significant.
   historical criticism of anonymous writers, until they doubt, or
   shrink in false shame from believing a truth for which their fathers
   died.”[215]
-#/
 
 [214] _Pastoral_ (1867), p. 40.
 
@@ -4968,12 +4788,10 @@ operation. Statesmen would frustrate its assembling. If the Pope be
 personally infallible, apart from the Episcopate, “why,” asks Manning
 quite naturally,
 
-/#
   “why is he bound to take a means which demands an Ecumenical Council,
   or a world-wide and protracted interrogation, with all the delays and
   uncertainties of correspondence, when, by the Divine order, a certain
   means in the Apostolic See is always at hand?”
-#/
 
 Assertion--vigorous, uncompromising, sweeping--was not only the bent
 of Manning’s disposition; it was also cultivated on principle. What
@@ -4990,11 +4808,9 @@ such thing conceivable as hesitation in the universe. He seems to
 grow, if possible, increasingly sharp, incisive, uncompromising, as his
 words speed on.
 
-/#
   “The Ultramontane opinion is simply this, that the Pontiff, speaking
   _ex cathedra_ on faith or morals, is infallible. In this there are no
   shades or moderations. It is simply aye or no.”
-#/
 
 Of qualifications, of restrictions, nothing is said. It is all
 sweepingly universal. Yet with all his heart, he says, he desires
@@ -5007,13 +4823,11 @@ not a shadow in these amazing Pastorals.
 Nothing can surpass the confidence with which Manning expressed his
 ideas of the work which the Council would effect.
 
-/#
   “It is certain that upon a multitude of minds who are wavering and
   doubtful ... the voice of a General Council will have great power.
   The Council of Trent,” he tells us, “fixed the epoch after which
   Protestantism never spread. The next General Council will probably
   date the period of its dissolution.”[216]
-#/
 
 [216] _Pastoral_ (1867), p. 90.
 
@@ -5046,21 +4860,18 @@ amazed at Manning’s theory on the case of Honorius.
 
 [217] Purcell, ii. p. 454.
 
-/#
   “Archbishop Manning denies that Honorius fell into heresy, but in
   denying this he appears to me to injure the Catholic cause, for
   he denies history, and what is worse, sets himself up against a
   General Council which is universally received, and which in this very
   particular was solemnly confirmed by Pope Leo II., Honorius’s next
   successor but one.”[218]
-#/
 
 [218] _Life of De Lisle_, ii. p. 73.
 
 Most significant is the contrast of type between Manning and Newman
 within the Communion of Rome.
 
-/#
   “Manning,” says Thureau Dangin, “like other converts in the ardour
   of their new faith, and in reaction against the Protestant spirit
   from which he had escaped, considered that he could not go too far in
@@ -5075,7 +4886,6 @@ within the Communion of Rome.
   features of Italian doctrine which scandalised them most. He was well
   aware of his unpopularity, and consoled himself with an application
   of the text, If I pleased men I should not be the servant of Christ.”
-#/
 
 However, Manning pleased men, at least in Rome, where the larger
 sympathies of Newman were most distasteful, and where a hardy official
@@ -5249,14 +5059,12 @@ the early nineteenth century may be gathered from Bergier’s Theological
 Dictionary, which was the French popular encyclopedia of theology, and
 obtained a great circulation.
 
-/#
   “_Infallibilist_--The name sometimes given to those who maintain
   that the Pope is infallible,--that is to say, that when he addresses
   to the entire Church a dogmatic decree, a decision on a point of
   doctrine, it cannot happen that this decision should be false or
   subject to mistake. This is the ordinary opinion of Ultramontane
   theologians.”[230]
-#/
 
 [230] Bergier, _Dictionnaire de Théologie_ (1850).
 
@@ -5292,12 +5100,10 @@ assertions, and confident with an unsurpassed serenity.
 The movements of modern thought, the aspirations towards larger
 freedom, were to De Maistre thoroughly repugnant.
 
-/#
   “The audacious race of Japhet,” he writes, “has never ceased to
   advance towards what it describes as liberty; that is, towards a
   state in which the governed is governed as little as possible, and is
   always on guard against its masters.”
-#/
 
 Such was his attitude towards European progress and development. This
 was written in 1844, and may doubtless be partly explained by the
@@ -5356,13 +5162,11 @@ been living at the time, and had entered into the deliberations of the
 Council which condemned him. Here is the speech which Honorius, it
 appears, ought to have made:--
 
-/#
   “My brothers, God has undoubtedly abandoned you, since you dare to
   judge the Head of the Church who is established to pass judgment upon
   you. I have no need of your assembling to condemn Monothelitism. What
   can you say that I have not said already? My decisions are sufficient
   for the Church. I dissolve this Council by withdrawing from it.”
-#/
 
 De Maistre could scarcely forget that the successor of Honorius, who
 on his theory ought to have made some protest against the Council’s
@@ -5395,7 +5199,6 @@ State.[231]
 Readers of Mozley on _Development_ will remember his crushing reply to
 this transparent sophism.
 
-/#
   “It is indeed absurd,” writes Mozley, “to expect that the mind should
   be satisfied with it, because what the mind wants is to believe what
   is true; and this argument does not touch the question of truth
@@ -5406,14 +5209,12 @@ this transparent sophism.
   omitting its prophetical office of teaching truth, makes it impose
   its dogmas on us on the same principle on which the State imposes
   Acts of Parliament.”[232]
-#/
 
 [232] Mozley, _Essay on Development_, p. 126.
 
 This contribution to Ultramontanism received a criticism, also from the
 Roman Bishop Maret, just on the eve of the Vatican Council.
 
-/#
   “These weaknesses,” says Maret, “of an able mind may remind us that
   the true seat of sovereignty and infallibility in the Church is not
   to be reached by logic but by appeal to Scripture and Tradition.
@@ -5423,7 +5224,6 @@ Roman Bishop Maret, just on the eve of the Vatican Council.
   make a careful study of the General Councils, if he would understand
   the Church’s constitution. And this he has most inadequately
   done.”[233]
-#/
 
 [233] Maret, ii. p. 313.
 
@@ -5578,12 +5378,10 @@ destined to be added to the same terrible list. He was shot in prison
 during the Commune in 1871. His religious sympathies were the reverse
 of Ultramontane.
 
-/#
   “By his early theological training, by mental tendencies, and not
   less by the traditions of the Diocese and See of Paris, Mgr. Darboy,”
   says a biographer, “was devoted to the ancient principles of the
   Church of France.”[238]
-#/
 
 [238] Guillermin, p. 124.
 
@@ -5675,7 +5473,6 @@ of re-affirming the ancient principles:--
 
 [240] _Eight Months at Rome_, Appendix, p. 268.
 
-/#
   “If the Ecumenical Council orders explicit belief in matters hitherto
   open to denial without charge of heresy, it must be because these
   matters were already certain and generally acknowledged. For in
@@ -5690,7 +5487,6 @@ of re-affirming the ancient principles:--
   believed, it is because these truths already exist in the evidence of
   Tradition, and in the common instructions of Theology; and thus that
   they are not something new.”
-#/
 
 What Darboy meant by these guarded words, and what his clergy
 understood him to mean, is beyond dispute. The theory of Papal
@@ -5963,7 +5759,6 @@ be thrown in the way, to ruin the prospects of unity, and to provide
 the world with scenes of a painfully discordant type? Doubtless, he
 continued, men would assure him that a principle was at stake:--
 
-/#
   “A principle!” echoed Dupanloup; “even granting that were so, I
   answer, Is it then essential to the life of the Church that this
   principle should become a dogma of faith? How, then, explain the fact
@@ -5971,7 +5766,6 @@ continued, men would assure him that a principle was at stake:--
   principle essential to her existence? How explain the fact that she
   has formulated all her doctrine, produced her teachers, condemned all
   heresies, without this definition?”
-#/
 
 Accordingly the Bishop denies that there can be any necessity. It is
 the Church which is infallible, he says, and the Infallibility of
@@ -6082,26 +5876,21 @@ is well aware of the hostile constructions which will be placed upon
 his words, of the disloyalty with which he will be charged. Yet such
 accusations will be as untrue as they are unjust.
 
-/#
   “I dare to say,” he writes, “that the Church of France has given such
   proofs of its devotion to Rome as give it the right to be heard, and
   the right to be believed, when it speaks of its attachment to the
   Holy See.”
-#/
 
 And he brings his letter to a close with words of sanguine expectation,
 soon to be piteously refuted by experience.
 
-/#
   “I am persuaded that as soon as I have touched that sacred land, and
   reverenced the tomb of the Apostles, I shall feel myself far from the
   battle in a region of peace, in a midst of an assembly controlled by
   a father and composed of brethren.”
-#/
 
 Dupanloup, says Quirinus in the well-known _Letters from Rome_--
 
-/#
   “attacked the opportuneness with such a powerful array of testimonies
   in his famous Pastoral that every one saw clearly that the doctrine
   itself was involved, though he never entered in so many words on the
@@ -6112,7 +5901,6 @@ Dupanloup, says Quirinus in the well-known _Letters from Rome_--
   from Rome, “yet two-thirds of the letter are directed against
   Infallibility itself; for if the errors ascribed to the Popes were
   historic, such a definition would not only be inopportune but false.”
-#/
 
 [245] _Letters from Rome_, p. 255.
 
@@ -6141,12 +5929,10 @@ beginning the party’s numerical strength, it involved it ultimately and
 fundamentally in the most incurable weakness. The plea of inopportunism
 is in the long-run an untenable plea. As Quirinus says:--
 
-/#
   “A minority may be invincible on the ground of dogma, but not on
   that of expediency. Everything can be ventured to oppose a false
   doctrine, but not to hinder an imprudent or premature definition of a
   truth.”[248]
-#/
 
 [248] Page 256.
 
@@ -6226,7 +6012,6 @@ antagonist of the modern Ultramontane, while yielding to none in
 devotion to the Roman See. But his admiration for Dupanloup’s outspoken
 words was unbounded.
 
-/#
   “No doubt,” wrote Montalembert, “you greatly admire the Bishop of
   Orleans, but you would admire him vastly more if you could realise
   the depth into which the French clergy has sunk. It exceeds anything
@@ -6235,7 +6020,6 @@ words was unbounded.
   presents, I know none which equals or surpasses this rapid and
   complete transformation of Catholic France into a vestibule of the
   antechambers of the Vatican.”[251]
-#/
 
 [251] Lord Acton, _Vatican Council_, p. 58.
 
@@ -6258,11 +6042,9 @@ Councils in succession.”
 
 Here is the language of the first of these:--
 
-/P
     Anathema to the heretic Cyrus.
     Anathema to the heretic Honorius.
     Anathema to the heretic Pyrrhus.
-P/
 
 Two other Ecumenical Councils repeated this condemnation of Honorius.
 The solemn profession of faith recited by successive Popes for
@@ -6280,17 +6062,14 @@ The maxim that truth may be suppressed in the interests of religion
 roused Gratry’s boundless indignation. Gratry himself had heard an
 Italian Prelate defend on this principle the condemnation of Galileo.
 
-/#
   “Yes, undoubtedly,” said the Bishop, “Galileo was right, and his
   judges knew perhaps that he was right; that he had discovered
   the true laws of astronomy: but at that time this too dangerous
   truth would have scandalised the faithful. This is the reason they
   condemned him, and they did right.”
-#/
 
 Gratry’s strenuous protest is worth recording:--
 
-/#
   “Had then the Catholic religion--had the Word of God--need of this
   monstrous imposture in a solemn judgment? O ye men of little faith,
   of low minds, of miserable hearts, have not your cunning devices
@@ -6298,7 +6077,6 @@ Gratry’s strenuous protest is worth recording:--
   Nature dawned upon the world, you condemned it. Be not astonished if
   men, before pardoning you, expect of you a confession, penitence,
   profound contrition, and reparation for your fault.”
-#/
 
 The omission from the Roman Prayer Book of historic facts acknowledged
 until the sixteenth century was, to Gratry’s mind, an equally miserable
@@ -6309,7 +6087,6 @@ absolute sovereignty and separate Infallibility ought, urged Gratry, to
 prevent us from proclaiming before God and man theories supported by
 such a method.
 
-/#
   “This was the reason that Dupanloup had spoken. From God he will
   receive his reward. And all those who, notwithstanding these
   arguments and these facts, are bold enough to go further and
@@ -6317,7 +6094,6 @@ such a method.
   the tribunal of God. Absolute certainty is here a necessity. For
   the smallest doubt here demands by Divine right the most rigorous
   forbearance.”
-#/
 
 Louis Veuillot, the journalist, editor of _L’Univers_, criticised
 Gratry with an inimitable mixture of worldly wisdom, insolent banter,
@@ -6405,7 +6181,6 @@ and speak.”[259]
 
 [259] Ollivier, ii. p. 63.
 
-/#
   “I venture to say that you will not find ... in my ... speeches
   or writings a single word in conformity with the doctrines or
   pretensions of the Ultramontanes of the present day; and that for an
@@ -6425,7 +6200,6 @@ and speak.”[259]
   our liberties and traditional ideas, and closes by sacrificing
   justice and truth, reason and history, wholesale before the idol
   which they have enstated in the Vatican?”[261]
-#/
 
 [260] Montalembert’s letter, _Acta Vatican Council_, p. 1358.
 
@@ -6434,7 +6208,6 @@ and speak.”[259]
 If this word “idol” appears too strong, Montalembert would appeal to a
 letter written to him by Mgr. Sibour, Archbishop of Paris, in 1853.
 
-/#
   “The new Ultramontane School,” wrote Archbishop Sibour, “involves
   us in a double idolatry--an idolatry of the temporal power, and
   an idolatry of the spiritual. When, like myself, you made strong
@@ -6459,7 +6232,6 @@ letter written to him by Mgr. Sibour, Archbishop of Paris, in 1853.
   one might silently despise them. But when one forecasts the evils
   which they will bring upon us, it is hard to be silent and to submit.
   You have, therefore, done well, sir, to condemn them.”
-#/
 
 Montalembert’s abandonment of the Ultramontanes is strikingly described
 by Ollivier, the head of the Government in France. According to
@@ -6508,7 +6280,6 @@ Roman papers to be in league with Napoleon against the Holy See.
 Dupanloup’s generous nature was profoundly wounded. To the clergy of
 the diocese who expressed their loyal sympathy with him, he replied:--
 
-/#
   “You see a Bishop who, during a life already long, has given manifest
   proofs of his devotion to the Church and to the Holy See; but who,
   because one day in a momentous question he has said what he believed
@@ -6517,7 +6288,6 @@ the diocese who expressed their loyal sympathy with him, he replied:--
   you protest: so far has passion prevailed where it ought not to
   exist. But what does it matter? There are in life hours marked out
   for grave and painful duties.”[265]
-#/
 
 [265] _Ibid._ p. 153.
 
@@ -6612,14 +6382,12 @@ for the Vatican Council. An Italian writer[271] indeed assures us that
 
 [271] Cecconi, ii. p. 329.
 
-/#
   “in the number of those whom the Pope intended to invite was,
   contrary to the advice of some, the celebrated historian
   Döllinger.... But the Sovereign Pontiff was informed, on the
   authority of statements perhaps somewhat inexact, that Döllinger
   would refuse the invitation; and accordingly Pius IX. did not give
   effect to his intention.”
-#/
 
 The explanation is unconvincing and superfluous. The presence of
 Döllinger on a theological commission in Rome at the Pope’s request
@@ -6711,14 +6479,12 @@ was the supreme exponent, in the later it was the Pope. This, says
 _Janus_, is no true development. It is rather a transformation. The
 verdict of History is against this doctrine entirely.
 
-/#
   “For thirteen centuries an incomprehensible silence on this
   fundamental article reigned throughout the whole Church and her
   literature.”
 
   “To prove the dogma of Papal Infallibility from Church History
   nothing less is required than a complete falsification of it.”
-#/
 
 The advocates of Papal Infallibility could not avoid the discussion of
 the serious problem which their theory entailed, namely, _under what
@@ -6780,12 +6546,10 @@ controversial effrontery.
 
 Döllinger’s Dublin critic affirmed that--
 
-/#
   “in real truth, through the whole post-Nicene period, Pontifical
   dogmatic letters issued _ex cathedra_ are no less undeniable and
   no less obtrusive matters of historical fact than are Ecumenical
   Councils themselves; they meet the student at every page.”
-#/
 
 The _Dublin Review_ forms a very low estimate of the intellectual
 power exhibited in _Janus_. According to that authority, it was “very
@@ -6795,7 +6559,6 @@ These criticisms were followed by another article, entitled _Janus and
 False Brethren_. Here the reviewer fulminates against the writers of
 _Janus_.
 
-/#
   “There are enemies and traitors in the camp. It is not from
   Protestants only, but from men kneeling at the same altars as himself
   that the Catholic has to dread the poisoning of his faith.”
@@ -6805,7 +6568,6 @@ _Janus_.
   restless; and though their intellectual power is sometimes absurdly
   overrated, they comprise one or two really able and learned men in
   their number.”
-#/
 
 The general opinion at Rome was that the book was certainly composed
 by the Munich School, and the immense historical teaching pointed
@@ -6858,7 +6620,6 @@ Infallibility.
 
 [279] _Ibid._ p. 326.
 
-/#
   “A distinguished religious Order is concentrating all its forces
   upon this project. To be silent would imply approval. As Catholics,
   they feel constrained to protest to their Bishop that the ideas and
@@ -6869,7 +6630,6 @@ Infallibility.
   the _Index_ is neither worthy of the spirit nor the dignity of the
   Church, and is hurtful to the real interests of the advancement of
   truth.”
-#/
 
 This address from the Catholics of Coblentz drew from the dying
 Montalembert[280] words of impassioned admiration. All his old
@@ -6948,20 +6708,17 @@ America.
 
 Liebermann’s doctrine is:--
 
-/#
   “It is certain from the principles of the Catholic Faith that the
   supreme Pontiff has the chief place in determining controversies of
   Faith; and that his judgment, if the consent of the Church be added,
   is irreformable. But whether his judgment is infallible before the
   Church’s consent is a matter open to dispute among Catholics without
   detriment to their Catholicity.”[285]
-#/
 
 [285] Liebermann, _Institutiones Theologicæ_, ii. p. 540.
 
 To this proposition Liebermann adds:--
 
-/#
   “Although there are many saintly and learned men among Catholics,
   who in their regard for the See of Peter have taught or still are
   teaching that the Roman Pontiff when he speaks _ex cathedra_ cannot
@@ -6970,11 +6727,9 @@ To this proposition Liebermann adds:--
   considers to be pious and earnest defenders of the Faith. Therefore,
   this question is of the number of those which may be disputed without
   detriment to Catholicity.”
-#/
 
 His conclusion is that:--
 
-/#
   “accordingly the Infallibility of the Roman Pontiff cannot be
   urged against heretics, nor utilised to establish the Catholic
   Faith....[286] Nor can it be adduced, even by those who are fully
@@ -6982,7 +6737,6 @@ His conclusion is that:--
   be employed as a basis of divine Faith which is not in itself
   indisputable. Neither can that be made the rule of faith which itself
   forms no portion of the faith.”[287]
-#/
 
 [286] Page 542.
 
@@ -6994,7 +6748,6 @@ answer:--
 
 [288] Page 87.
 
-/#
   “Do we believe that, as a consequence of this primacy, the Pope is
   infallible and may decide as Christ Himself; as the non-Catholics
   allege?
@@ -7002,7 +6755,6 @@ answer:--
   “No. The Pope possesses in controversies of faith only a judicial
   decision which can only become an article of faith when the Church
   gives its concurrence.”
-#/
 
 This and similarly worded books of instruction had been recently
 withdrawn in parts of Germany through Ultramontane influence, and
@@ -7017,12 +6769,10 @@ restrictions, without any reference to the Pope. At the close of the
 volume he gives a list of Adiaphora, or things indifferent, in which he
 observes that
 
-/#
   “although the greatest reverence, obedience and submission be due
   to the Supreme Pontiff yet he is not favoured with the special
   privilege of inerrancy which was given by Christ our Lord only to the
   Church.”[289]
-#/
 
 [289] Chrismann, _Regula Fidei_, p. 319.
 
@@ -7105,12 +6855,10 @@ said a contemporary writer[297]--
 
 [297] Quirinus, _Letters from Rome_, p. 36.
 
-/#
   “contains a promise, worded with all the distinctness that could
   be desired, that, so far as it depends on the votes of the German
   Bishops, the yoke of the new articles of faith shall not be laid on
   the German nation.”
-#/
 
 When the King of Bavaria read the Pastoral, he congratulated the
 Bishops on the line adopted, and expressed a hope that a similar spirit
@@ -7222,7 +6970,6 @@ restrictive measures, but asked what attitude the Governments proposed
 to adopt toward the Council. To delay until a decree was passed would
 leave the Government no power except to protest.
 
-/#
   “We believe,” he wrote,[302] “that we are not mistaken when we
   maintain that not one of the Austrian Bishops will attempt to oppose
   the proclamation of the dogma of Infallibility. In this dogma lies
@@ -7233,19 +6980,16 @@ leave the Government no power except to protest.
   hierarchy will come out of the Council stronger and more powerful,
   and begin the battle against modern civilization with renewed
   strength.”
-#/
 
 [302] _Memoirs_, p. 338.
 
 Unsupported, however, by the Austrian and other Governments, the
 Bavarian could, of course, do nothing.
 
-/#
   “The Bavarian Government,” wrote Hohenlohe,[303] “has thereby,
   indeed, forfeited the sympathy of the Society of Jesus, if indeed it
   ever had it; but it has won the approval of all good Catholics who
   are not under the influence of that Society.”
-#/
 
 [303] _Ibid._ p. 356.
 
@@ -7257,13 +7001,11 @@ Ultramontane. Most instructive are the confidential utterances of the
 Cardinal to the statesman, lamenting the dominant influences on the eve
 of the Vatican Council.
 
-/#
   “Perhaps the Holy Father is still deliberating,” writes the Cardinal
   in September 1869, about two months before the Council opened, “but
   I doubt it. With all my respect for the Supreme Head of the Church,
   my obedience will be put to a severe test. I trust that God will help
   me. I often ask myself, What shall I do in these storms?”
-#/
 
 He feels himself isolated, and deliberately ignored by the ruling
 authorities. He writes that Döllinger could come to live with him in
@@ -7271,7 +7013,6 @@ Rome. He will receive into his own house any trustworthy theologian
 to assist him while the Council proceeds. The Jesuits, he says, have
 raised the question of Infallibility as a standard.
 
-/#
   “The Pope is charmed with the idea, without the least notion what the
   Jesuit party is saying and doing. Touched by their devotion, he in
   his blindness embraces the whole Order as the saviour of his honour
@@ -7281,7 +7022,6 @@ raised the question of Infallibility as a standard.
   a trace remains. The good fathers know that they can keep a firm hold
   on Pius IX. only if he is driven into a corner and _must_ fly to them
   for help.”
-#/
 
 It was arranged that Friedrich should go to Rome as Cardinal
 Hohenlohe’s theologian; but that he was to live at the Cardinal’s
@@ -7297,14 +7037,12 @@ The Cardinal wrote again from Rome[305] to say:--
 
 [305] November 1869.
 
-/#
   “There will be many a sharp tussle, and I fear the Ultramontane party
   will have the majority. They are impudent and reckless, and though
   at the present moment the Pope is somewhat out of humour, owing to
   various manifestations, such as Dupanloup, etc., yet I think that at
   the crucial moment the impudent party will endeavour to outshout all
   the others.”[306]
-#/
 
 [306] _Ibid._ p. 375
 
@@ -7354,7 +7092,6 @@ Veuillot, who was then in Rome, got the following criticisms on
 Cardinal Hohenlohe and Professor Friedrich published in his journal,
 _L’Univers_, which he edited in France.
 
-/#
   “The Governor of the Eternal City, who is also head of the police has
   at length discovered the source of the indiscretions by which the
   secrets of the Council have been betrayed. Suspicion had long rested
@@ -7365,7 +7102,6 @@ _L’Univers_, which he edited in France.
   who had betrayed his confidence. It was reported in Rome that the
   instigator of these deplorable disloyalties was Prince Hohenlohe,
   President of the Bavarian Government.”
-#/
 
 Meanwhile Friedrich, neither expelled nor dismissed, was quietly
 residing in Rome and copying this extract into his diary, with the
@@ -7385,7 +7121,6 @@ discredited. A criticism which appeared in the _Univers_ indicated, in
 the plainest terms, the future alternatives awaiting the adherents of
 _Janus_, and indeed the opposition in general.
 
-/#
   “Are they decided,” asked Veuillot, “to remain Catholics after the
   Definition? If they say no, their Catholicity is already condemned.
   If yes, they are preparing for themselves an act of faith and
@@ -7393,7 +7128,6 @@ _Janus_, and indeed the opposition in general.
   is contrary to the facts of history. Will they believe that black
   is white because the Council says so, investing it with a power to
   convert the false into true?”
-#/
 
 Friedrich agreed with Veuillot to this extent, that history cannot be
 reversed by a conciliar decision. But Friedrich did not attempt to
@@ -7417,7 +7151,6 @@ We owe to Friedrich the following letter, in which an Oriental Bishop
 who had ventured to sign a protest in Rome against the Infallibilist
 theory, makes an abject recantation:--
 
-/#
   “Most Holy Father,[308] I entreat you to listen with condescension
   and benevolence to the humblest of your beloved sons and the
   humblest of Bishops, who ventures, prostrate before your feet, to
@@ -7477,11 +7210,8 @@ theory, makes an abject recantation:--
   demanded by the authority of many doctors, and, in the words of St
   Augustine, by the entire Catholic Church.”
 
-/*
     Signed by the Chaldee Archbishop      KHAYATH.[309]
     _March 1._
-*/
-#/
 
 [308] From Friedrich’s _Tagebuch_.
 
@@ -7744,7 +7474,6 @@ of doing anything else than remain where they are.[317]
 
 [317] G. F. Cobb, _Few Words on Reunion_ (1869), p. 6.
 
-/#
   “You require us, for instance, to say--not formally indeed, but in
   effect--that we have no priest and no sacraments; whilst it is quite
   plain to us that our present Episcopate is in all respects the true
@@ -7762,13 +7491,11 @@ of doing anything else than remain where they are.[317]
   own Episcopate, loyal at the same time (in spirit) to yours: if we
   are not of the _body_ of your Church, we belong at any rate to its
   _soul_.”
-#/
 
 After this vigorous declaration of principles and loyalty the
 reunionist felt justified in confessing the defects within the Anglican
 Communion of which he was painfully conscious.
 
-/#
   “Need we, after all, be so very angry at being classed with
   Protestants--if it be true that we have been so--when at least
   half our brother Churchmen rejoice at it, and are never tired of
@@ -7780,7 +7507,6 @@ Communion of which he was painfully conscious.
   towards vindicating her Catholicity even in the Anglican sense of
   the word? Does she present herself to her Catholic brethren on the
   Continent in any very marked contrast to the Protestant sects?”
-#/
 
 Thus there was at least in certain directions within the Anglican
 Communion a distinct readiness to respond to any overtures for unity.
@@ -7799,12 +7525,10 @@ he wrote his Eirenicon, Is Healthful Reunion Impossible? The Belgian
 Jesuit De Buck corresponded with Bishop Forbes of Brechin. The Jesuit
 Father
 
-/#
   “was certain that at Rome there was no wish for Infallibility.” He
   “maintained that every one at Rome was astonished to hear that the
   Anglican Bishops did not consider the command to attend the Council
   as addressed to them.”[318]
-#/
 
 [318] Liddon’s _Life of Pusey_, iv. p. 186.
 
@@ -7826,7 +7550,6 @@ only be wasting his time in matters which he did not understand.[321]
 
 Not unnaturally, Pusey’s penetrating criticism was:--
 
-/#
   “If they invited any, it should be Bishops. Theologians go to
   accompany their Bishops. They have ignored our Bishops, and ask any
   of us whom they may ask informally, because they will deliberately
@@ -7844,7 +7567,6 @@ Not unnaturally, Pusey’s penetrating criticism was:--
   distinct objects: we, corporate reunion upon explanation of certain
   points where they have laid down a _minimum_ and upon a large range
   beyond it; they, individual conversions or the absorption of us.”
-#/
 
 [322] Page 180.
 
@@ -7872,7 +7594,6 @@ movements at Rome were watched by Pusey with ever-deepening sorrow:--
 
 [325] Page 192.
 
-/#
   “Manning’s is a strange lot,” he wrote “with, I should have thought,
   but a very moderate share of learning, by throwing himself into
   the tide, to seem to be at the head of a movement which should
@@ -7885,13 +7606,11 @@ movements at Rome were watched by Pusey with ever-deepening sorrow:--
   Council, or at least important Bishops, with the idea that hundreds
   of thousands of the English would join the Roman Communion if the
   Infallibility were declared.”[326]
-#/
 
 [326] Liddon’s _Life of Pusey_, iv. p. 189.
 
 Pusey’s biographers say that
 
-/#
   “as the meetings of the Council went on, Pusey had really very little
   hope of any wise result.”[327]
 
@@ -7899,7 +7618,6 @@ Pusey’s biographers say that
   from ‘Is Healthful Reunion Possible?’ to a form which embodied his
   future attitude towards the Roman question--‘Healthful Reunion, as
   conceived possible before the Vatican Council.’”[328]
-#/
 
 [327] Page 190.
 
@@ -8116,7 +7834,6 @@ past. It extends across all history.
 
 [335] Reusch, _Declarations and Decrees._
 
-/#
   “A Council only makes dogmatic decrees on things already universally
   believed in the Church, as being testified by the Scriptures and by
   Tradition, or which are contained, as evident and clear deductions,
@@ -8127,7 +7844,6 @@ past. It extends across all history.
   explanation of what was hitherto implicitly believed, nor is it a
   deduction that follows with logical necessity, but simply the very
   opposite of the earlier doctrine, which thereby would be subverted.”
-#/
 
 Döllinger contended further that all theologians agree that the
 ecumenical character of a Council depends, among other essential
@@ -8167,7 +7883,6 @@ of the ablest orators in the Council, the brilliant Strossmayer,
 being called to order by the President, uttered against the Rules the
 following impassioned criticism:--
 
-/#
   “I am persuaded that the perpetual and unmistakable rule of faith
   and tradition always was and always must remain that nothing could
   be passed without morally unanimous consent. A Council which ignored
@@ -8176,7 +7891,6 @@ following impassioned criticism:--
   world under penalties of eternal life and death, would, according
   to my most profound conviction, have transgressed its lawful
   bounds.”[338]
-#/
 
 [338] Lord Acton, _Vatican Council_, p. 92.
 
@@ -8648,7 +8362,6 @@ Cardinals.
 
 [353] _Ibid._ p. 423.
 
-/#
   “The time had come for the famous question of Infallibility to
   be submitted to the Congregation for proposals. Its decision was
   anxiously expected. The Pope himself had given orders that he should
@@ -8717,7 +8430,6 @@ Cardinals.
   Pope and reported to him all the incidents. They said that, thanks
   to the Archbishop of Tours, a favourable vote had been obtained. The
   Holy Father expressed his keen satisfaction.”[354]
-#/
 
 [354] Follenay, _Vie de Cardinal Guibert_, ii. p. 426.
 
@@ -8859,7 +8571,6 @@ in a letter to Cardinal Antonelli,[359] the Papal Secretary of State.
 
 [359] Quirinus, p. 854.
 
-/#
   “This discussion of Papal Infallibility before all the other
   questions which must necessarily precede it, this reversal of the
   proper and regular procedure of the Council, this impulsive haste in
@@ -8882,7 +8593,6 @@ in a letter to Cardinal Antonelli,[359] the Papal Secretary of State.
   “You can do anything by force of numbers against reason and against
   right. But there is the sequel to be considered. It is then that
   troubles will arise for yourselves and for the Church.”
-#/
 
 [360] _Ibid._ p. 856.
 
@@ -8905,7 +8615,6 @@ Cardinals.
 
 [361] Friedrich, _Documenta_.
 
-/#
   “Wide-spread complaints exist,” says the writer, “that the Council
   is not free. This is momentous, for it affects its ecumenicity. Some
   indeed assure us that all is well since the Pope is free. This is
@@ -8997,7 +8706,6 @@ Cardinals.
   sinecure. Some desired at once to withdraw altogether. Others, and
   these the more numerous, were reluctant to take this final step.
   Which of the two was the wiser course the future will show.”
-#/
 
 The author complains still further of pressure exerted from without; of
 ordinary priests encouraged by Roman influences to make declarations
@@ -9220,12 +8928,10 @@ say:--
 
 [374] Quirinus, p. 802.
 
-/#
   “Pius is firm and immovable, smooth and hard as marble, infinitely
   self-satisfied, merciless and ignorant, without any understanding of
   the mental conditions and needs of mankind, without any notion of the
   character of foreign nations, but as credulous as a nun.”
-#/
 
 Frustrated in that last appeal, the deputation returned to their party.
 A meeting was held very late on the Saturday night.[375] What should
@@ -9356,7 +9062,6 @@ other to tokens of divine displeasure and approaching desolation. But
 whatever constructions were placed upon the circumstance, the dogma
 decreed indisputably declared that--
 
-/#
   “The Definition affirms that the Roman Pontiff, when he speaks
   _ex cathedra_--that is, when in discharge of the office of Pastor
   and Doctor of all Christians, by virtue of his supreme Apostolic
@@ -9367,7 +9072,6 @@ decreed indisputably declared that--
   defining doctrine regarding faith and morals. And that, therefore,
   such definitions of the Roman Pontiff are irreformable of themselves
   and not from the consent of the Church.”[382]
-#/
 
 [382] See Manning’s _Pastoral_ (1870): _The Vatican Council and its
 Definition_, p. 57.
@@ -9473,7 +9177,6 @@ that their course was clear. He drew a sketch of the conduct which he
 considered would be ideal for a perplexed Bishop under these trying
 circumstances.
 
-/#
   “If even up to ... the last General Congregation before the Solemn
   Session a Bishop is not satisfied as to all his difficulties, or if
   he thinks it better that the decision should not yet be pronounced
@@ -9483,7 +9186,6 @@ circumstances.
   study of the subject and by prayer, and may thus overcome his last
   difficulties, and see that it is well that the definition should be
   made.”
-#/
 
 This portion of Fessler’s advice was not much use since it appeared
 subsequently to the final Session. Whether the advice to “acquire a
@@ -9497,7 +9199,6 @@ days.
 Should, however, the best use of the interval prove unavailing,
 Fessler’s advice was as follows:--
 
-/#
   “Nay, even if he cannot attain this full conviction and insight into
   the matter by any exertion of his own, he will wait for the decision
   of the Council with a calm trust in God, without himself taking part
@@ -9516,7 +9217,6 @@ Fessler’s advice was as follows:--
   _must_ be capable of a solution; and so I shall honestly busy myself
   with all the powers of my soul to find their solution for myself, and
   for those whose instruction God has confided to my care.’”
-#/
 
 Fessler omits all recognition of the possibility that men if placed
 in a dilemma between Authority and History may choose the latter. The
@@ -9529,7 +9229,6 @@ Such is Fessler’s advice to Bishops who doubted the truth of the
 doctrine. To those who only considered its definition inopportune his
 counsel was:--
 
-/#
   “Those Bishops who in the last General Congregation voted with the
   _non placets_, only because they really thought it was not a good
   thing, not necessary, not for the benefit of souls in countries
@@ -9551,7 +9250,6 @@ counsel was:--
   clearly represented, all erroneous misrepresentations of it be
   excluded, the reasons for the decision of the doctrine brought out
   plainly, and all objections to it zealously met and answered.”[385]
-#/
 
 [385] Fessler, _True and False Infallibility_, p. 21.
 
@@ -9569,7 +9267,6 @@ In a letter[386] written six days after the Decree was passed he says:--
 
 [386] See Letter to Duke of Norfolk, pp. 96, 97, 98, 99.
 
-/#
   “I saw the new Definition yesterday, and am pleased at its
   moderation--that is, if the doctrine is to be defined at all.
   The terms are vague and comprehensive; and personally I have no
@@ -9609,7 +9306,6 @@ In a letter[386] written six days after the Decree was passed he says:--
   should not recognise in their opposition to the majority that force,
   firmness, and unity of view, which creates a real case of want of
   moral unanimity in the Council....”
-#/
 
 But it is impossible not to feel that dogmas which men are recommended
 to accept on such extenuating pleas, dogmas whose irregularity is
@@ -9638,7 +9334,6 @@ takes.[387]
 
 [387] See Letter to Duke of Norfolk, p. 98.
 
-/#
   “I have been thinking over the subject which just now gives you and
   me, with thousands of others, who care for religion, so much concern.
 
@@ -9653,7 +9348,6 @@ takes.[387]
 
   “But there are other means by which I can be brought under the
   obligation of receiving a doctrine as a dogma.”
-#/
 
 And he proceeds to enumerate uninterrupted tradition, Scripture
 inference, etc. And then he propounds the theory that “the fact of
@@ -9665,12 +9359,10 @@ self-assertion.”
 This he supports by an appeal to the historic authority which the Pope
 has actually exercised, and to
 
-/#
   “the consideration that our merciful Lord would not care so little
   for His elect people, the multitude of the faithful, as to allow
   their visible Head and such a large number of Bishops to lead them
   into error; and an error so serious, if an error.”
-#/
 
 No one can fail to be impressed with Newman’s painful consciousness
 of the Council’s indefensible irregularities; with his refusal to
@@ -9708,7 +9400,6 @@ indeed, all that it was possible to say. But even his brilliant genius
 could scarcely efface the effect of his own letter written to Bishop
 Ullathorne before the dogma was passed.
 
-/#
   “Moreover,” he wrote, “a letter of mine became public property. That
   letter ... was one of the most confidential I ever wrote in my life.
   I wrote it to my own Bishop under a deep sense of the responsibility
@@ -9719,7 +9410,6 @@ Ullathorne before the dogma was passed.
   it, for I never put it forward, so it will remain on the columns of
   newspapers whether I will or not; but I withdraw it as far as I can
   by declaring that it was never meant for the public eye.”
-#/
 
 Certainly it needed no assurance from the writer to convince us that
 this letter was not designed for publicity. It is equally impossible
@@ -9764,7 +9454,6 @@ held in the Church. Manning stated this in its extremest form. The
 doctrine had always been of divine faith. Newman was quite unable to
 accept this view, and supported Gladstone in rejecting it.
 
-/#
   “Newman,” says Ambrose De Lisle, in a letter to Gladstone,
   “considers your reply to Archbishop Manning’s contention that Papal
   Infallibility was always held as a dogma of divine faith complete,
@@ -9773,7 +9462,6 @@ accept this view, and supported Gladstone in rejecting it.
   deduces it, and holds that the Church has deduced it in these latter
   days out of the three texts he quotes in his letter to the Duke of
   Norfolk.”
-#/
 
 [391] _Life of De Lisle_, ii. p. 48.
 
@@ -9802,13 +9490,11 @@ not realise, that the Roman Pontiff is infallible.
 Newman’s theory of the relation of Papal Infallibility to History
 greatly perplexed some whom it was designed to help.
 
-/#
   “I confess that would not satisfy me,” wrote De Lisle....[392] “I am
   far from going to all lengths with the Archbishop (Manning) yet ... I
   hold ... that Papal Infallibility restricted as it is by the Vatican
   Definition, was always a part of Divine Revelation.... I maintain
   that it was always believed by the orthodox....”
-#/
 
 [392] _Life of De Lisle_, ii. p. 48.
 
@@ -10000,7 +9686,6 @@ in the previous November.
 
 [403] Guillermin, p. 259.
 
-/#
   “I am glad to hear it,” replied the Archbishop. “As for myself,
   separated from the world for five months by the siege of Paris, I
   have been unable to ascertain what was happening, or to correspond
@@ -10016,7 +9701,6 @@ in the previous November.
   if the Holy Father wishes, for the sake of people in general, that
   such a declaration should be made, it is a formality to which I will
   unhesitatingly yield.”[404]
-#/
 
 [404] Guillermin, p. 259.
 
@@ -10068,13 +9752,11 @@ wishes to say that he has no difficulty in the matter.
 
 [407] Acton, p. 999.
 
-/#
   “I only wrote and spoke,” he says, “against the opportuneness of the
   definition. As to the doctrine I always held it not only in my heart,
   but in public writings.... I have no difficulty in again declaring
   my adhesion; only too happy if I can thereby offer Your Holiness any
   comfort in the midst of his heavy trials.”
-#/
 
 Since his return from Rome he has written to his diocese that the
 conflicts of the Church are not like those of the world.
@@ -10112,7 +9794,6 @@ Guibert, the new Archbishop of Paris):
 
 [410] _Acta_, p. 1405.
 
-/#
   “Had I not been very ill and unable to write a letter I should have
   long since sent you my congratulations. I desire at least to-day, my
   lord, to say simply what it appears to me there was no necessity to
@@ -10120,19 +9801,16 @@ Guibert, the new Archbishop of Paris):
   the decrees of the Vatican Council. I cancel everything contrary
   to the decrees which I may have written on this subject before the
   decision.”[411]
-#/
 
 [411] _Acta_, p. 1405.
 
 The Archbishop sent a kindly reply to the effect that he had never
 doubted Gratry’s docility.
 
-/#
   “By such noble and generous examples we harmonise our conduct with
   our convictions, and prove to the world that we are sincere in
   maintaining that the light of faith is superior to that of our feeble
   and vacillating reason.”
-#/
 
 But how about the facts of history? Gratry effaced his interpretation;
 but he could not cancel the facts. How abandon his former convictions?
@@ -10142,7 +9820,6 @@ for accepting without reservation the Council’s decrees, he explains
 that, before the Decision, he argued in accordance with his conscience
 and his right; since the Decision, he had not said a word.
 
-/#
   “Since the Decision, and immediately after it, I had two interviews
   with my Archbishop, Mgr. Darboy.[412] We were agreed both in words
   and in faith. He granted me my position in the Church of Paris, and
@@ -10156,7 +9833,6 @@ and his right; since the Decision, he had not said a word.
   declaration surprised and saddened me. I have constantly answered
   them that I have nothing to say, and nothing to write upon this
   subject.”
-#/
 
 [412] Guillermin, _Vie de Mgr. Darboy_, p. 261.
 
@@ -10165,13 +9841,11 @@ strict rights, if an assurance would remove his brethren’s anxiety,
 Gratry wrote to his new Archbishop a letter of submission. That, he
 says, was easy. What would not have been easy was to say:--
 
-/#
   “I have been a member and a soldier of the Catholic Church for
   half a century, but now comes an Ecumenical Council which I do
   not acknowledge. I therefore separate from its Communion. To
   contradict, at a single stroke, all my life, and deny all my deepest
   convictions--do you blame me for not doing that?”
-#/
 
 If they object that this was not an Ecumenical Council since it was
 not free, Gratry replies that he is unable to deny its validity, and
@@ -10187,12 +9861,10 @@ how overthrow truths which he has firmly established, and re-establish
 the falsehoods which he has overthrown? To this difficult enquiry
 Gratry’s answer was:--
 
-/#
   “I mean to overthrow none of the truths which I may have established
   in these letters. I mean to restore no falsehood therein denounced.
   But I admit that these letters may contain mistakes; and that it is
   those mistakes which I mean to efface.”
-#/
 
 A distinguished Bishop, strongly opposed to the contents of the
 letters, had been advising him that he could maintain a considerable
@@ -10209,7 +9881,6 @@ intellectual perplexity.
 Gratry also wrote an explanatory letter to M. Legouvé, a colleague in
 the French Academy.
 
-/#
   “I opposed inspired Infallibility; the Council’s decree has rejected
   inspired Infallibility. I opposed personal Infallibility; the
   Decree affirms official Infallibility. Some writers of the School
@@ -10224,14 +9895,12 @@ the French Academy.
   Doubtless I have made mistakes, both on this subject and on others;
   but as soon as I recognise my error I cancel it, without feeling
   thereby humiliated.”
-#/
 
 This letter was not printed until 1907. And it appears that Gratry
 wrote still further explanations which have not been published yet.
 A recently printed letter of Charles Perraud contains the following
 important postscript:--
 
-/#
   “Father Gratry bids me say that he has just finished a little work
   in which he explains his reasons and above all the limits of his
   submission to the Council’s decree. He had already given a summary
@@ -10246,7 +9915,6 @@ important postscript:--
   that Father Gratry has treated with contempt the historic evidence.
   God give him time to say on this matter all that I know he desires to
   say.”
-#/
 
 But this document, without which the complete story of Gratry’s
 submission cannot be told, has never been permitted to see the light.
@@ -10266,7 +9934,6 @@ Archbishop Kenrick of St Louis represented opposition in the American
 Church. During the Council he had warmly supported Dupanloup against
 American Ultramontanes.
 
-/#
   “Many among us,” he wrote,[414] “believe that Ecclesiastical history,
   the history of the Popes, the history of the Councils, and the
   Tradition of the Church, are not in harmony with the new doctrine.
@@ -10274,7 +9941,6 @@ American Ultramontanes.
   an opinion which seems to us a novelty in the Church, destitute of
   solid foundation in Scripture and Tradition, and contradicted by
   indisputable evidence.”
-#/
 
 [414] _Acta_, p. 1375, 2nd May 1870.
 
@@ -10300,13 +9966,11 @@ As for himself--
 
 [416] Schulte, _Der Altkatholicismus_, p. 267.
 
-/#
   “I could not defend the Council or its action; but I always professed
   that the acceptance of either by the Church would supply its
   deficiency. I accordingly made up my mind to submit to what appeared
   inevitable, unless I were prepared to separate myself at least in
   the judgment of most Catholics from the Church.”
-#/
 
 His act of submission “was one of pure obedience, and was not grounded
 on the removal of my motives of opposition to the decrees, as referred
@@ -10319,7 +9983,6 @@ Newman’s theory of Development. If it justified Newman in becoming a
 Catholic, “I thought that it might justify me in remaining one.” To
 this the Archbishop added the following memorable sentence:--
 
-/#
   “Notwithstanding my submission, I shall never teach the doctrine of
   Papal Infallibility so as to _argue_ from Scripture or Tradition in
   its support, and shall leave to others to explain its compatibility
@@ -10328,7 +9991,6 @@ this the Archbishop added the following memorable sentence:--
   I shall confine myself to administrative functions, which I can do
   the more easily without attracting attention, as for some few years
   past I have seldom preached.”
-#/
 
 His whole experience, he says, has taught him that there can be no
 liberty in any future sessions of the Council; and this is warning
@@ -10369,7 +10031,6 @@ morass of their operations. Their activities, however, increased. On
 the eve of the great Decision, Cardinal Hohenlohe wrote the following
 remarkable words:--
 
-/#
   “To-day is to take place the sitting in which the Pope will proclaim
   the doctrine of Infallibility. The Bishops of the minority are
   leaving; some of them went yesterday evening, among others the
@@ -10392,7 +10053,6 @@ remarkable words:--
   that one has to speak so, but I am pierced in the innermost depths of
   my soul with such intense pain, that I could hardly bear it if I had
   not the consolation of the Holy Mass.”
-#/
 
 [417] An advocate of the infallibilist theory.
 
@@ -10406,7 +10066,6 @@ July. Hohenlohe replied that he had always believed in Infallibility.
 Quoting this reply, in a letter to his brother, the Cardinal added,
 confidentially:--
 
-/#
   “There is nothing here about the Council and dogmatic constitution,
   nor did I even write that to the Pope, but only to Mgr. Cenni
   (the private secretary), without in the least instructing him to
@@ -10414,13 +10073,11 @@ confidentially:--
   validity of the Council, so long can I do no more, since I shall
   yet have to give an account before God, and I would not get into an
   unpleasant situation there.”
-#/
 
 Prince Hohenlohe was not less discouraged than the Cardinal. What
 particularly grieved him was the lack of moral courage in the German
 Bishops. To others and to himself it seemed a
 
-/#
   “disgraceful apostasy of the German Bishops, seeing that after
   they had pledged themselves, before their departure from Rome, to
   decide nothing about the Dogma of Infallibility without previously
@@ -10430,7 +10087,6 @@ Bishops. To others and to himself it seemed a
   “When one views the moral ruin, the complete lack of honour among the
   Bishops, one shudders at the influence which the Jesuitical element
   in the Church can exert on human nature.”
-#/
 
 It is natural to enquire what overt action the advocates of these views
 and its sympathisers in the Roman body would adopt. The excommunication
@@ -10439,7 +10095,6 @@ of political opponents of things ultramontane was held in Berlin.
 There was among them a strong desire for action of some kind, and for
 emphatic opposition. But Prince Hohenlohe disapproved.
 
-/#
   “I demonstrated,” he says, “that it was necessary above all things
   for us to remain in the Catholic Church. So long as we had no
   Bishops, no clergy, and no congregations, but only a number of
@@ -10452,12 +10107,10 @@ emphatic opposition. But Prince Hohenlohe disapproved.
   “that the agitation will produce any great results. Interest in the
   person and fate of Döllinger, for it is nothing more, does not make a
   reformation. Interest in dogmatic subtleties no longer exists.”
-#/
 
 The Prince recorded his personal convictions in the following
 memorandum:--
 
-/#
   “I am of opinion that the Concilium Vaticanum of 1869–1870 is in no
   way ecumenical, and that the time will come when the Infallibility
   of the Pope proclaimed therein will be pronounced heresy. But as the
@@ -10476,7 +10129,6 @@ memorandum:--
   discuss. In the meantime I have this hope, and therefore am waiting.
   Hence I remain a member of the Church, without going over to the
   Ultramontanes.”
-#/
 
 
                              IV. IN GERMANY
@@ -10591,7 +10243,6 @@ It remained, and this was more difficult, to revise the case of
 Honorius in the light of the new dogma. In the second edition of his
 “History of the Councils,” Hefele observes:
 
-/#
   “We always were of the opinion that Honorius was quite orthodox
   in thought, but, especially in his first letter, he has unhappily
   expressed himself in a Monothelite fashion.” This opinion he still
@@ -10600,7 +10251,6 @@ Honorius in the light of the new dogma. In the second edition of his
   written in defence of Pope Honorius, I now modify or abandon many
   details of my earlier statements, or in particular, form a milder
   judgment of the first letter of Honorius.”
-#/
 
 Still, even now, his historic sense constrains him to speak of the “the
 unhappy sentence, ‘accordingly we acknowledge one will of our Lord
@@ -10672,12 +10322,10 @@ communion was terrible. But yet he would be more unhappy still if these
 had been obtained at the price of assenting to the dogma. And Reusch
 uttered his grief in the words of Ecclesiastes:--
 
-/#
   “Wherefore I praised the dead which are already dead more than the
   living which are yet alive. Yea, better is he than both they, which
   hath not yet been, who hath not seen the evil work that is done under
   the sun.”
-#/
 
 There remained, however, a work for Reusch to do. He found within the
 old Catholic communion a freedom to retain unaltered the faith which,
@@ -10701,14 +10349,12 @@ Hasenclever.[419]
 
 [419] 1872.
 
-/#
   “With countless other companions in faith I find myself reduced by
   the Papal Decree of 18th July 1870 to the alternative of either
   denying against my conscience the ancient faith as I received it, and
   on the basis of which I have remained for five and twenty years in
   the Catholic Church, or of placing myself in hopeless antagonism to a
   justly revered authority through refusal to submit.”
-#/
 
 Undoubtedly the principle is true that when the Church has once
 spoken all uncertainty is taken away; but no less undoubted is the
@@ -10745,14 +10391,12 @@ is impossible to discover in Revelation a basis for the theory that the
 collective testimony is not valid until the Holy See endorses it. The
 ancient principle is to rest in the testimony of all churches:--
 
-/#
   “Ecumenical Councils,” says Alzog, speaking of the early centuries,
   “the real representatives of the Catholic spirit, were in these ages
   of burning controversy the decisive authority, the supreme tribunal
   which ended all dogmatic disputes. And,” adds Hasenclever, “it was
   exactly when this principle became challenged by another that the
   risk of schism appeared.”
-#/
 
 Moreover, a mathematical formula may illustrate the effect of the papal
 claim on the Episcopate. If _a_+_b_=_a_ then _b_=_0_; or, at any rate,
@@ -10813,7 +10457,6 @@ the Council Chamber at St Peter’s.
 Dr Liddon, who was in Munich on 29th July, gave the following account
 of Döllinger some ten days after the passing of the Decree:--
 
-/#
   “A large amount of our conversation, of course, turned on the
   Council and the Definition; and he speaks with the most entire
   unreserve. He says that the great danger now is lest the Bishops of
@@ -10827,7 +10470,6 @@ of Döllinger some ten days after the passing of the Decree:--
   internal assent. The Archbishop of Munich is very anxious. He told Dr
   Döllinger that the deputation which went to the Pope, begging him to
   spare the Church, nearly carried its point.”
-#/
 
 It is clear from this and other sources that the Archbishop of Munich,
 if left to himself, had no desire to proceed to extremities with the
@@ -10885,7 +10527,6 @@ assuredly be not merely one truth among many, but the actual foundation
 of the rest. How could the basal principle have been obscured through
 centuries?
 
-/#
   “We are still,” wrote Döllinger to the Archbishop, “waiting the
   explanation how it is that, until 1,830 years had passed, the
   Church did not formulate into an article of faith a doctrine which
@@ -10904,7 +10545,6 @@ centuries?
   on the 18th July?” Döllinger concluded with a deliberate and emphatic
   rejection of the new Decree: “As a Christian, as a theologian, as a
   historian, as a citizen, I cannot accept this doctrine.”
-#/
 
 Döllinger’s biographer assures us that this reply to the Archbishop
 of Munich brought Döllinger hundreds of letters, telegrams, addresses
@@ -10974,7 +10614,6 @@ vitality, correcting the tendencies of the followers of Loyola. But
 these had become either powerless shadows, or satellites of the Jesuit
 dominating body.
 
-/#
   “The tendency of events since 1870 was shown,” said Döllinger, “in
   the solemn proclamation of Liguori as Doctor of the Church:--
 
@@ -10983,17 +10622,14 @@ dominating body.
   storehouse of errors and falsehoods. In the whole range of Church
   history I do not know a single example of such a terrible and
   pernicious confusion.”
-#/
 
 The public papers repeatedly announced Dr Döllinger’s reconciliation
 with the Roman Communion. On one occasion he replied:--
 
-/#
   “This is now the fourteenth time that my submission has been
   announced by Ultramontane papers; and it will often occur again. Rest
   assured that I shall not dishonour my old age with a lie before God
   and man.”
-#/
 
 Ten years after the Vatican Decision, Döllinger received a pathetic,
 imploring appeal from a lady of high social position, entreating him
@@ -11002,7 +10638,6 @@ would entail, and to have mercy on his own unhappy soul.
 
 Döllinger’s answer is memorable:--
 
-/#
   “I am now in my eighty-first year, and was a public teacher of
   theology for forty-seven years, during which long period no censure,
   nor even a challenge that I should defend myself, or make a better
@@ -11016,11 +10651,9 @@ Döllinger’s answer is memorable:--
   changed my teaching, but because others had considered it advisable
   to undertake the alteration, and to make opinions into Articles of
   Faith.”
-#/
 
 But why not make a sacrifice of his intellect:--
 
-/#
   “Because,” says Döllinger, “if I did so in a question which is for
   the historical eye perfectly clear and unambiguous, there would
   then be no longer for me any such thing as historical truth and
@@ -11028,7 +10661,6 @@ But why not make a sacrifice of his intellect:--
   had been in a world of dizzy illusion, and that in historical matters
   I am altogether incapable of distinguishing truth from fable and
   falsehood.”
-#/
 
 But this would undermine his whole confidence in historic fact, and
 thereby shatter the foundation of his religion. For it is on historic
@@ -11044,12 +10676,10 @@ Steichele, a former pupil of Döllinger, and attached to him by feelings
 of the deepest veneration. Von Steichele made overtures for Döllinger’s
 reconciliation with the Papacy. He wrote in 1879 a delightful letter:--
 
-/#
   “With the thankfulness of a pupil to a venerable teacher; with
   the respect of a disciple for the honoured bearer of the richest
   knowledge; with the love of an anxious Bishop for the brother who
   unhappily is not yet at one with him in things of highest moment.”
-#/
 
 Döllinger sent a frank but decided reply. Return was impossible. He
 said that his excommunication had been unjust, his treatment unexampled
@@ -11065,7 +10695,6 @@ with the authors of these actions. He had long ago challenged his
 former colleagues to know how they reconciled acceptance of the Vatican
 expositions with their conscience and their knowledge of the facts:--
 
-/#
   “The answer was always an evasive one, or an embarrassed shrug of the
   shoulder. They said that this was a question of detail, which the
   individual priest or layman did not need to enter into. Or they said
@@ -11074,7 +10703,6 @@ expositions with their conscience and their knowledge of the facts:--
   in leaving it to them to settle any contradictions that might exist.
   I do not need to tell you what an impression deplorable subterfuges
   of this kind have made upon me.”
-#/
 
 This was Döllinger’s final attitude toward the Roman Communion up to
 the last moment of consciousness on earth. He never by any act of will
@@ -11096,13 +10724,11 @@ reproduced the mediæval exaggerations of temporal power which had done
 incalculable mischief ever since Boniface VIII. endorsed them in his
 struggle with France.
 
-/#
   “You are certainly not too severe on Manning’s elaborate
   absurdities,” wrote Lord Acton;[422] “I had no idea he had gone so
   far.... It is impossible to exaggerate the danger of such doctrines
   as his. I wish you would take the line of Catholic indignation a
   little.”
-#/
 
 [422] _Lord Acton and his Circle_, pp. 211, 212, 215.
 
@@ -11151,7 +10777,6 @@ province from personal belief.
 But Acton went so far as to describe the Infallibility doctrine as
 independent of reason or history.
 
-/#
   “The sentiment,” he wrote,[426] “on which Infallibility is founded
   could not be reached by argument, the weapon of human reason;
   but resided in conclusions transcending evidence, and was the
@@ -11162,7 +10787,6 @@ independent of reason or history.
 
   “No appeal to revelation or tradition, to reason or conscience,
   appeared to have any bearing whatever on the issue.”
-#/
 
 [426] _History of Freedom_, pp. 512, 513.
 
@@ -11174,7 +10798,6 @@ baneful influence over the Roman Church for centuries. The Jesuit
 theologian, Petavius, in the seventeenth century supported existing
 authority at the expense of the past.
 
-/#
   “According to Petavius, the general belief of Catholics at a given
   time is the word of God, and of higher authority than all antiquity
   and all the Fathers. Scripture may be silent, and tradition
@@ -11185,18 +10808,15 @@ authority at the expense of the past.
   belief of the past yielded to the general conviction of the present.
   And as antiquity had given way to universality, universality made way
   for authority.”
-#/
 
 Thus in Acton’s view the dominant school in the Roman Church were
 resolved that “authority must conquer history.” He went so far as to
 say that:--
 
-/#
   “Almost every writer who really served Catholicism fell sooner or
   later under the disgrace or the suspicion of Rome.” Also that “the
   division between the Roman and the Catholic elements in the Church
   made it hopeless to mediate between them.”
-#/
 
 Acton’s description of the Vatican Assembly itself could only leave one
 conclusion as to its methods and impartiality, on the reader’s mind. He
@@ -11211,34 +10831,28 @@ refusal even to allow their protests to be uttered. He says that many
 Bishops were “bewildered and dispirited,” by the character of these
 Regulations. He says:--
 
-/#
   “It was certain that any real attempt that might be made to prevent
   the definition could be overwhelmed by the preponderance of those
   Bishops whom the modern constitution of the Church places in
   dependence on Rome.”
-#/
 
 He reveals his sympathies in the strongest way by pouring out his moral
 indignation on the minority Bishops for their weakness.
 
-/#
   “They showed no sense of their mission to renovate Catholicism....
 
   “They were content to leave things as they were, to gain nothing if
   they lost nothing, to renounce all premature striving for reform
   if they could succeed in avoiding a doctrine which they were as
   unwilling to discuss as to define.”
-#/
 
 The contemplation of all this causes Acton to write:--
 
-/#
   “The Church had less to fear from the violence of the majority than
   from the inertness of their opponents. No proclamation of false
   doctrines could be so great a disaster as the weakness of faith
   which would prove that the power of recovering the vital force of
   Catholicism was extinct in the Episcopate.”
-#/
 
 And then Acton traces the gradual tightening of the cords as the feeble
 and unhappy minority are more and more overcome. The new Regulations
@@ -11246,7 +10860,6 @@ determined that decrees should be carried by majority. They could not
 be accepted by the minority without virtual admission that the Pope
 must be infallible. For
 
-/#
   “If the act of a majority of Bishops in the Council, possibly not
   representing a majority in the Church, is infallible, it derives its
   Infallibility from the Pope.”
@@ -11256,12 +10869,10 @@ must be infallible. For
   to admit that a minority could prevent or nullify the dogmatic action
   of the Papacy was to renounce Infallibility. No alternative remained
   to the opposing Bishops but to break up the Council.”
-#/
 
 This was exactly where their courage failed them. They protested, but
 submitted. And here comes Acton’s judgment on their submission:--
 
-/#
   “They might conceivably contrive to bind and limit dogmatic
   Infallibility with conditions so stringent as to evade many of the
   objections taken from the examples of history; but in requiring
@@ -11273,18 +10884,15 @@ submitted. And here comes Acton’s judgment on their submission:--
   the murder of heretics and the deposing of kings. They approved what
   they were called on to reform, and solemnly blessed with their lips
   what their hearts knew to be accursed.”
-#/
 
 The effect of this moral feebleness on the Roman authorities was, says
 Acton, that
 
-/#
   “the Court of Rome became thenceforth reckless in its scorn of the
   opposition, and proceeded in the belief that there was no protest
   they would not forget, no principle they would not betray, rather
   than defy the Pope in his wrath. It was at once determined to bring
   on the discussion of Infallibility.”
-#/
 
 Lord Acton’s objections to the Infallibility school were clearly of
 a triple character. In relation to History: it betrayed a resolve
@@ -11322,12 +10930,10 @@ of the minority, and concludes--
 
 [427] _Sendschreiben an einen Deutschen Bishof_ (September 1870).
 
-/#
   “The Council is thus judged by the lips of its most able members.
   They describe it as a conspiracy against truth and rights. They
   declare that the new dogmas were neither taught by the Apostles nor
   believed of the Fathers.”
-#/
 
 This letter was described by the _Dublin Review_[428] as “an open and
 decisive revolt against the Church.”
@@ -11381,12 +10987,10 @@ newspaper[434] from Mr Gladstone’s inferences.
 
 [434] 24th November 1874.
 
-/#
   “I affirmed that the apprehension of civil danger from the Vatican
   Council overlooks the infinite subtlety and inconsistency with which
   men practically elude the yoke of official uniformity in matters of
   opinion.”
-#/
 
 And, as an illustration of this infinite subtlety in eluding authority,
 he quoted the example of Archbishop Fénelon, who “while earning
@@ -11395,21 +10999,17 @@ his former views unchanged.” Fénelon wrote:--[435]
 
 [435] _Pastoral_ (1699).
 
-/#
   “I accept this Brief ... simply absolutely and without shadow of
   reserve. God forbid that I should ever be remembered except as a
   pastor who believed it his duty to be more docile than the humblest
   of his sheep, and who placed no limit to his submission.”
-#/
 
 Three weeks later Fénelon wrote to a friend:--
 
-/#
   “I acknowledge no uncertainty either as to the correctness of my
   opinions throughout or as to the orthodoxy of the doctrine which I
   have maintained.... Unless competent persons rouse themselves in Rome
   the faith is in great danger.”
-#/
 
 It was no more than natural, after such public letters, that Lord Acton
 should be called in question by the authorities of his Communion. It
@@ -11421,18 +11021,15 @@ took advice as to the answer he should give.
 
 [436] _Lord Acton and his Circle_, pp. 359, 360, 364.
 
-/#
   “The great question is,” he wrote privately to a friend, “whether
   I ought to say that I _submit_ to the acts of this as of other
   Councils, without difficulty or examination (meaning that I feel no
   need of harmonising and reconciling what the Church herself has not
   yet had time to reconcile and to harmonise), or ought not the word
   _submit_ to be avoided, as easily misunderstood.”
-#/
 
 After further reflection Lord Acton proposed to say:--
 
-/#
   “I do not reject--which is all the Council requires under its
   extreme sanctions. As the Bishops who are my guides have accepted
   the decrees, so have I. They are a law to me as much as those at
@@ -11450,7 +11047,6 @@ After further reflection Lord Acton proposed to say:--
   that the Council is his law, though private interpretations are not,
   whose Diocesan has, after enquiry, pronounced him exempt from all
   anathema.”[438]
-#/
 
 [437] _Ibid._ p. 364.
 
@@ -11686,7 +11282,6 @@ better than F. Ryder writing against an extremist in 1867, but in words
 which accurately describes a conviction widely prevalent in the Roman
 obedience.
 
-/#
   “It is notorious that in some minds the craving for ideal
   completeness is so strong as to overpower from time to time their
   sense of truth, and under the influence of this craving, without any
@@ -11694,7 +11289,6 @@ obedience.
   present world of experience anything but what, according to their
   preconceived notions, should be. Such minds, as we might expect, have
   a strong instinctive dislike for historical studies.”[445]
-#/
 
 [445] Ryder, _Idealism in Theology_, p. 5.
 
@@ -11796,11 +11390,9 @@ of necessity be morally unanimous, otherwise they could not claim
 ecumenicity. Few Roman writers of last century have enforced this more
 strongly than Dr Newman. After the Vatican Decree he wrote:--
 
-/#
   “First, till better advised, nothing shall make me say that a mere
   majority in a Council, as opposed to a moral unanimity in itself,
   creates an obligation to receive its dogmatic decrees.”[448]
-#/
 
 [448] Letter to the Duke of Norfolk, p. 98.
 
@@ -11936,12 +11528,10 @@ Episcopate?
 The question which Newman puts in the mouths of the Irish Bishops of
 1826 is greatly to the point:--
 
-/#
   “How,” they would ask, “can it ever come to pass that a majority
   of our order should find it their duty to relinquish their prime
   prerogative, and to make the Church take the shape of a pure
   monarchy?”[451]
-#/
 
 [451] Letter to the Duke of Norfolk, p. 13.
 
@@ -11987,7 +11577,6 @@ single individual. This has been admirably expressed by Father Ryder
 in a passage, which although published three years before the Vatican
 Council, has not lost its force and applicability.
 
-/#
   “Theologians,” wrote Father Ryder,[453] “would not be anxious to add
   the same qualifications when speaking of the Church’s Infallibility”
   [_i.e._, as when speaking of that of the Pope] “for the obvious
@@ -12015,7 +11604,6 @@ Council, has not lost its force and applicability.
   _materiâ fidei_, and they dared not undertake the defence of more
   than it was necessary for their position to defend, or than they
   could defend satisfactorily.”[454]
-#/
 
 [453] _Idealism in Theology._
 
@@ -12117,13 +11705,11 @@ possessing any sort of claim to the supreme authority.
 
 Thus, for example, one theologian says:--
 
-/#
   “Neither in conversation, nor in discussion, nor in interpreting
   Scripture or the Fathers, nor in consulting, nor in giving his
   reasons for the point which he has defined, nor in answering letters,
   nor in private deliberations, supposing he is setting forth his own
   opinion, is the Pope infallible.”[456]
-#/
 
 [456] Billuart, ii. p. 110.
 
@@ -12141,7 +11727,6 @@ definitions or utterances of infallible authority.[457]
 Newman appears to have thought that Fessler’s tendency was to underrate
 the Vatican Decree.
 
-/#
   “Theological language,” wrote Newman, “like legal, is scientific,
   and cannot be understood without the knowledge of long precedent and
   tradition, nor without the comments of theologians. Such comments
@@ -12149,7 +11734,6 @@ the Vatican Decree.
   newspaper interpretations (Catholic and Protestant) of the words of
   the Council, without any hint from the Council itself to sanction him
   in doing so.”[458]
-#/
 
 [458] Letter in 1874. _Life of De Lisle_, ii. p. 42.
 
@@ -12157,7 +11741,6 @@ Newman, however, did not apparently consider Fessler’s statements just
 quoted as a case of underestimation, for in the following year he
 himself gave a similar restriction of the range of Infallibility.
 
-/#
   “Even when the Pope is _in_ the Cathedra Petri, his words do
   not necessarily proceed from his Infallibility. He has no wider
   prerogative than a Council, and of a Council Perrone says: ‘Councils
@@ -12172,18 +11755,15 @@ himself gave a similar restriction of the range of Infallibility.
   immobility has a ‘necessary connection with some dogmatic truth,’
   which the present bearing of the Holy See towards that philosophy
   virtually denies.”[459]
-#/
 
 [459] Letter to Duke of Norfolk, pp. 115, 116.
 
-/#
   “And again his Infallibility is not called into exercise unless
   he speaks to the whole world; for if his precepts, in order to be
   dogmatic, must enjoin what is necessary to salvation, they must
   be necessary for all men. Accordingly ... orders to particular
   countries or classes of men have no claim to be the utterances of his
   Infallibility.”[460]
-#/
 
 [460] Newman, Letter to Duke of Norfolk, p. 120.
 
@@ -12197,7 +11777,6 @@ A still further condition is introduced by Newman to qualify the
 character of papal decisions. There is the doctrine of intention. The
 Pope, urges Newman,
 
-/#
   “could not fulfil the above conditions of an _ex cathedra_ utterance
   if he did not actually _mean_ to fulfil them.... What is the worth of
   a signature if a man does not consider what he is signing? The Pope
@@ -12206,16 +11785,13 @@ Pope, urges Newman,
   knowing that he is doing so; nor can he draw up a form of words
   and use care, and make an effort in doing so accurately, without
   intention to do so.”
-#/
 
 Newman himself applied this principle of intention to the case of
 Honorius.
 
-/#
   “And therefore no words of Honorius proceeded from his prerogative of
   infallible teaching, which were not accompanied with the intention of
   exercising that prerogative.”[462]
-#/
 
 [462] _Ibid._ p. 108.
 
@@ -12253,12 +11829,10 @@ observes:--
 
 [464] _Ibid._ p. 125.
 
-/#
   “Utterances which must be received as coming from an Infallible Voice
   are not made every day, indeed they are very rare; and those which
   are by some persons affirmed or assumed to be such, do not always
   turn out what they are said to be.”[465]
-#/
 
 [465] Letter to Duke of Norfolk, p. 81.
 
@@ -12347,7 +11921,6 @@ Cura_ of Pius IX. in 1864.
 
 On the other hand, Carson in his _Reunion Essays_ says:--
 
-/#
   “These four conditions so narrow the extent of the Petrine
   prerogative that it is difficult to point with certainty to more than
   one, or at most two, papal pronouncements, and declare them, with the
@@ -12363,7 +11936,6 @@ On the other hand, Carson in his _Reunion Essays_ says:--
   cannot assert with any assurance that the prerogative of Papal
   Infallibility has been exercised from the day of Pentecost to the
   present time.”[471]
-#/
 
 [471] Carson’s _Reunion Essays_, p. 91.
 
@@ -12409,11 +11981,9 @@ considerable importance.
 
 [472] Hurter, i. p. 407.
 
-/#
   “Of course Bishop Fessler is here understood as meaning that this
   fresh explanation of the definition must be provided with all the
   marks which are necessary to prove the presence of a real definition.”
-#/
 
 
                                   III
@@ -12423,7 +11993,6 @@ Our study of the subject may be closed with a few reflections.
 What impresses us perhaps chiefly is the meagreness of the result. Upon
 this point Newman observed:--
 
-/#
   “It has been objected to the explanation I have given ... of the
   nature and range of the Pope’s Infallibility as now a dogma of the
   Church, that it was a lame and impotent conclusion of the Council,
@@ -12440,7 +12009,6 @@ this point Newman observed:--
   objection is that which is given by Bishop Ullathorne. The question
   of the Pope’s Infallibility was not one of the objects professed in
   condemning the Council; and the Council is not yet ended.”[473]
-#/
 
 [473] Newman’s Letter to the Duke of Norfolk, p. 154.
 
@@ -12526,7 +12094,6 @@ the service of mankind.
                                  INDEX
 
 
-/i
         Acton, Lord, 70, 117 and _sqq._, 326 and _sqq._
 
         Agatho, 34, 38, 40, 42
@@ -13050,10 +12617,7 @@ the service of mankind.
         Will, relation of human and divine, 341 and _sqq._
 
         Wiseman, Cardinal, 102–104, 119
-i/
 
 
-/C
                      PRINTED AT THE EDINBURGH PRESS
                           9 AND 11 YOUNG STREET
-C/
