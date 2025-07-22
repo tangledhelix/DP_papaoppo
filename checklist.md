@@ -192,14 +192,14 @@ For now, process only EN dash. The EM dash and long dash (2x EM) are left for af
 * [x] Check for unexpected `*`: Search → Find Asterisks w/o Slash
 
 ### Save Edited Markup
-* [ ] Save any unsaved changes
-* [ ] Use `File → Save a Copy As` to make `papaoppo.html`
+* [x] Save any unsaved changes
+* [x] Use `File → Save a Copy As` to make `papaoppo.html`
   * This will be the starting file for the HTML version. You can also use it  as fallback in case you mess up and need to start the following steps over.
 
 ## Prepare the Plain Text Version
 We now proceed to create a Plain Text Version of the book.
 
-* [ ] Re-open `papaoppo-utf8.txt` (if not still open).
+* [x] Re-open `papaoppo-utf8.txt` (if not still open).
 
 ### Convert `<tb>`, Italic, Bold, and Smallcap
 * [ ] `Text → Convert Markup`:
