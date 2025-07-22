@@ -185,11 +185,11 @@ For now, process only EN dash. The EM dash and long dash (2x EM) are left for af
   * Mathematical minus sign `15 – 12 = 3`
   * Negative numbers `–14º`
   * **Do not** use en-dash for fractions like `1-1/2` (or Convert Fractions function will be confused)
-* Any single dashes not covered above are simple hyphens.
+* Any single dashes not covered above are treated as hyphens.
 
 ### Last pre-split check
-* [ ] Look at the revisit list for anything to handle before text/html split
-* [ ] Check for unexpected `*` to make sure no stray proofer notes or split-word/fn markers were missed
+* [x] Look at the revisit list for anything to handle before text/html split
+* [x] Check for unexpected `*`: Search → Find Asterisks w/o Slash
 
 ### Save Edited Markup
 * [ ] Save any unsaved changes

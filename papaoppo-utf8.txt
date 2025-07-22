@@ -813,6 +813,8 @@ the chief examples of the Patristic teaching; and then
 to show how the Ultramontanes and their opponents
 employed them.
 
+<tb>
+
 1. A crucial instance is the famous language of St
 Irenæus:--
 
@@ -11303,8 +11305,6 @@ Infallibility.
 CHAPTER XVIII
 
 
-I
-
 THE MINORITY AFTER THE VATICAN DECREE
 
 The 18th of July 1870 is from any point of view one
@@ -12003,7 +12003,7 @@ of the doctrine to be morally impossible.
 
 I. AMONG THE FRENCH ROMANISTS
 
-2. The Archbishop of Paris voted,[400] consistently with his
+1. The Archbishop of Paris voted,[400] consistently with his
 entire attitude, against the doctrine of Papal Infallibility,
 on the critical day, 13th July. In the interview on
 Saturday 16th, he prefaced his expostulations with a
@@ -13362,7 +13362,7 @@ possibly be reconciled with the broad facts of Christian
 history.
 
 
-V
+V. LORD ACTON’S SUBMISSION
 
 The new decree was profoundly uncongenial to the
 mind of Lord Acton. He had already expressed his

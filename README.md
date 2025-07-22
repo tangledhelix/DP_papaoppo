@@ -21,11 +21,13 @@ Guiguts beta items:
 * [x] What if there are wrap markers and also hyphenated words to join?
 
 Book items:
-* [ ] Chapter XVIII section numbering is odd, see forum thread.
+* [x] Chapter XVIII section numbering is odd, see forum thread.
     * also see below review of book numbering layout
-* [ ] p002 and forward, sections i, ii, iii etc are marked up as `/# #/` but really they're hanging-indent section headers? Review the structure of the book to determine if these are h3 or what
-* [ ] again on p023, similar i., ii.
+* [x] p002 and forward, sections i, ii, iii etc are marked up as `/# #/` but really they're hanging-indent section headers? Review the structure of the book to determine if these are h3 or what
+    * again on p023, similar i., ii.
+    * Looking at Chapter I, sec. i., ii., etc, are they h3? They seem to be formatted as hanging indent, so far. The output from the rounds left them as blockquote-rewrap.
 * [ ] throughout book abbrs like `Dr` and `St` have no `.`; note this when looking for them to add `<abbr>` tags in HTML.
+* [ ] Chapter I, sections i - iv are hanging indent format
 
 ### Project manager notes ###
 
@@ -46,8 +48,8 @@ Oddities in the book structure. Lays out like this:
 PREFACE
 LIST OF AUTHORITIES
 CONTENTS
-CHAPTER I
-    i.   1.  2.
+CHAPTER I                  TODO: hanging indent for i, ii, iii, iv
+    i.   1.  2.            1,2,3 below those are just paragraphs.
     ii.  1.  2.  3.
     iii. 1.  2.
     iv.  1.  2.
@@ -62,13 +64,12 @@ CHAPTER VI
 CHAPTER VII
 CHAPTER VIII
 CHAPTER IX
-    1. 2. 3. 4.
 CHAPTER X
     1. 2. 3. 4. 5. 6. 7.
 CHAPTER XI
     1. 2. 3. 4. 5.
 CHAPTER XII
-    2. 3.                     *** MISSING 1. ***
+    2. 3.                     *** MISSING 1. Ignore this.***
     1. 2. 3. 4.
 CHAPTER XIII
 CHAPTER XIV
@@ -77,9 +78,9 @@ CHAPTER XV
 CHAPTER XVI
 CHAPTER XVII
 CHAPTER XVIII
-    I (at start of chapter / subhead)
-    I. 1. 2. 3.
-    II.
+    I (at start of chapter / subhead)    ** removed **
+    I. 1. 2. 3.                      I,II,III,IV,V as h3
+    II.                              the others are just paragraph starts.
     III.
     IV. 1. 2. 3. 4. 5. 6.
     V.
@@ -94,8 +95,11 @@ INDEX
 
 Observations:
 * CHAPTER XII starts at (2.) so it's missing (1.)
+    * Maybe odd but if there is an inferred section 1 ... just leave it alone.
 * CHAPTER XII has (2,3) then starts again (1,2,3,4)? Review.
+    * This seems okay, like 4 points being made after those earlier sections.
 * CHAPTER XVIII has (I) in subhead, then again later. Omit first one?
+    * Yes, delete the initial (I).
 
 Things to do:
 * Chapters are h2, of course
@@ -139,6 +143,7 @@ No notes.
 * p. 315: changed “reponse” to “response” (direct response to the question)
 * p. 316: changed “apearance” to “appearance” (a very different appearance)
 * p. 317: changed “precedure” to “procedure” (of the Roman procedure)
+* p. 326: added section V name “LORD ACTON’S SUBMISSION”, from printed page header
 
 ### HTML file review ###
 The iPhone/iPad simulators can't use `file://` URLs. Start a local web server with `python3 -m http.server` in the project directory and going to `localhost:8000` in Safari on the device. 
