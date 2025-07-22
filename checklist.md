@@ -220,8 +220,8 @@ We now proceed to create a Plain Text Version of the book.
 * [x] Save the file if any unsaved changes.
 * [x] `Tools → Rewrap All`.
 * [x] Page through entire text, looking for improper indentation. If found, re-open, clicking NO when asked if you want to save the edits. Find and fix broken rewrap markups. Repeat `Tools → Rewrap All`.
-* [ ] Under `Tools → Footnote Fixup`, use `Tidy Footnotes`.
-------------------- this next item needs work
+* [x] Search `  [Footnote` (no regex; 2 leading spaces) to find footnotes in blockquotes; move them out of the blockquote.
+* [x] Under `Tools → Footnote Fixup`, use `Tidy Footnotes`.
 * [ ] `Tools → Clean Up Rewrap Markers`.
 * [ ] Rerun Bookloupe or pptext. Resolve any new issues.
 
