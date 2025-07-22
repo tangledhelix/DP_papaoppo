@@ -223,10 +223,10 @@ We now proceed to create a Plain Text Version of the book.
 * [x] Search `  [Footnote` (no regex; 2 leading spaces) to find footnotes in blockquotes; move them out of the blockquote.
 * [x] Under `Tools → Footnote Fixup`, use `Tidy Footnotes`.
 * [x] `Tools → Clean Up Rewrap Markers`.
-* [ ] Rerun Bookloupe or pptext. Resolve any new issues.
+* [x] Rerun Bookloupe or pptext. Resolve any new issues.
 
 ### Final checks
-* [ ] Search for `<` and `>` to locate any tag markup not yet removed.
+* [x] Search for `<` and `>` to locate any tag markup not yet removed.
 
 ### Check revisit list
 * [ ] Check "things to revisit" list for anything lingering in the text version
