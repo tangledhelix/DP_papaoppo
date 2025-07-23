@@ -263,19 +263,19 @@ p. 123: changed “foo” to “fool” (the fool and his money)
 
 ## Prepare the HTML Version
 Finally, we create an HTML version of the book.
+* [x] Open `papaoppo.html` that was saved previously.
 
 ### Convert EM and LONG dashes to UTF8
 Earlier, EN dashes were converted. That's done before the split for both versions. The EM and LONG dash conversions are left for HTML only, because the EM dash character displays as a fixed width for most readers of the text file. There have been differences of opinion about this matter, but I'm sticking to `--`, `----` in the text unless PG stops accepting it.
 
 References: ([p1347865](https://www.pgdp.net/phpBB3/viewtopic.php?p=1347865#p1347865)), ([p1179008](https://www.pgdp.net/phpBB3/viewtopic.php?p=1179008#p1179008))
 
-* [ ] Long dash: S/R `([^-])----([^-]|$)` → `$1——$2`
+* [x] Long dash: S/R `([^-])----([^-]|$)` → `\1——\2`
   * There exists a “long dash” Unicode character (TWO-EM DASH, U+2E3A). However, display support for it is not broad, so it’s better to use two consecutive EM DASH, which is widely supported.
-* [ ] Em dash: S/R `([^-])--([^-]|$)` → `$1—$2`
+* [x] Em dash: S/R `([^-])--([^-]|$)` → `\1—\2`
   * There exists another dash (HORIZONTAL BAR, U+2015) which one PM/PP prefers to EM DASH (using two bars for one EM DASH), based on appearance in text version. I opted not to use this in favor of using the EM DASH character in both text and HTML.
 
 ### Generate the HTML
-* [ ] Open `papaoppo.html` that was saved previously.
 * [ ] It is preferable for the source line-breaks to match the book; however HTML poetry markup won't work unless `/P..P/` sections have been rewrapped. If the book has much poetry, rewrap it all; else select and rewrap poetry sections individually.
   * Don't remove the rewrap markers. These are needed for generation of proper HTML.
 * [ ] Open `HTML → HTML Generator`.
