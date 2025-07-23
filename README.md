@@ -29,6 +29,7 @@ Book items:
 * [ ] throughout book abbrs like `Dr` and `St` have no `.`; note this when looking for them to add `<abbr>` tags in HTML.
 * [x] (TEXT) Chapter I, sections i - iv are hanging indent format
 * [ ] (HTML) Chapter I, sections i - iv are hanging indent format
+* [ ] (HTML) footnote 427: change Bishof to Bischof
 
 ### Project manager notes ###
 
@@ -127,7 +128,7 @@ No notes.
 * p. ix: changed “einem” to “einen” (Sendschreiben an einen Deutschen Bischof)
 * p. x: changed “Memoires” to “Mémoires” (Consalvi, Card. Mémoires.)
 * p. x: changed “addressée” to “adressée” (Lettre sur le futur Concile Œcuménique adressée)
-* p. xi: changed “Allemayne” to “Allemagne” (L'Allemagne religieuse)
+* p. xi: changed “Allemayne” to “Allemagne” (L’Allemagne religieuse)
 * p. xi: changed “Tridentince” to “Tridentinae” (Disputationes Tridentinae)
 * p. xi: changed “Rufinium” to “Rufinum” (Ad Rufinum. De Script Eccles.)
 * p. xiii: changed “Bischop” to “Bischof” (Kniefall und Fall des Bischof Ketteler)
@@ -145,6 +146,7 @@ No notes.
 * p. 316: changed “apearance” to “appearance” (a very different appearance)
 * p. 317: changed “precedure” to “procedure” (of the Roman procedure)
 * p. 326: added section V name “LORD ACTON’S SUBMISSION”, from printed page header
+* p. 332: changed “Bishof” to “Bischof” (an einen Deutschen Bischof)
 
 ### HTML file review ###
 The iPhone/iPad simulators can't use `file://` URLs. Start a local web server with `python3 -m http.server` in the project directory and going to `localhost:8000` in Safari on the device. 

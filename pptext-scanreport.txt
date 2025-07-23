@@ -1,3 +1,7 @@
+﻿SMART QUOTE CHECKS (overlay format)
+suspect punctuation marked with '@' character
+-------------------------------------------------------------------
+
 
 
 
@@ -12,8 +16,10 @@
                               OPPOSITION TO
                            PAPAL INFALLIBILITY
 
+
                         BY W. J. SPARROW SIMPSON
                  CHAPLAIN OF ST MARY’S HOSPITAL, ILFORD
+
 
                                  LONDON
                     JOHN MURRAY, ALBEMARLE STREET, W.
@@ -129,13 +135,13 @@ pretensions whatever to completeness.
 
   ACTA. _Concil. Vaticani. Collectio Lacensis._ T. vii. 1892.
   ACTON. _History of Freedom._
-    ”    _Sendschreiben an einen Deutschen Bischof._ 1870.
+    [@UCDQ]”    _Sendschreiben an einen Deutschen Bischof._ 1870.
   ALZOG. _History of the Church._
   ANONYMOUS. _Pourquoi le Clergé Français est Ultramontane._ 1879.
-    ”        _Ce qui se passe au Concile._ 1870.
+    [@UCDQ]”        _Ce qui se passe au Concile._ 1870.
   AQUINAS. _Opuscula Selecta._ Paris. 4 vols. 1884.
-    ”      _In Sententiis._ 3 vols. Parma Edit.
-  ARGENTRE, D’. _Elementa Theologica._ Paris. 1702.
+    [@UCDQ]”      _In Sententiis._ 3 vols. Parma Edit.
+  ARGENTRE, D[@UCSQ]’. _Elementa Theologica._ Paris. 1702.
   AUGUSTINE. _Works._ Gaume’s Edition.
 
   BARRAL. _Defense des Libertés de l’Eglise Gallicane._ 1817.
@@ -154,29 +160,26 @@ pretensions whatever to completeness.
           _Cambridge Modern History_--_French Revolution._
 
   CARSON. _Reunion Essays._ 1903.
-  CECCONI. _Histoire du Concile du Vatican._ French transl. 4 vols.
-              1887.
+  CECCONI. _Histoire du Concile du Vatican._ French transl. 4 vols. 1887.
   CHAUVIN. _Le Père Gratry._ 1901.
   CHOUPIN L. _Valeur des Decisions Doctrinale._ 1908.
   CHRISMANN. _Regula Fidei Catholicæ._ 1854.
-  CHRISTOPHE. _Histoire de la Papauté, pendant le XIV. Siècle._ 3 vols.
-                 1853.
+  CHRISTOPHE. _Histoire de la Papauté, pendant le XIV. Siècle._ 3 vols. 1853.
   CLIFFORD, Lord. _Letters to the Earl of Winchelsea._
   COBB, G. F. _Few Words on Reunion._ 1869.
   CONSALVI, Card. _Mémoires._ 2 vols. Cretineau-Joly. 1864.
-                  _Correspondant._ 10th Feb. 1906. Articles by Thureau
-                     Dangin.
+                  _Correspondant._ 10th Feb. 1906. Articles by Thureau Dangin.
   CYPRIAN. Ed. Hartel. 3 vols.
 
   DECHAMPS. _L’Infallibilité et le Concile Général._ 1869.
   DENZINGER. _Enchiridion._ 1854.
   DÖLLINGER & REUSCH. _Die Selbstbiographie des Cardinals Bellarmin._
-    ”               . _Declarations and Letters._
+    [@UCDQ]”               . _Declarations and Letters._
   DUCHESNE. _Beginnings of the Temporal Power of the Pope._ 1908.
   DUPANLOUP. _Observations._ 1869.
-    ”      . _Lettre sur le futur Concile Œcuménique adressée par Mgr.
+    [@UCDQ]”      . _Lettre sur le futur Concile Œcuménique adressée par Mgr.
                L’Évêque d’Orléans au clergé de son Diocese._ 1868.
-    ”      . See Chapon. _Mgr. Dupanloup et la Liberté._ 1889.
+    [@UCDQ]”      . See Chapon. _Mgr. Dupanloup et la Liberté._ 1889.
                and _Revue du Clergé Français_. 1st May 1909, p. 375.
 
   FESSLER. _True and False Infallibility._ 1871.
@@ -187,14 +190,14 @@ pretensions whatever to completeness.
   FRANZELIN. _De Traditione._
   FRIEDBERG. _Aktenstücke._ 1876.
   FRIEDRICH. _Documenta ad illustrandum Conc. Vat._ 2 vols. 1871.
-    ”        _Döllinger. Sein Leben._ 3 vols. Munchen. 1899.
-    ”        _Tagebuch._ 1871.
+    [@UCDQ]”        _Döllinger. Sein Leben._ 3 vols. Munchen. 1899.
+    [@UCDQ]”        _Tagebuch._ 1871.
 
   GALLITZIN. _Defence of Catholic Principles._
   GARNIER. _Liber Diurnus._
   GASQUET. _Lord Acton and his Circle._
   GERSON. _De Auferibilitate Papæ ab Ecclesia._
-    ”   . _Life by Schwab._ 1859.
+    [@UCDQ]”   . _Life by Schwab._ 1859.
   GHILARDI. _Torquemada De Plenitudine Potestatis R. P._ 1870.
   GLADSTONE. _Vaticanism._
   GOSSELIN. _Temporal Power of the Pope in the Middle Ages._
@@ -215,7 +218,7 @@ pretensions whatever to completeness.
             French translation. 12 vols. _Goschler and Delarc._ 1859.
             English translation. 5 vols. from 2nd edition. 1872.
               (By Clark & Oxenham.)
-    ”     _Honorius und das sechste Allgemeine Concil._ 1870.
+    [@UCDQ]”     _Honorius und das sechste Allgemeine Concil._ 1870.
   HEFELE’S letters will be found in _Schulte. Altkatholicismus and
     Revue internationale de Theologie_ (pp. 485–506). 1908.
   HOHENLOHE. _Memoirs._ 2 vols.
@@ -227,19 +230,19 @@ pretensions whatever to completeness.
   JANUS. _The Pope and the Council._ Rivingtons. 1869.
   JEROME. _Ad Rufinum. De Script Eccles._
   JERVIS. _Hist. Ch. France._ 2 vols. 1872.
-    ”     _The Gallican Church and the Revolution._ 1882.
+    [@UCDQ]”     _The Gallican Church and the Revolution._ 1882.
   JOURDAIN. _Hist. Univ. Paris._
 
   KEENAN. _Controversial Catechism._ 17th thousand. 1860.
   KETTELER. _Le Concile Œcuménique._ Tr. Bélet. (?) 1869.
-    ”       _Liberté Antorité, Église._ Tr. Bélet. 1862.
-    ”       _Das unfehlbare Lehramt des Papstes._ 1871.
+    [@UCDQ]”       _Liberté Antorité, Église._ Tr. Bélet. 1862.
+    [@UCDQ]”       _Das unfehlbare Lehramt des Papstes._ 1871.
   _Knabenbauer in Luc._
   KRAUTHEIMER. _Catechism of the Catholic Religion._ 1845.
 
   LAGRANGE. _Hist. de Dupanloup._ 3 vols.
   LAMENNAIS. _Œuvres Complètes._ 14 vols. Paris. 1836.
-    ”        _Correspondance._ Ed. Forgues. 2 vols. 1863.
+    [@UCDQ]”        _Correspondance._ Ed. Forgues. 2 vols. 1863.
   LANGEN. _Das Vat. Dogma._ 5 vols. 1870, etc.
   LAYMAN (Rom. Cath.). _Reasons why a Roman Catholic cannot
             accept the doctrine of Papal Infallibility as defined by
@@ -253,7 +256,7 @@ pretensions whatever to completeness.
 
   MAISTRE, J. DE. _Œuvres._ 8 vols. Bruxelles. 1845.
   MANNING. _Pastoral._ 1867.
-    ”      _Petri Privilegium._
+    [@UCDQ]”      _Petri Privilegium._
   MARET. _Du Concile Général._ 2 vols. 1870.
   MARIN. _De l’Infallibilité Doctrinale._ 1870.
   MARTIN, CONRAD. _Dogmatik._
@@ -265,7 +268,7 @@ pretensions whatever to completeness.
 
   NEWMAN. _Letter to Bishop Ullathorne_--_Standard Newspaper._
              7th April 1870.
-    ”     _Letter to Duke of Norfolk._
+    [@UCDQ]”     _Letter to Duke of Norfolk._
   NIELSEN. _Geschichte des Papstthums._ 2 vols. 1880.
 
   OLLIVIER (EMILE). _L’Eglise et L’Etat._ 2 vols.
@@ -281,16 +284,16 @@ pretensions whatever to completeness.
   PIUS IX. _Brief to Archbishop of Munich._ See ACTA, _Conc. Vat._
   PULLER. _Primitive Saints and Roman Church._
   PURCELL. _Life of Manning._
-    ”      _Life of Ambrose de Lisle Phillipps._ 2 vols. 1900.
+    [@UCDQ]”      _Life of Ambrose de Lisle Phillipps._ 2 vols. 1900.
 
   QUIRINUS. _Letters from Rome on the Council._ 1870.
 
   REINKENS. _Ueber die Einheit der katholischen Kirche._ 1877.
-    ”       _Kniefall und Fall des Bischof Ketteler._ 1877.
+    [@UCDQ]”       _Kniefall und Fall des Bischof Ketteler._ 1877.
   REUSCH. _Letters in Schulte Altkatholicismus._
   REVIEW. _Dublin._ 1869.
-    ”     _Home and Foreign._ 1863.
-    ”     _Rambler._ 1862.
+    [@UCDQ]”     _Home and Foreign._ 1863.
+    [@UCDQ]”     _Rambler._ 1862.
   _Revue des Deux Mondes._ 1858.
   RICHERIUS. _Vindiciæ Doctrinæ Majorum._ 1683.
   ROSIÈRE. _Liber Diurnus._ 1869.
@@ -309,12 +312,12 @@ pretensions whatever to completeness.
   THUREAU DANGIN. _La Renaissance Catholique en Angleterre an
                      xix Siècle._ 3 vols. 1906.
   TURMEL. _Hist. Théol. Positive._ 1906.
-    ”     _Histoire du Dogme de la Papauté._ Paris. 1908.
+    [@UCDQ]”     _Histoire du Dogme de la Papauté._ Paris. 1908.
 
   ULLATHORNE (Bp.). _Letter on the Rambler._ 1862.
-    ”               _Autobiography._ 2 vols.
-    ”               _Expostulation._
-    ”               _Döllingerites._
+    [@UCDQ]”               _Autobiography._ 2 vols.
+    [@UCDQ]”               _Expostulation._
+    [@UCDQ]”               _Döllingerites._
   _L’Univers._ 1869.
 
   VERON, FRANCIS. _Regula Fidei._ Ed. Sebastian Brunner. 1857.
@@ -322,8 +325,8 @@ pretensions whatever to completeness.
   VINCENT of Lerins. _Commonitorium._
 
   WARD (BERNARD). _Dawn of the Catholic Revival._ 2 vols. 1909.
-    ”  (W.). _Life of Wiseman._ 2 vols. 1900.
-    ”  (W. G.). _Essays on the Church’s Doctrinal Authority._
+    [@UCDQ]”  (W.). _Life of Wiseman._ 2 vols. 1900.
+    [@UCDQ]”  (W. G.). _Essays on the Church’s Doctrinal Authority._
   WATERWORTH. _Council of Trent._ 1848.
   WORDSWORTH, CH. _Miscellanies._ 3 vols. 1879.
 
@@ -918,7 +921,7 @@ Upon this Augustine’s comment is:--
   Holy Scripture, that the Apostle Peter, in whom the primacy of the
   Apostles shines with such exceeding grace, was corrected by the later
   Apostle Paul, when he adopted a custom in the matter of circumcision
-  at variance with the demand of truth....[27]
+  at variance with the demand of truth....[27][@NESK “]
 
   “Wherefore the holy Cyprian, whose dignity is only increased by his
   humility, who so loves the pattern set by Peter as to use the words;
@@ -975,7 +978,7 @@ Council was as follows:--
   have followed that Cyprian was not only indefensible for his conduct,
   but had actually incurred condemnation for heresy.”
 
-                   *       *       *       *       *
+       *       *       *       *       *
 
 3. From the writings of St Augustine probably no phrase has been more
 often quoted in behalf of papal inerrancy than that in which, referring
@@ -1019,7 +1022,7 @@ criticism upon it represents the opposition.
   formula of St Augustine possesses something decisive and absolute
   about it like an axiom. It says everything. ‘Rome has spoken, the
   cause is finished.’ Rome has spoken; all is said, the rest is of no
-  consequence.
+  consequence.[@NESK “]
 
   “But the objection to this is that St Augustine never said that at
   all.”
@@ -1119,7 +1122,7 @@ Communion.
   taken that we hold that faith which has been believed everywhere
   always by all. For that is truly and in the strictest sense Catholic,
   which, as the name itself and the reason of the thing declare,
-  comprehends all universally.
+  comprehends all universally.[@NESK “]
 
   “This rule we shall observe if we follow universality, antiquity,
   consent. We shall follow universality if we confess that one faith
@@ -1145,7 +1148,7 @@ clearness and its use.
   i. First Case--If the Local oppose the Universal.
 
 “What, then, will a Catholic Christian do if a small portion of the
-Church have cut itself off from the communion of the universal faith?
+Church have cut itself off from the communion of the universal faith?[@NESK “]
 
 “What, surely, but prefer the soundness of the whole body to the
 unsoundness of a pestilent and corrupt member?”
@@ -1153,10 +1156,10 @@ unsoundness of a pestilent and corrupt member?”
   ii. Second Case--If the Modern oppose the Ancient.
 
 “What if some novel contagion seek to infect not merely an
-insignificant portion of the Church, but the whole?
+insignificant portion of the Church, but the whole?[@NESK “]
 
 “Then it will be his care to cleave to antiquity, which at this day
-cannot possibly be seduced by any fraud of novelty.
+cannot possibly be seduced by any fraud of novelty.[@NESK “]
 
 “To preach any doctrine therefore to Catholic Christians other than
 what they have received never was lawful, never is lawful, never will
@@ -3120,7 +3123,7 @@ to a friendly Cardinal.
   “The sensitive ears of Romans ought to be respected. And I have done
   so most readily. Three points might wound them, namely--the temporal
   independence of the royal power; episcopal jurisdiction received
-  immediately from Jesus Christ; and the authority of the Councils.
+  immediately from Jesus Christ; and the authority of the Councils.[@NESK “]
 
   “You are well aware that in France we speak plainly on these
   matters, and I have endeavoured so to speak that, without wronging
@@ -3899,12 +3902,12 @@ Ireland.
 The book contains the following question and answer:--
 
   “(_Q._) Must not Catholics believe the Pope in himself to be
-  infallible?
+  infallible?[@NESK “]
 
   (_A._) This is a Protestant invention: it is no article of the
   Catholic faith: no decision of his can oblige under pain of heresy,
   unless it be received and enforced by the teaching body, that is by
-  the bishops of the Church.”
+  the bishops of the Church.[@UCDQ]”
 
 _Keenan’s Catechism_ has since 1870 appeared with alterations. The new
 edition is, as the preface justly remarks, “more than a mere reprint.”
@@ -3914,12 +3917,12 @@ are replaced by a series of ten enquiries, with answers giving exactly
 the contrary doctrine. The first of these runs as follows:--
 
   “(_Q._) What do Catholics believe concerning the Infallibility of the
-  Pope?
+  Pope?[@NESK “]
 
   (_A._) That the visible Head of the Church on earth received
   from Christ the same prerogative of Infallibility which we have
   shown above to be necessary to and belong to the Church by divine
-  institution.”[181]
+  institution.[@UCDQ]”[181]
 
 [181] Page 111.
 
@@ -3934,13 +3937,13 @@ following:--
 
   “(_Q._) But some Catholics before the Vatican Council denied the
   Infallibility of the Pope, which was also formerly impugned in this
-  very Catechism.
+  very Catechism.[@NESK “]
 
   (_A._) Yes; but they did so under the usual reservation--‘in so far
   as they then could grasp the mind of the Church, and subject to her
   future definitions’--thus _implicitly_ accepting the dogma; had they
   been prepared to maintain their own opinion contumaciously in such
-  case they would have been Catholics only in name.”
+  case they would have been Catholics only in name.[@UCDQ]”[@NESK ‘]
 
 That is to say, that teaching endorsed by Catholic Bishops is delivered
 under the reservation that the opposite may be true; that this is the
@@ -3962,19 +3965,19 @@ asked:--
 
   “(_Q._) Can you name any Controversies on fundamental dogma on
   which the Church pronounced in the same way as she did on Papal
-  Infallibility at the Vatican Council?
+  Infallibility at the Vatican Council?[@NESK “]
 
   (_A._) Yes. The Divinity of Christ was not formally defined till the
-  first Council of Nicæa (325).”
+  first Council of Nicæa (325).[@UCDQ]”
 
 Some other instances having been given, we then reach the Question--
 
-  “(_Q._) What do you conclude from these observations?
+  “(_Q._) What do you conclude from these observations?[@NESK “]
 
   (_A._) That the definition of the Infallibility of the Pope as a
   dogma of primitive Christian Revelation has historically run a course
   similar to the definition of many other fundamental articles of the
-  Catholic Faith.”
+  Catholic Faith.[@UCDQ]”
 
 The implications of this assertion are worth considering. A parallel
 is drawn between the attitude of Catholics towards the two doctrines
@@ -4665,7 +4668,7 @@ view. Gallicanism was Manning’s peculiar and special abomination.
   without warrant or antecedent, in the ancient theological schools
   of the great French Church; a royal theology, as suddenly developed
   and as parenthetical as the Thirty-nine Articles; affirmed only by a
-  small number out of the numerous Episcopate of France....
+  small number out of the numerous Episcopate of France....[@NESK “]
 
   “To this may be added, that the name of Bossuet escaped censure only
   out of indulgence, by reason of his good services to the Church: and
@@ -4687,7 +4690,7 @@ in suspicious minds.
 
   “If any one shall answer that these evidences do not prove the
   Infallibility of the Pope speaking _ex cathedra_, they will lose
-  their labour.
+  their labour.[@NESK “]
 
   “I adduce them,” he continues, “to prove the immemorial and universal
   practice of the Church in having recourse to the Apostolic See as the
@@ -6218,7 +6221,7 @@ letter written to him by Mgr. Sibour, Archbishop of Paris, in 1853.
   of the State and of the Church. We did not abolish all grades of
   power, all ranks, all reasonable discussion, all lawful resistance,
   all individuality, all freedom. The Pope and the Emperor were not
-  respectively the Church and the State.
+  respectively the Church and the State.[@NESK “]
 
   “Undoubtedly there are occasions when the Pope can act independently
   of all regulations designed for ordinary procedure; occasions when
@@ -6226,7 +6229,7 @@ letter written to him by Mgr. Sibour, Archbishop of Paris, in 1853.
   Ultramontanes were aware of this, but they did not convert an
   exception into a rule. The new Ultramontanes have pushed everything
   to extremes, and have argued extravagantly against all independence,
-  whether in the State or in the Church.
+  whether in the State or in the Church.[@NESK “]
 
   “If such systems were not calculated to compromise the deepest
   interests of religion in the present, and still more in the future,
@@ -6751,7 +6754,7 @@ answer:--
 
   “Do we believe that, as a consequence of this primacy, the Pope is
   infallible and may decide as Christ Himself; as the non-Catholics
-  allege?
+  allege?[@NESK “]
 
   “No. The Pope possesses in controversies of faith only a judicial
   decision which can only become an article of faith when the Church
@@ -7759,7 +7762,7 @@ difference is immense. Hitherto there had been conjectures, opinions,
 probabilities, even human certainty in individual minds as to Papal
 Infallibility; but never that divine faith which is the response of
 the Catholic to the doctrine of the Church. Döllinger added that while
-the Infallibilists’ Address spoke of the Pope being infallible when
+the Infallibilists[@UCSQ]’ Address spoke of the Pope being infallible when
 instructing the entire Church, it was historically clear that all papal
 utterances on doctrine during the first twelve hundred years were
 directed to individuals or local communities.
@@ -8366,7 +8369,7 @@ Cardinals.
   “The time had come for the famous question of Infallibility to
   be submitted to the Congregation for proposals. Its decision was
   anxiously expected. The Pope himself had given orders that he should
-  be informed of our decision immediately afterwards.
+  be informed of our decision immediately afterwards.[@NESK “]
 
   “Cardinal Patrizzi, after opening the subject, proceeded to
   interrogate, according to custom, the prelates of the least
@@ -8386,7 +8389,7 @@ Cardinals.
   seemed to attach some importance to what I was about to say. I was
   far from desiring to oppose the definition for which people yearned.
   I was by no means in with the opposition, but I had never manifested
-  enthusiasm for it as many others did.
+  enthusiasm for it as many others did.[@NESK “]
 
   “I began with the profession of faith in the Pope’s Infallibility.
   I affirmed that this belief had been mine throughout my life. I had
@@ -8415,7 +8418,7 @@ Cardinals.
   circumstances, if this subject be not discussed, serious harm will
   be done to the faithful. Governments will not have the respect they
   should for the Holy See, and the authority of the Pope will be
-  depreciated.
+  depreciated.[@NESK “]
 
   “While I was delivering my speech,” adds Guibert, in a most
   significant conclusion to this account, “I was watching Cardinal
@@ -8425,7 +8428,7 @@ Cardinals.
   assisting and strengthening those who were irresolute on the proper
   course to pursue. Prelates who spoke after me did me the honour to
   base themselves upon the reasons I had propounded, and the conclusion
-  of our meeting was that the subject should be laid before the Council.
+  of our meeting was that the subject should be laid before the Council.[@NESK “]
 
   “As soon as our deliberations were ended, the Cardinals went to the
   Pope and reported to him all the incidents. They said that, thanks
@@ -8583,7 +8586,7 @@ in a letter to Cardinal Antonelli,[359] the Papal Secretary of State.
   persist in this design would be nothing less than a scandal before
   the whole world. Those who advocate such excesses are plainly blind
   to considerations of prudence. There is such a thing as a justice and
-  public good faith which cannot be wounded with impunity.
+  public good faith which cannot be wounded with impunity.[@NESK “]
 
   “I say from the depth of inner conviction,” exclaimed the
   Archbishop,[360] that if decrees are passed by such methods as these,
@@ -8622,7 +8625,7 @@ Cardinals.
   not the Catholic conviction, and will only satisfy one side. It is
   useless to bid us observe a respectful silence. The integrity of
   history must be secured against party spirit. Moreover we have now
-  reached the second period of the Council’s activities.
+  reached the second period of the Council’s activities.[@NESK “]
 
   “From the very beginning Papal Infallibility has been the main
   affair. To-day it has become the only interest. The time for
@@ -8640,13 +8643,13 @@ Cardinals.
   befit representatives of an eternal Church. The probability of an
   interruption of the Council before anything is decreed is a miserable
   subterfuge. Is it really believed that the majority is accidental and
-  could not be counted upon again?
+  could not be counted upon again?[@NESK “]
 
   “What appears to us most serious in this _coup d’état_ is not so much
   the disordering of the Council’s regular work, as the proof thereby
   displayed of an arbitrary and absolute will, determined to override
   everything in order to secure an end long since designed although
-  long concealed.
+  long concealed.[@NESK “]
 
   “Certainly those who urge the Holy Father to such extremes take
   upon themselves a most tremendous responsibility. Considering the
@@ -8655,7 +8658,7 @@ Cardinals.
   exercise of supreme authority, placing so many venerable Bishops
   in the dilemma of a struggle with the Pope or with their own
   consciences, we cannot refrain from the enquiry, What future do they
-  expect will await this assembly of the Vatican?
+  expect will await this assembly of the Vatican?[@NESK “]
 
   “The Council has now resumed its labours under new Regulations.
   Undoubtedly these will facilitate rapidity. But the aim of a Council
@@ -8674,7 +8677,7 @@ Cardinals.
   writer, “any deliberative assembly in Europe or America similarly
   restricted? And yet the necessity of freedom is more imperative here
   than in any assembly in the world, considering the eternal interests
-  here involved.
+  here involved.[@NESK “]
 
   “The minority feel themselves still more crippled by the power of
   numbers. There exists a majority and a minority; unequal in numerical
@@ -8689,7 +8692,7 @@ Cardinals.
   shown in the fact that it is represented by 276 Bishops, while all
   the rest of Europe has only 265. A considerable proportion of Bishops
   are being maintained by the Pope, which increases the difficulties of
-  real independence.
+  real independence.[@NESK “]
 
   “If it be said that decision by majorities is the method of all
   deliberative assemblies, the answer is, that this is not true of a
@@ -9272,20 +9275,20 @@ In a letter[386] written six days after the Decree was passed he says:--
   moderation--that is, if the doctrine is to be defined at all.
   The terms are vague and comprehensive; and personally I have no
   difficulty in admitting it. The question is, Does it come to me with
-  the authority of an Ecumenical Council?
+  the authority of an Ecumenical Council?[@NESK “]
 
   “Now the _primâ facie_ argument is in favour of its having that
   authority. The Council was legitimately called; it was more largely
-  attended than any Council before it....
+  attended than any Council before it....[@NESK “]
 
   “Were it not then for certain circumstances under which the Council
-  made the definition, I should receive that definition at once.
+  made the definition, I should receive that definition at once.[@NESK “]
 
   “Even as it is, if I were called upon to profess it, I should be
   unable, considering it came from the Holy Father and the competent
   local authorities, at once to refuse to do so. On the other hand, it
   cannot be denied that there are reasons for a Catholic, till better
-  informed, to suspend his judgment on its validity.
+  informed, to suspend his judgment on its validity.[@NESK “]
 
   “We all know that ever since the opening of the Council there has
   been a strenuous opposition to the definition of the doctrine; and
@@ -9294,13 +9297,13 @@ In a letter[386] written six days after the Decree was passed he says:--
   to do with its act. But if the fact be so, that the Fathers were not
   unanimous, is the definition valid? This depends upon the question
   whether unanimity at least moral is or is not necessary for its
-  validity? As at present advised I think it is....
+  validity? As at present advised I think it is....[@NESK “]
 
   “Certainly Pius IV. lays great stress on the unanimity of the
   Fathers in the Council of Trent.... Far different has been the case
   now--though the Council is not yet finished. But if I must now at
   once decide what to think of it, I should consider that all turned on
-  what the dissentient Bishops now do.
+  what the dissentient Bishops now do.[@NESK “]
 
   “If they separate and go home without acting as a body, if they act
   only individually or as individuals, and each in his own way, then I
@@ -9336,7 +9339,7 @@ takes.[387]
 [387] See Letter to Duke of Norfolk, p. 98.
 
   “I have been thinking over the subject which just now gives you and
-  me, with thousands of others, who care for religion, so much concern.
+  me, with thousands of others, who care for religion, so much concern.[@NESK “]
 
   “First, till better advised, nothing shall make me say that a
   mere majority in a Council, as opposed to a moral unanimity, in
@@ -9345,7 +9348,7 @@ takes.[387]
   examination I may find myself wrong in the view which I take of
   history and precedent; but I do not, cannot see, that a majority in
   the present Council can of itself _rule_ its own sufficiency without
-  such external testimony.
+  such external testimony.[@NESK “]
 
   “But there are other means by which I can be brought under the
   obligation of receiving a doctrine as a dogma.”
@@ -9890,7 +9893,7 @@ the French Academy.
   affirms Infallibility _ex cathedra_. I almost feared a scientific
   Infallibility, a political and governmental Infallibility: but the
   Decree only affirms doctrinal Infallibility, in matters of faith and
-  morals.
+  morals.[@NESK “]
 
   “All this does not mean that I made no mistakes in my opposition.
   Doubtless I have made mistakes, both on this subject and on others;
@@ -10048,7 +10051,7 @@ remarkable words:--
   the faith. But further, the Council is no longer a Council. We may
   admit that it was convened _legaliter_, but from the moment when the
   _methodus_ was imposed upon us, the _conciliar_ composition of this
-  unhappy assembly was at an end.’
+  unhappy assembly was at an end.’[@NESK “]
 
   “So much for my letter to Cardinal Schwarzenberg. It is sad enough
   that one has to speak so, but I am pierced in the innermost depths of
@@ -10083,7 +10086,7 @@ Bishops. To others and to himself it seemed a
   they had pledged themselves, before their departure from Rome, to
   decide nothing about the Dogma of Infallibility without previously
   taking council together, they should nevertheless have submitted
-  individually.
+  individually.[@NESK “]
 
   “When one views the moral ruin, the complete lack of honour among the
   Bishops, one shudders at the influence which the Jesuitical element
@@ -10616,7 +10619,7 @@ these had become either powerless shadows, or satellites of the Jesuit
 dominating body.
 
   “The tendency of events since 1870 was shown,” said Döllinger, “in
-  the solemn proclamation of Liguori as Doctor of the Church:--
+  the solemn proclamation of Liguori as Doctor of the Church:--[@NESK “]
 
   “A man whose false morals, perverse worship of the Virgin, constant
   use of the grossest fables and forgeries, make his writings a
@@ -10784,7 +10787,7 @@ independent of reason or history.
   inaccessible postulate rather than the demonstrable consequence of a
   system of religious faith.” The opponents were, according to Acton,
   “baffled and perplexed by the serene vitality of a view which was
-  impervious to proof....
+  impervious to proof....[@NESK “]
 
   “No appeal to revelation or tradition, to reason or conscience,
   appeared to have any bearing whatever on the issue.”
@@ -10840,7 +10843,7 @@ Regulations. He says:--
 He reveals his sympathies in the strongest way by pouring out his moral
 indignation on the minority Bishops for their weakness.
 
-  “They showed no sense of their mission to renovate Catholicism....
+  “They showed no sense of their mission to renovate Catholicism....[@NESK “]
 
   “They were content to leave things as they were, to gain nothing if
   they lost nothing, to renounce all premature striving for reform
@@ -10929,7 +10932,7 @@ discontinuing their opposition after the Infallibility Decree was
 published. In this letter he gives the actual language of the leaders
 of the minority, and concludes--
 
-[427] _Sendschreiben an einen Deutschen Bischof_ (September 1870).
+[427] _Sendschreiben an einen Deutschen Bishof_ (September 1870).
 
   “The Council is thus judged by the lips of its most able members.
   They describe it as a conspiracy against truth and rights. They
@@ -11038,7 +11041,7 @@ After further reflection Lord Acton proposed to say:--
   from which they come. The difficulties about reconciling them with
   tradition, which seem so strong to others, do not disturb me a
   layman, whose business it is not to explain theological questions,
-  and who leaves that to his betters.[437]
+  and who leaves that to his betters.[437][@NESK “]
 
   “Manning ... says he must leave the thing in the hands of the Pope,
   as everybody tells him I don’t believe the Vatican Council. He means,
@@ -11748,7 +11751,7 @@ himself gave a similar restriction of the range of Infallibility.
   are not infallible in the reasons by which they are led, or on which
   they rely in making their definition, nor in matters which relate to
   persons, nor to physical matters which have no necessary connection
-  with dogma.’
+  with dogma.’[@NESK “]
 
   “Supposing a Pope has quoted the so-called works of the Areopagite
   as if really genuine, there is no call on us to believe him; nor,
@@ -11925,7 +11928,7 @@ On the other hand, Carson in his _Reunion Essays_ says:--
   “These four conditions so narrow the extent of the Petrine
   prerogative that it is difficult to point with certainty to more than
   one, or at most two, papal pronouncements, and declare them, with the
-  consent of all, to be infallible.
+  consent of all, to be infallible.[@NESK “]
 
   “The Bull _Ineffabilis Deus_, defining the Immaculate Conception,
   may be considered, as we have seen, to be a definition of doctrine
@@ -12331,8 +12334,8 @@ the service of mankind.
         ----, Franzelin’s list, 363
 
         ---- and the Council of Trent, 70;
-          the question not mentioned at beginning of the Vatican
-            Council, 232, 238
+          the question not mentioned at beginning of the Vatican Council,
+            232, 238
 
         Infallibility, Romanist utterances on:--
           Acton, 327 and _sqq._, 333
@@ -12634,7 +12637,7 @@ p. x: changed “Memoires” to “Mémoires” (Consalvi, Card. Mémoires.)
 p. x: changed “addressée” to “adressée” (Lettre sur le futur Concile
 Œcuménique adressée)
 
-p. xi: changed “Allemayne” to “Allemagne” (L’Allemagne religieuse)
+p. xi: changed “Allemayne” to “Allemagne” (L'Allemagne religieuse)
 
 p. xi: changed “Tridentince” to “Tridentinae” (Disputationes
 Tridentinae)
@@ -12661,7 +12664,7 @@ Sciences Religieuses)
 
 p. 215: changed “inbibed” to “imbibed” (I imbibed in my youth)
 
-p. 279: inserted closing single-quote (God has confided to my care.’”)
+p. 279: inserted closing single-quote (God has confided to my care.[@U[@UCDQ]CSQ]’”)
 
 p. 279: changed “advisible” to “advisable” (if they think it advisable)
 
@@ -12679,4 +12682,3 @@ p. 317: changed “precedure” to “procedure” (of the Roman procedure)
 p. 326: added section V name “LORD ACTON’S SUBMISSION”, from printed
 page header
 
-p. 332: changed “Bishof” to “Bischof” (an einen Deutschen Bischof)
