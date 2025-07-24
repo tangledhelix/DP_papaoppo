@@ -30,6 +30,12 @@ Book items:
 * [x] (TEXT) Chapter I, sections i - iv are hanging indent format
 * [ ] (HTML) Chapter I, sections i - iv are hanging indent format
 * [ ] (HTML) footnote 427: change Bishof to Bischof
+* [ ] (HTML) List of Authorities starting on p. ix: list? How to handle the ” spacing?
+* [ ] (HTML) ToC on p. xv – table
+* [ ] (HTML) check poetry on p. 179
+* [ ] (HTML) p. 215, signature of a blockquote
+* [ ] (HTML) Index starts on p. 371
+* [ ] (HTML) p. 376, centered footer block
 
 ### Project manager notes ###
 

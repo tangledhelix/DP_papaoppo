@@ -91,6 +91,7 @@ Instructions for `/* */` and `/# #/` blocks:
   * `Footnote Fixup`, `Re-run`
   * `All to Number`, `Reindex`
   * `Re-run`, `Move FNs to Paragraphs`
+* [x] Search for blocks: regex (no case match) `^/[#*$PCRFLXI]` and move footnotes outside of blocks as appropriate
 
 ### Remove Visible Page Breaks
 * [x] Run `Tools → Page Separator Fixup` to remove visible page separators
@@ -279,12 +280,12 @@ References: ([p1347865](https://www.pgdp.net/phpBB3/viewtopic.php?p=1347865#p134
 * [x] It is preferable for the source line-breaks to match the book; however HTML poetry markup won't work unless `/P..P/` sections have been rewrapped. If the book has much poetry, rewrap it all; else select and rewrap poetry sections individually.
   * Don't remove the rewrap markers. These are needed for generation of proper HTML.
 * [x] Search for `^/[*$pcrflxi]` (regex, no match-case) and make any desired [rewrap marker](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) changes before HTML generation
-* [ ] Open `HTML → HTML Generator`.
+* [x] Open `HTML → HTML Generator`.
   * Correct the Title if not auto-detected properly.
   * Set options as desired.
   * Use the `Auto-generate HTML` button.
-* [ ] Save the file and open it in a browser.
-* [ ] Scroll through looking for systematic errors. (Title pages, tables, etc. will look terrible; no matter). If automatic conversion messed up, start this step over with a reset file.
+* [x] Save the file and open it in a browser.
+* [x] Scroll through looking for systematic errors. (Title pages, tables, etc. will look terrible; no matter). If automatic conversion messed up, start this step over with a reset file.
 * [ ] Page through the book looking for text that was not handled well by automatic HTML generation, in particular:
   * [Title pages](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/DP_HTML_Best_Practices/Case_Studies/Title_Pages).
   * [Tables and Tables of Contents](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/DP_HTML_Best_Practices/Case_Studies/Tables). The `Auto Table` button can help format tables.
