@@ -264,7 +264,10 @@ p.noindent { text-indent: 0; }
 
 .titlespace { margin-top: 4em; }
 
-.subs-hangindent { padding-left: 2em; text-indent: -2em; }
+.subs-hangindent {
+    padding-left: 2em; text-indent: -2em;
+    margin-top: 120%; margin-bottom: 120%;
+}
     </style>
 </head>
 <body>
@@ -998,9 +1001,9 @@ not strengthen his brethren. All human analogy would
 suggest a more or less imperfect human endeavour to
 fulfil a divinely appointed ideal.</p>
 
-<p>
-  iv. <i>The fourth and last point for consideration is Peters</i><br>
-  <i>Successors.</i>
+<p class="subs-hangindent">
+iv. <i>The fourth and last point for consideration is Peters
+Successors.</i>
 </p>
 
 <p>1. Now, first, our Lord does not mention them. They
