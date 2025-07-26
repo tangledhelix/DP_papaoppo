@@ -251,6 +251,10 @@ img.w100 {width: 100%;}
 .listofauthorities .liquote { padding-left: 1.5em; }
 .listofauthorities .lidot { padding-right: .35em; }
 .listofauthorities li.lisep { margin-top: .66em; }
+
+.toc td.tdl { padding-left: 2.25em; text-indent: -2em; }
+.toc .top { vertical-align: top; }
+.toc .bot { vertical-align: bottom; }
     </style>
 </head>
 <body>
@@ -606,7 +610,7 @@ whatever to completeness.</p>
 
 <li class="lisep"><span class="smcap">Ward (Bernard).</span> <i>Dawn of the Catholic Revival.</i> 2 vols. 1909.</li>
 <li><span class="liquote">”</span> <span style="padding-left:.5em">(W.). <i>Life of Wiseman.</i> 2 vols. 1900.</span></li>
-<li><span class="liquote">”</span> (W. G.). <i>Essays on the Church’s Doctrinal Authority.</i></li>
+<li><span class="liquote">”</span> <span style="padding-left:.5em">(W. G.). <i>Essays on the Church’s Doctrinal Authority.</i></span></li>
 <li><span class="smcap">Waterworth.</span> <i>Council of Trent.</i> 1848.</li>
 <li><span class="smcap">Wordsworth, Ch.</span> <i>Miscellanies.</i> 3 vols. 1879.</li>
 </ul>
@@ -616,57 +620,122 @@ whatever to completeness.</p>
 
 <p><span class="pagenum" id="Page_xv">[Pg xv]</span></p>
 
-  <h2 class="nobreak" id="CONTENTS">
-    CONTENTS
-  </h2>
+<h2 class="nobreak" id="CONTENTS">
+CONTENTS
+</h2>
 </div>
 
-<pre>
-                                                        PAGE
-
-      I. THE EVIDENCE OF SCRIPTURE                         1
-
-     II. THE AGE OF THE FATHERS                            9
-
-    III. THE CASE OF HONORIUS                             31
-
-     IV. THE SCHOLASTIC PERIOD                            48
-
-      V. THE AGE OF THE REFORMING COUNCILS                55
-
-     VI. THE COUNCIL OF TRENT                             66
-
-    VII. CARDINAL BELLARMINE                              72
-
-   VIII. THE SORBONNE                                     79
-
-     IX. BOSSUET                                          85
-
-      X. OPPOSITION AMONG ROMAN CATHOLICS IN ENGLAND      98
-
-     XI. ULTRAMONTANISM IN FRANCE                        143
-
-    XII. DARBOY, DUPANLOUP, MARET, GRATRY AND
-            MONTALEMBERT                                 157
-
-   XIII. OPPOSITION IN GERMANY—DÖLLINGER                188
-
-    XIV. HOHENLOHE AND FRIEDRICH                         207
-
-     XV. THE IMMEDIATE PREPARATIONS                      217
-
-    XVI. THE OPENING OF THE VATICAN COUNCIL              229
-
-   XVII. THE VATICAN DECISION                            238
-
-  XVIII. THE MINORITY AFTER THE VATICAN DECREE           275
-
-    XIX. THE INFALLIBILITY DOCTRINE                      340
-
-     XX. WHERE ARE THE INFALLIBLE DECISIONS?             356
-
-         INDEX                                           371
-</pre>
+<table class="autotable toc">
+<tr>
+<th colspan="2"></th>
+<th class="tdr">PAGE</th>
+</tr>
+<tr>
+<td class="tdr top">I.</td>
+<td class="tdl">THE EVIDENCE OF SCRIPTURE</td>
+<td class="tdr bot">1</td>
+</tr>
+<tr>
+<td class="tdr top">II.</td>
+<td class="tdl">THE AGE OF THE FATHERS</td>
+<td class="tdr bot">9</td>
+</tr>
+<tr>
+<td class="tdr top">III.</td>
+<td class="tdl">THE CASE OF HONORIUS</td>
+<td class="tdr bot">31</td>
+</tr>
+<tr>
+<td class="tdr top">IV.</td>
+<td class="tdl">THE SCHOLASTIC PERIOD</td>
+<td class="tdr bot">48</td>
+</tr>
+<tr>
+<td class="tdr top">V.</td>
+<td class="tdl">THE AGE OF THE REFORMING COUNCILS</td>
+<td class="tdr bot">55</td>
+</tr>
+<tr>
+<td class="tdr top">VI.</td>
+<td class="tdl">THE COUNCIL OF TRENT</td>
+<td class="tdr bot">66</td>
+</tr>
+<tr>
+<td class="tdr top">VII.</td>
+<td class="tdl">CARDINAL BELLARMINE</td>
+<td class="tdr bot">72</td>
+</tr>
+<tr>
+<td class="tdr top">VIII.</td>
+<td class="tdl">THE SORBONNE</td>
+<td class="tdr bot">79</td>
+</tr>
+<tr>
+<td class="tdr top">IX.</td>
+<td class="tdl">BOSSUET</td>
+<td class="tdr bot">85</td>
+</tr>
+<tr>
+<td class="tdr top">X.</td>
+<td class="tdl">OPPOSITION AMONG ROMAN CATHOLICS IN ENGLAND</td>
+<td class="tdr bot">98</td>
+</tr>
+<tr>
+<td class="tdr top">XI.</td>
+<td class="tdl">ULTRAMONTANISM IN FRANCE</td>
+<td class="tdr bot">143</td>
+</tr>
+<tr>
+<td class="tdr top">XII.</td>
+<td class="tdl">DARBOY, DUPANLOUP, MARET, GRATRY AND MONTALEMBERT</td>
+<td class="tdr bot">157</td>
+</tr>
+<tr>
+<td class="tdr top">XIII.</td>
+<td class="tdl">OPPOSITION IN GERMANY—DÖLLINGER</td>
+<td class="tdr bot">188</td>
+</tr>
+<tr>
+<td class="tdr top">XIV.</td>
+<td class="tdl">HOHENLOHE AND FRIEDRICH</td>
+<td class="tdr bot">207</td>
+</tr>
+<tr>
+<td class="tdr top">XV.</td>
+<td class="tdl">THE IMMEDIATE PREPARATIONS</td>
+<td class="tdr bot">217</td>
+</tr>
+<tr>
+<td class="tdr top">XVI.</td>
+<td class="tdl">THE OPENING OF THE VATICAN COUNCIL</td>
+<td class="tdr bot">229</td>
+</tr>
+<tr>
+<td class="tdr top">XVII.</td>
+<td class="tdl">THE VATICAN DECISION</td>
+<td class="tdr bot">238</td>
+</tr>
+<tr>
+<td class="tdr top">XVIII.</td>
+<td class="tdl">THE MINORITY AFTER THE VATICAN DECREE</td>
+<td class="tdr bot">275</td>
+</tr>
+<tr>
+<td class="tdr top">XIX.</td>
+<td class="tdl">THE INFALLIBILITY DOCTRINE</td>
+<td class="tdr bot">340</td>
+</tr>
+<tr>
+<td class="tdr top">XX.</td>
+<td class="tdl">WHERE ARE THE INFALLIBLE DECISIONS?</td>
+<td class="tdr bot">356</td>
+</tr>
+<tr>
+<td></td>
+<td class="tdl">INDEX</td>
+<td class="tdr">371</td>
+</tr>
+</table>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
