@@ -266,7 +266,7 @@ p.noindent { text-indent: 0; }
 
 .subs-hangindent {
     padding-left: 2em; text-indent: -2em;
-    margin-top: 120%; margin-bottom: 120%;
+    margin-top: 1em; margin-bottom: 1em;
 }
     </style>
 </head>
@@ -301,7 +301,7 @@ PAPAL INFALLIBILITY
   </h2>
 </div>
 
-<p class="noindent">The following pages have been written to show the
+<p class="noindent"><span class="smcap">The</span> following pages have been written to show the
 difficulties experienced by Roman Catholics in assenting
 to the doctrine of Papal Infallibility. No attempt
 is here made to write a complete account of the
@@ -423,7 +423,7 @@ to the Pope; the third by Dr Newman.</p>
   </h2>
 </div>
 
-<p class="noindent">The following list of books has been compiled, partly
+<p class="noindent"><span class="smcap">The</span> following list of books has been compiled, partly
 to show the editions to which references have been
 made, and partly as a help to study. It is, of course,
 needless to say that such a list has no pretensions
@@ -1067,17 +1067,14 @@ delivery was prevented by the closure of the discussion.</p>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
-
-<p><span class="pagenum" id="Page_9">[Pg 9]</span></p>
-
-  <h2 class="nobreak" id="CHAPTER_II">
-    CHAPTER II
-    <br>
-    THE AGE OF THE FATHERS
-  </h2>
+<span class="pagenum" id="Page_9">[Pg 9]</span>
+<h2 class="nobreak" id="CHAPTER_II">
+CHAPTER II<br><br>
+<span class="subtitle">THE AGE OF THE FATHERS</span>
+</h2>
 </div>
 
-<p class="noindent">Roman writers have differed greatly in their view of
+<p class="noindent"><span class="smcap">Roman</span> writers have differed greatly in their view of
 the Patristic evidence for Papal Infallibility. Some
 have found very little definite statement in the Fathers,
 upon which they thought it wise, at any rate in controversy,
@@ -2031,17 +2028,14 @@ evidence is nothing else than a simple forgery.</p>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
-
-<p><span class="pagenum" id="Page_31">[Pg 31]</span></p>
-
-  <h2 class="nobreak" id="CHAPTER_III">
-    CHAPTER III
-    <br>
-    THE CASE OF HONORIUS
-  </h2>
+<span class="pagenum" id="Page_31">[Pg 31]</span>
+<h2 class="nobreak" id="CHAPTER_III">
+CHAPTER III<br><br>
+<span class="subtitle">THE CASE OF HONORIUS</span>
+</h2>
 </div>
 
-<p class="noindent">The case of Pope Honorius naturally occupied the
+<p class="noindent"><span class="smcap">The</span> case of Pope Honorius naturally occupied the
 attention of Roman Catholics more than any other
 instance of papal pronouncements, because it presented
 peculiar difficulties to the advocates of Infallibility. The
@@ -2676,17 +2670,14 @@ the Council of the Vatican.</p>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
-
-<p><span class="pagenum" id="Page_48">[Pg 48]</span></p>
-
-  <h2 class="nobreak" id="CHAPTER_IV">
-    CHAPTER IV
-    <br>
-    THE SCHOLASTIC PERIOD
-  </h2>
+<span class="pagenum" id="Page_48">[Pg 48]</span>
+<h2 class="nobreak" id="CHAPTER_IV">
+CHAPTER IV<br><br>
+<span class="subtitle">THE SCHOLASTIC PERIOD</span>
+</h2>
 </div>
 
-<p class="noindent">From the case of Honorius we may pass clean away
+<p class="noindent"><span class="smcap">From</span> the case of Honorius we may pass clean away
 to <i>the Scholastic period</i>, when the great systematic
 theologians were gathering into consolidated form the
 developments of the Middle Ages. Six hundred years
@@ -2924,17 +2915,14 @@ strongest passages in the patristic evidences.</p>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
-
-<p><span class="pagenum" id="Page_55">[Pg 55]</span></p>
-
-  <h2 class="nobreak" id="CHAPTER_V">
-    CHAPTER V
-    <br>
-    THE AGE OF THE REFORMING COUNCILS
-  </h2>
+<span class="pagenum" id="Page_55">[Pg 55]</span>
+<h2 class="nobreak" id="CHAPTER_V">
+CHAPTER V<br><br>
+<span class="subtitle">THE AGE OF THE REFORMING COUNCILS</span>
+</h2>
 </div>
 
-<p class="noindent">The development of theories of papal power may
+<p class="noindent"><span class="smcap">The</span> development of theories of papal power may
 next be traced in the fourteenth and fifteenth centuries.
 Pursuing the method adopted hitherto, we will endeavour
 to describe the facts as objectively as possible, and then
@@ -3371,17 +3359,14 @@ published it after becoming Pope (1522).</p>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
-
-<p><span class="pagenum" id="Page_66">[Pg 66]</span></p>
-
-  <h2 class="nobreak" id="CHAPTER_VI">
-    CHAPTER VI
-    <br>
-    THE COUNCIL OF TRENT
-  </h2>
+<span class="pagenum" id="Page_66">[Pg 66]</span>
+<h2 class="nobreak" id="CHAPTER_VI">
+CHAPTER VI<br><br>
+<span class="subtitle">THE COUNCIL OF TRENT</span>
+</h2>
 </div>
 
-<p class="noindent">The next crisis between papal and episcopal theories
+<p class="noindent"><span class="smcap">The</span> next crisis between papal and episcopal theories
 of authority is reached in the <i>Council of Trent</i>. The
 primary purpose of that Assembly was to reply to those
 without, rather than to determine opinions within the
@@ -3573,17 +3558,14 @@ character.</p>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
-
-<p><span class="pagenum" id="Page_72">[Pg 72]</span></p>
-
-  <h2 class="nobreak" id="CHAPTER_VII">
-    CHAPTER VII
-    <br>
-    CARDINAL BELLARMINE
-  </h2>
+<span class="pagenum" id="Page_72">[Pg 72]</span>
+<h2 class="nobreak" id="CHAPTER_VII">
+CHAPTER VII<br><br>
+<span class="subtitle">CARDINAL BELLARMINE</span>
+</h2>
 </div>
 
-<p class="noindent">Nothing can better illustrate the development of
+<p class="noindent"><span class="smcap">Nothing</span> can better illustrate the development of
 thought on the papal power after the Council of Trent
 than the theories of Cardinal Bellarmine. A nephew of
 one Pope and friend of another, a Jesuit, resident in
@@ -3808,17 +3790,14 @@ a not unimportant feature in the doctrine’s development.</p>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
-
-<p><span class="pagenum" id="Page_79">[Pg 79]</span></p>
-
-  <h2 class="nobreak" id="CHAPTER_VIII">
-    CHAPTER VIII
-    <br>
-    THE SORBONNE
-  </h2>
+<span class="pagenum" id="Page_79">[Pg 79]</span>
+<h2 class="nobreak" id="CHAPTER_VIII">
+CHAPTER VIII<br><br>
+<span class="subtitle">THE SORBONNE</span>
+</h2>
 </div>
 
-<p class="noindent">During the seventeenth century Ultramontanism found
+<p class="noindent"><span class="smcap">During</span> the seventeenth century Ultramontanism found
 its principal obstruction in the Church of France, its
 principal support in the Jesuit Society. The progress of
 the theory roughly corresponded with the vicissitudes of
@@ -4052,17 +4031,14 @@ authority is to be received with great regard.</p>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
-
-<p><span class="pagenum" id="Page_85">[Pg 85]</span></p>
-
-  <h2 class="nobreak" id="CHAPTER_IX">
-    CHAPTER IX
-    <br>
-    BOSSUET
-  </h2>
+<span class="pagenum" id="Page_85">[Pg 85]</span>
+<h2 class="nobreak" id="CHAPTER_IX">
+CHAPTER IX<br><br>
+<span class="subtitle">BOSSUET</span>
+</h2>
 </div>
 
-<p class="noindent">The struggle between the Sorbonne and the Jesuits was
+<p class="noindent"><span class="smcap">The</span> struggle between the Sorbonne and the Jesuits was
 no mere struggle between a theological school and a
 religious community. The universities held, in the
 theological controversies of those days, a position with
@@ -4597,17 +4573,14 @@ same period in the diocese of Rouen were similar.&#x2060;<a id="FNanchor_145_145
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
-
-<p><span class="pagenum" id="Page_98">[Pg 98]</span></p>
-
-  <h2 class="nobreak" id="CHAPTER_X">
-    CHAPTER X
-    <br>
-    OPPOSITION AMONG ROMAN CATHOLICS IN ENGLAND
-  </h2>
+<span class="pagenum" id="Page_98">[Pg 98]</span>
+<h2 class="nobreak" id="CHAPTER_X">
+CHAPTER X<br><br>
+<span class="subtitle">OPPOSITION AMONG ROMAN CATHOLICS IN ENGLAND</span>
+</h2>
 </div>
 
-<p class="noindent">The struggle of Catholic <i>versus</i> Ultramontane in the
+<p class="noindent"><span class="smcap">The</span> struggle of Catholic <i>versus</i> Ultramontane in the
 Roman Communion in England finds forcible expression
 in the famous letter of the distinguished Roman
 Catholic layman, Sir John Throgmorton, in 1790:—</p>
@@ -6507,17 +6480,14 @@ rulers had laboured to force upon them.</p>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
-
-<p><span class="pagenum" id="Page_143">[Pg 143]</span></p>
-
-  <h2 class="nobreak" id="CHAPTER_XI">
-    CHAPTER XI
-    <br>
-    ULTRAMONTANISM IN FRANCE
-  </h2>
+<span class="pagenum" id="Page_143">[Pg 143]</span>
+<h2 class="nobreak" id="CHAPTER_XI">
+CHAPTER XI<br><br>
+<span class="subtitle">ULTRAMONTANISM IN FRANCE</span>
+</h2>
 </div>
 
-<p class="noindent">1. A powerful if unintentional contribution to
+<p class="noindent">1. <span class="smcap">A powerful</span> if unintentional contribution to
 Ultramontanism was Napoleon’s reconstruction of the
 French Episcopate.</p>
 
@@ -7062,18 +7032,15 @@ these schools into the scale of Infallibility.</p>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
-
-<p><span class="pagenum" id="Page_157">[Pg 157]</span></p>
-
-  <h2 class="nobreak" id="CHAPTER_XII">
-    CHAPTER XII
-    <br>
-    DARBOY, DUPANLOUP, MARET, GRATRY, AND
-    MONTALEMBERT
-  </h2>
+<span class="pagenum" id="Page_157">[Pg 157]</span>
+<h2 class="nobreak" id="CHAPTER_XII">
+CHAPTER XII<br><br>
+<span class="subtitle">DARBOY, DUPANLOUP, MARET, GRATRY, AND
+MONTALEMBERT</span>
+</h2>
 </div>
 
-<p class="noindent">The Archbishop of Paris in 1870 was Mgr. Darboy.
+<p class="noindent"><span class="smcap">The</span> Archbishop of Paris in 1870 was Mgr. Darboy.
 The records of his See had been recently a series of
 ghastly tragedies. His immediate predecessors were
 Quélen, Affre, Sibour, and Cardinal Morlot. Only the
@@ -8292,17 +8259,14 @@ strengthened their forces.</p>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
-
-<p><span class="pagenum" id="Page_188">[Pg 188]</span></p>
-
-  <h2 class="nobreak" id="CHAPTER_XIII">
-    CHAPTER XIII
-    <br>
-    OPPOSITION IN GERMANY—DÖLLINGER
-  </h2>
+<span class="pagenum" id="Page_188">[Pg 188]</span>
+<h2 class="nobreak" id="CHAPTER_XIII">
+CHAPTER XIII<br><br>
+<span class="subtitle">OPPOSITION IN GERMANY—DÖLLINGER</span>
+</h2>
 </div>
 
-<p class="noindent">Ignatius von Döllinger became Professor at
+<p class="noindent"><span class="smcap">Ignatius von Döllinger</span> became Professor at
 Munich in 1825. In a mixed University, where Protestant
 and Roman teachers addressed their students
 in close proximity, and Schelling taught Philosophy
@@ -9072,17 +9036,14 @@ exception of Bossuet and Cardinal de la Luzerne.</p>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
-
-<p><span class="pagenum" id="Page_207">[Pg 207]</span></p>
-
-  <h2 class="nobreak" id="CHAPTER_XIV">
-    CHAPTER XIV
-    <br>
-    HOHENLOHE AND FRIEDRICH
-  </h2>
+<span class="pagenum" id="Page_207">[Pg 207]</span>
+<h2 class="nobreak" id="CHAPTER_XIV">
+CHAPTER XIV<br><br>
+<span class="subtitle">HOHENLOHE AND FRIEDRICH</span>
+</h2>
 </div>
 
-<p class="noindent">In April 1869 Prince Hohenlohe&#x2060;<a id="FNanchor_301_301" href="#Footnote_301_301" class="fnanchor">[301]</a> issued a circular,
+<p class="noindent"><span class="smcap">In</span> April 1869 Prince Hohenlohe&#x2060;<a id="FNanchor_301_301" href="#Footnote_301_301" class="fnanchor">[301]</a> issued a circular,
 composed chiefly by Döllinger, to the Bavarian Legations,
 calling their attention to the certainty that
 Infallibility would be discussed, and the probability
@@ -9469,17 +9430,15 @@ personal Infallibility would certainly be defined.</p>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
+<span class="pagenum" id="Page_217">[Pg 217]</span>
 
-<p><span class="pagenum" id="Page_217">[Pg 217]</span></p>
-
-  <h2 class="nobreak" id="CHAPTER_XV">
-    CHAPTER XV
-    <br>
-    THE IMMEDIATE PREPARATIONS
-  </h2>
+<h2 class="nobreak" id="CHAPTER_XV">
+CHAPTER XV<br><br>
+<span class="subtitle">THE IMMEDIATE PREPARATIONS</span>
+</h2>
 </div>
 
-<p class="noindent">When Pius IX. had finally resolved on assembling a
+<p class="noindent"><span class="smcap">When</span> Pius IX. had finally resolved on assembling a
 Council he proceeded without delay to the necessary
 preparations. These preparations may be classified as
 twofold: those within the Roman Communion, and
@@ -9957,17 +9916,14 @@ possible before the Vatican Council.’”&#x2060;<a id="FNanchor_328_328" href=
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
-
-<p><span class="pagenum" id="Page_229">[Pg 229]</span></p>
-
-  <h2 class="nobreak" id="CHAPTER_XVI">
-    CHAPTER XVI
-    <br>
-    THE OPENING OF THE VATICAN COUNCIL
-  </h2>
+<span class="pagenum" id="Page_229">[Pg 229]</span>
+<h2 class="nobreak" id="CHAPTER_XVI">
+CHAPTER XVI<br><br>
+<span class="subtitle">THE OPENING OF THE VATICAN COUNCIL</span>
+</h2>
 </div>
 
-<p class="noindent">The Council of the Vatican was opened on the Feast
+<p class="noindent"><span class="smcap">The</span> Council of the Vatican was opened on the Feast
 of the Immaculate Conception (8th December 1869).&#x2060;<a id="FNanchor_329_329" href="#Footnote_329_329" class="fnanchor">[329]</a>
 There was significance in the selection of the day.
 That very day, fifteen years before, Pius IX. had
@@ -10317,17 +10273,14 @@ resolute lines. The minority protested, but submitted.&#x2060;<a id="FNanchor_34
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
-
-<p><span class="pagenum" id="Page_238">[Pg 238]</span></p>
-
-  <h2 class="nobreak" id="CHAPTER_XVII">
-    CHAPTER XVII
-    <br>
-    THE VATICAN DECISION
-  </h2>
+<span class="pagenum" id="Page_238">[Pg 238]</span>
+<h2 class="nobreak" id="CHAPTER_XVII">
+CHAPTER XVII<br><br>
+<span class="subtitle">THE VATICAN DECISION</span>
+</h2>
 </div>
 
-<p class="noindent">If the actual subject of Infallibility had not yet entered
+<p class="noindent"><span class="smcap">If</span> the actual subject of Infallibility had not yet entered
 the Council for discussion, it was anxiously or eagerly
 debated in every mind. As far back as the beginning
 of the year (28th January 1870), a petition&#x2060;<a id="FNanchor_341_341" href="#Footnote_341_341" class="fnanchor">[341]</a> under the
@@ -11785,17 +11738,14 @@ Infallibility.</p>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
-
-<p><span class="pagenum" id="Page_275">[Pg 275]</span></p>
-
-  <h2 class="nobreak" id="CHAPTER_XVIII">
-    CHAPTER XVIII
-  </h2>
+<span class="pagenum" id="Page_275">[Pg 275]</span>
+<h2 class="nobreak" id="CHAPTER_XVIII">
+CHAPTER XVIII<br><br>
+<span class="subtitle">THE MINORITY AFTER THE VATICAN DECREE</span>
+</h2>
 </div>
 
-<p>THE MINORITY AFTER THE VATICAN DECREE</p>
-
-<p class="noindent">The 18th of July 1870 is from any point of view one
+<p class="noindent"><span class="smcap">The</span> 18th of July 1870 is from any point of view one
 of the most critical days in the history of the Papacy.
 It is the transition from old Catholicism into new.
 It is the consummation of a theory of spiritual authority;
@@ -14429,17 +14379,14 @@ sons?”</p>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
-
-<p><span class="pagenum" id="Page_340">[Pg 340]</span></p>
-
-  <h2 class="nobreak" id="CHAPTER_XIX">
-    CHAPTER XIX
-    <br>
-    THE INFALLIBILITY DOCTRINE
-  </h2>
+<span class="pagenum" id="Page_340">[Pg 340]</span>
+<h2 class="nobreak" id="CHAPTER_XIX">
+CHAPTER XIX<br><br>
+<span class="subtitle">THE INFALLIBILITY DOCTRINE</span>
+</h2>
 </div>
 
-<p class="noindent">It is essential to the completeness of our exposition
+<p class="noindent"><span class="smcap">It</span> is essential to the completeness of our exposition
 that we should analyse the doctrine itself which the
 Vatican Council decreed. The Vatican affirmation
 is that, under certain circumstances, the Pope is infallible,
@@ -15027,17 +14974,14 @@ of acquiring from a collective.</p>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
-
-<p><span class="pagenum" id="Page_356">[Pg 356]</span></p>
-
-  <h2 class="nobreak" id="CHAPTER_XX">
-    CHAPTER XX
-    <br>
-    WHERE ARE THE INFALLIBLE DECISIONS?
-  </h2>
+<span class="pagenum" id="Page_356">[Pg 356]</span>
+<h2 class="nobreak" id="CHAPTER_XX">
+CHAPTER XX<br><br>
+<span class="subtitle">WHERE ARE THE INFALLIBLE DECISIONS?</span>
+</h2>
 </div>
 
-<p class="noindent">Nearly forty years have elapsed since the recognition
+<p class="noindent"><span class="smcap">Nearly</span> forty years have elapsed since the recognition
 of the Infallibility of the head of that vast Communion.
 The dogma was pushed through admittedly to enable
 authority to meet by the rapidity of its decisions the
@@ -15610,12 +15554,10 @@ mankind.</p>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
-
-<p><span class="pagenum"><a id="Page_370"></a><a id="Page_371"></a>[Pg 371]</span></p>
-
-  <h2 class="nobreak" id="INDEX">
-    INDEX
-  </h2>
+<span class="pagenum"><a id="Page_370"></a><a id="Page_371"></a>[Pg 371]</span>
+<h2 class="nobreak" id="INDEX">
+INDEX
+</h2>
 </div>
 
 <ul class="index">
