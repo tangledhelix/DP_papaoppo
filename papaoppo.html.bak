@@ -262,9 +262,9 @@ img.w100 {width: 100%;}
 p { text-indent: 1em; }
 p.noindent { text-indent: 0; }
 
-.hangindent { padding-left: 2em; text-indent: -2em; }
-
 .titlespace { margin-top: 4em; }
+
+.subs-hangindent { padding-left: 2em; text-indent: -2em; }
     </style>
 </head>
 <body>
@@ -759,7 +759,7 @@ CHAPTER I<br><br>
 </h2>
 </div>
 
-<p class="noindent">Those who do not identify history with heresy will
+<p class="noindent"><span class="smcap">Those</span> who do not identify history with heresy will
 always desire to know how a Christian affirmation of
 the present compares with the past. Whatever validity
 faith may attach to the teaching of the Church of to-day,
@@ -820,8 +820,8 @@ to find any of these doctrines in the words of Christ.</p>
 Christ’s Prayer; Peter’s Faith; Peter’s Brethren;
 Peter’s Successors.</p>
 
-<p>
-  i. <i>First, then, Christ’s Prayer: I have prayed for thee.</i>
+<p class="subs-hangindent">
+i. <i>First, then, Christ’s Prayer: I have prayed for thee.</i>
 </p>
 
 <p>1. Certainly it was an <i>exclusive</i> prayer. Satan hath
@@ -878,10 +878,10 @@ unconditional security, exemption from the liabilities
 of human weakness and imperfection, apart from all
 considerations of personal effort and moral state.</p>
 
-<p>
-  ii. <i>The second object for our analysis is Peter’s Faith—and</i><br>
-  <i>here two points arise:—What is meant by “faith”</i><br>
-  <i>and what is meant by “fail.”</i>
+<p class="subs-hangindent">
+ii. <i>The second object for our analysis is Peter’s Faith—and
+here two points arise:—What is meant by “faith”
+and what is meant by “fail.”</i>
 </p>
 
 <p>1. Now when our Lord says “faith,” the meaning is
@@ -930,9 +930,9 @@ unclouded, that would help his brethren comparatively
 little if his official utterances could be mistaken. And
 it was expressly in his utterances that he did fail.</p>
 
-<p>
-  iii. <i>The third theme for analysis is the Strengthening</i><br>
-  <i>his Brethren.</i>
+<p class="subs-hangindent">
+iii. <i>The third theme for analysis is the Strengthening
+his Brethren.</i>
 </p>
 
 <p>1. Now to strengthen is to give support. It is
