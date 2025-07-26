@@ -255,6 +255,9 @@ img.w100 {width: 100%;}
 .toc td.tdl { padding-left: 2.25em; text-indent: -2em; }
 .toc .top { vertical-align: top; }
 .toc .bot { vertical-align: bottom; }
+
+p { text-indent: 1em; }
+p.noindent { text-indent: 0; }
     </style>
 </head>
 <body>
@@ -289,7 +292,7 @@ JOHN MURRAY, ALBEMARLE STREET, W.
   </h2>
 </div>
 
-<p>The following pages have been written to show the
+<p class="noindent">The following pages have been written to show the
 difficulties experienced by Roman Catholics in assenting
 to the doctrine of Papal Infallibility. No attempt
 is here made to write a complete account of the
@@ -411,7 +414,7 @@ to the Pope; the third by Dr Newman.</p>
   </h2>
 </div>
 
-<p>The following list of books has been compiled, partly
+<p class="noindent">The following list of books has been compiled, partly
 to show the editions to which references have been
 made, and partly as a help to study. It is, of course,
 needless to say that such a list has no pretensions
@@ -633,107 +636,107 @@ CONTENTS
 <tr>
 <td class="tdr top">I.</td>
 <td class="tdl">THE EVIDENCE OF SCRIPTURE</td>
-<td class="tdr bot">1</td>
+<td class="tdr bot"><a href="#Page_1">1</a></td>
 </tr>
 <tr>
 <td class="tdr top">II.</td>
 <td class="tdl">THE AGE OF THE FATHERS</td>
-<td class="tdr bot">9</td>
+<td class="tdr bot"><a href="#Page_9">9</a></td>
 </tr>
 <tr>
 <td class="tdr top">III.</td>
 <td class="tdl">THE CASE OF HONORIUS</td>
-<td class="tdr bot">31</td>
+<td class="tdr bot"><a href="#Page_31">31</a></td>
 </tr>
 <tr>
 <td class="tdr top">IV.</td>
 <td class="tdl">THE SCHOLASTIC PERIOD</td>
-<td class="tdr bot">48</td>
+<td class="tdr bot"><a href="#Page_48">48</a></td>
 </tr>
 <tr>
 <td class="tdr top">V.</td>
 <td class="tdl">THE AGE OF THE REFORMING COUNCILS</td>
-<td class="tdr bot">55</td>
+<td class="tdr bot"><a href="#Page_55">55</a></td>
 </tr>
 <tr>
 <td class="tdr top">VI.</td>
 <td class="tdl">THE COUNCIL OF TRENT</td>
-<td class="tdr bot">66</td>
+<td class="tdr bot"><a href="#Page_66">66</a></td>
 </tr>
 <tr>
 <td class="tdr top">VII.</td>
 <td class="tdl">CARDINAL BELLARMINE</td>
-<td class="tdr bot">72</td>
+<td class="tdr bot"><a href="#Page_72">72</a></td>
 </tr>
 <tr>
 <td class="tdr top">VIII.</td>
 <td class="tdl">THE SORBONNE</td>
-<td class="tdr bot">79</td>
+<td class="tdr bot"><a href="#Page_79">79</a></td>
 </tr>
 <tr>
 <td class="tdr top">IX.</td>
 <td class="tdl">BOSSUET</td>
-<td class="tdr bot">85</td>
+<td class="tdr bot"><a href="#Page_85">85</a></td>
 </tr>
 <tr>
 <td class="tdr top">X.</td>
 <td class="tdl">OPPOSITION AMONG ROMAN CATHOLICS IN ENGLAND</td>
-<td class="tdr bot">98</td>
+<td class="tdr bot"><a href="#Page_98">98</a></td>
 </tr>
 <tr>
 <td class="tdr top">XI.</td>
 <td class="tdl">ULTRAMONTANISM IN FRANCE</td>
-<td class="tdr bot">143</td>
+<td class="tdr bot"><a href="#Page_143">143</a></td>
 </tr>
 <tr>
 <td class="tdr top">XII.</td>
 <td class="tdl">DARBOY, DUPANLOUP, MARET, GRATRY AND MONTALEMBERT</td>
-<td class="tdr bot">157</td>
+<td class="tdr bot"><a href="#Page_157">157</a></td>
 </tr>
 <tr>
 <td class="tdr top">XIII.</td>
 <td class="tdl">OPPOSITION IN GERMANY—DÖLLINGER</td>
-<td class="tdr bot">188</td>
+<td class="tdr bot"><a href="#Page_188">188</a></td>
 </tr>
 <tr>
 <td class="tdr top">XIV.</td>
 <td class="tdl">HOHENLOHE AND FRIEDRICH</td>
-<td class="tdr bot">207</td>
+<td class="tdr bot"><a href="#Page_207">207</a></td>
 </tr>
 <tr>
 <td class="tdr top">XV.</td>
 <td class="tdl">THE IMMEDIATE PREPARATIONS</td>
-<td class="tdr bot">217</td>
+<td class="tdr bot"><a href="#Page_217">217</a></td>
 </tr>
 <tr>
 <td class="tdr top">XVI.</td>
 <td class="tdl">THE OPENING OF THE VATICAN COUNCIL</td>
-<td class="tdr bot">229</td>
+<td class="tdr bot"><a href="#Page_229">229</a></td>
 </tr>
 <tr>
 <td class="tdr top">XVII.</td>
 <td class="tdl">THE VATICAN DECISION</td>
-<td class="tdr bot">238</td>
+<td class="tdr bot"><a href="#Page_238">238</a></td>
 </tr>
 <tr>
 <td class="tdr top">XVIII.</td>
 <td class="tdl">THE MINORITY AFTER THE VATICAN DECREE</td>
-<td class="tdr bot">275</td>
+<td class="tdr bot"><a href="#Page_275">275</a></td>
 </tr>
 <tr>
 <td class="tdr top">XIX.</td>
 <td class="tdl">THE INFALLIBILITY DOCTRINE</td>
-<td class="tdr bot">340</td>
+<td class="tdr bot"><a href="#Page_340">340</a></td>
 </tr>
 <tr>
 <td class="tdr top">XX.</td>
 <td class="tdl">WHERE ARE THE INFALLIBLE DECISIONS?</td>
-<td class="tdr bot">356</td>
+<td class="tdr bot"><a href="#Page_356">356</a></td>
 </tr>
 <tr>
 <td></td>
 <td class="tdl">INDEX</td>
-<td class="tdr">371</td>
+<td class="tdr"><a href="#Page_371">371</a></td>
 </tr>
 </table>
 
