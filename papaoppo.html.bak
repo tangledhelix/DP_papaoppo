@@ -217,7 +217,7 @@ img.w100 {width: 100%;}
 /* .x-ebookmaker .figright {float: right;} */
 
 /* Footnotes */
-.footnotes        {border: 1px dashed;}
+.footnotes        { border: 1px dashed #aaaaaa; margin-top: 1.5em; }
 
 .footnote         {margin-left: 10%; margin-right: 10%; font-size: 0.9em;}
 
@@ -1043,6 +1043,7 @@ in exercise of his divine right as a Bishop, but whose
 delivery was prevented by the closure of the discussion.</p>
 
 <div class="footnotes">
+<p class="center">Footnotes for chapter I</p>
 <div class="footnote"><p><a id="Footnote_1_1" href="#FNanchor_1_1" class="label">[1]</a> Luke xxii. 32.</p></div>
 
 <div class="footnote"><p><a id="Footnote_2_2" href="#FNanchor_2_2" class="label">[2]</a> Heb. i. 12.</p></div>
@@ -1721,6 +1722,7 @@ the earliest statement of the principles of theological
 development, drawn with a wonderful insight into its
 nature and limitations.</p>
 
+<blockquote>
 <p>“But some one will say, perhaps—Shall there then be no
 <i>progress</i> in the Christian Church? Certainly all possible
 progress.... Yet on condition that it be real progress,
@@ -1733,6 +1735,7 @@ ought in the course of ages and centuries, to increase
 and make much and vigorous progress; <i>but yet only in
 its own kind</i>; <i>i.e</i>., in the same doctrine, in the same
 sense, and in the same meaning.”</p>
+</blockquote>
 
 <p>Thus, according to Vincent, there may be all possible
 progress consistent with substantial identity. And the
@@ -1788,7 +1791,7 @@ and monarchy of each individual Pope. Bishop Hefele
 said that</p>
 
 <blockquote>
-<p>“when differences on matters of faith arose in the
+<p class="noindent">“when differences on matters of faith arose in the
 primitive Church appeal was made to the Apostolic
 Churches, Rome, Alexandria, Antioch; and that only
 was dogmatically propounded to the faithful, which
@@ -2844,7 +2847,7 @@ utterance. And these are mutually supporting.</p>
 <p>Elsewhere Aquinas says:—</p>
 
 <blockquote>
-<p>“If any one rejected a decision after it had been
+<p class="noindent">“If any one rejected a decision after it had been
 made by the authority of Universal Church, he would
 be considered a heretic. And that authority chiefly
 [principaliter] resides in the Supreme Pontiff.”&#x2060;<a id="FNanchor_75_75" href="#Footnote_75_75" class="fnanchor">[75]</a></p>
@@ -5512,7 +5515,7 @@ the other by the touchstone of its own interests. It
 appeared to Ullathorne&#x2060;<a id="FNanchor_198_198" href="#Footnote_198_198" class="fnanchor">[198]</a> that</p>
 
 <blockquote>
-<p>“to say that the Church cannot refute or object to
+<p class="noindent">“to say that the Church cannot refute or object to
 a discovery which will shake the faith of thousands;
 meaning thereby to deny her right to examine that
 discovery after her own methods, and by the union of
@@ -5548,7 +5551,7 @@ issued a Brief to the Archbishop of Munich in which he
 affirmed that</p>
 
 <blockquote>
-<p>“it is not enough for learned Catholics to receive
+<p class="noindent">“it is not enough for learned Catholics to receive
 and venerate the dogmas of the Church, but there is
 also need that they should submit themselves to the
 doctrinal decisions of the pontifical congregations.”</p>
@@ -5594,7 +5597,7 @@ authority toward modern thought He says, that in
 dealing with literature—</p>
 
 <blockquote>
-<p>“the paramount consideration of Rome had been
+<p class="noindent">“the paramount consideration of Rome had been
 the fear of scandal. Historical investigations, if they
 offered perilous occasion to unprepared and unstable
 minds, were suppressed”—upon which he remarks
@@ -5714,7 +5717,7 @@ Lord Acton’s view of the case, if new truth is to gain
 recognition from authority, it</p>
 
 <blockquote>
-<p>“must first pervade the members in order that it
+<p class="noindent">“must first pervade the members in order that it
 may reach the head. While the general sentiment of
 Catholics is unaltered, the course of the Holy See
 remains unaltered too. As soon as that sentiment is
@@ -6194,7 +6197,7 @@ from the Episcopate, “why,” asks Manning quite
 naturally,</p>
 
 <blockquote>
-<p>“why is he bound to take a means which demands
+<p class="noindent">“why is he bound to take a means which demands
 an Ecumenical Council, or a world-wide and protracted
 interrogation, with all the delays and uncertainties of
 correspondence, when, by the Divine order, a certain
@@ -7720,7 +7723,7 @@ by a father and composed of brethren.”</p>
 from Rome</i>—</p>
 
 <blockquote>
-<p>“attacked the opportuneness with such a powerful array
+<p class="noindent">“attacked the opportuneness with such a powerful array
 of testimonies in his famous Pastoral that every one
 saw clearly that the doctrine itself was involved, though
 <span class="pagenum" id="Page_175">[Pg 175]</span>he never entered in so many words on the theological
@@ -8357,7 +8360,7 @@ preparations for the Vatican Council. An Italian
 writer&#x2060;<a id="FNanchor_271_271" href="#Footnote_271_271" class="fnanchor">[271]</a> indeed assures us that</p>
 
 <blockquote>
-<p>“in the number of those whom the Pope intended to
+<p class="noindent">“in the number of those whom the Pope intended to
 invite was, contrary to the advice of some, the celebrated
 historian Döllinger.... But the Sovereign Pontiff was
 informed, on the authority of statements perhaps somewhat
@@ -8560,7 +8563,7 @@ instance of controversial effrontery.</p>
 <p>Döllinger’s Dublin critic affirmed that—</p>
 
 <blockquote>
-<p>“in real truth, through the whole post-Nicene period,
+<p class="noindent">“in real truth, through the whole post-Nicene period,
 Pontifical dogmatic letters issued <i>ex cathedra</i> are no
 less undeniable and no less obtrusive matters of
 historical fact than are Ecumenical Councils themselves;
@@ -8771,7 +8774,7 @@ to Catholicity.”</p>
 <p>His conclusion is that:—</p>
 
 <blockquote>
-<p>“accordingly the Infallibility of the Roman Pontiff
+<p class="noindent">“accordingly the Infallibility of the Roman Pontiff
 cannot be urged against heretics, nor utilised to
 establish the Catholic Faith....&#x2060;<a id="FNanchor_286_286" href="#Footnote_286_286" class="fnanchor">[286]</a> Nor can it be
 adduced, even by those who are fully convinced of
@@ -8813,7 +8816,7 @@ the volume he gives a list of Adiaphora, or things
 indifferent, in which he observes that</p>
 
 <blockquote>
-<p>“although the greatest reverence, obedience and submission
+<p class="noindent">“although the greatest reverence, obedience and submission
 be due to the Supreme Pontiff yet he is not
 favoured with the special privilege of inerrancy which
 was given by Christ our Lord only to the Church.”&#x2060;<a id="FNanchor_289_289" href="#Footnote_289_289" class="fnanchor">[289]</a></p>
@@ -8899,7 +8902,7 @@ discussion in the Council’s deliberations. The Pastoral,
 said a contemporary writer&#x2060;<a id="FNanchor_297_297" href="#Footnote_297_297" class="fnanchor">[297]</a>—</p>
 
 <blockquote>
-<p>“contains a promise, worded with all the distinctness
+<p class="noindent">“contains a promise, worded with all the distinctness
 that could be desired, that, so far as it depends on the
 votes of the German Bishops, the yoke of the new
 articles of faith shall not be laid on the German
@@ -9406,8 +9409,8 @@ the entire Catholic Church.”</p>
 
 <p>
   Signed by the Chaldee Archbishop      <span class="smcap">Khayath</span>.&#x2060;<a id="FNanchor_309_309" href="#Footnote_309_309" class="fnanchor">[309]</a><br>
-  <i>March 1.</i>
 </p>
+<p class="noindent"><i>March 1.</i></p>
 </blockquote>
 
 <p>Friedrich continued to reside in Rome till the 13th of
@@ -9801,7 +9804,7 @@ Impossible? The Belgian Jesuit De Buck corresponded
 with Bishop Forbes of Brechin. The Jesuit Father</p>
 
 <blockquote>
-<p>“was certain that at Rome there was no wish for
+<p class="noindent">“was certain that at Rome there was no wish for
 Infallibility.” He “maintained that every one at Rome
 was astonished to hear that the Anglican Bishops did
 not consider the command to attend the Council as
@@ -9893,7 +9896,7 @@ were declared.”&#x2060;<a id="FNanchor_326_326" href="#Footnote_326_326" class
 <p>Pusey’s biographers say that</p>
 
 <blockquote>
-<p>“as the meetings of the Council went on, Pusey had
+<p class="noindent">“as the meetings of the Council went on, Pusey had
 really very little hope of any wise result.”&#x2060;<a id="FNanchor_327_327" href="#Footnote_327_327" class="fnanchor">[327]</a></p>
 
 <p>“In all later issues of his third Eirenicon, Pusey
@@ -12106,7 +12109,7 @@ on the Pope’s self-assertion.”</p>
 authority which the Pope has actually exercised, and to</p>
 
 <blockquote>
-<p>“the consideration that our merciful Lord would not
+<p class="noindent">“the consideration that our merciful Lord would not
 care so little for His elect people, the multitude of the
 faithful, as to allow their visible Head and such a large
 number of Bishops to lead them into error; and an error
@@ -12440,7 +12443,9 @@ some Bishops clung, that they would not be required to
 take open action in cases where they knew acceptance
 of the doctrine to be morally impossible.</p>
 
-<p>I. AMONG THE FRENCH ROMANISTS</p>
+<div class="section">
+<h3 class="nobreak" id="I_AMONG_THE_FRENCH_ROMANISTS">I. AMONG THE FRENCH ROMANISTS</h3>
+</div>
 
 <p>1. The Archbishop of Paris voted,&#x2060;<a id="FNanchor_400_400" href="#Footnote_400_400" class="fnanchor">[400]</a> consistently with his
 entire attitude, against the doctrine of Papal Infallibility,
@@ -12772,7 +12777,9 @@ biographer, withheld it from history.</p>
 Decree. “And,” says his biographer, “most assuredly
 the trials of this period shortened his days.”&#x2060;<a id="FNanchor_413_413" href="#Footnote_413_413" class="fnanchor">[413]</a></p>
 
-<p>II. AMONG ENGLISH SPEAKING ROMANISTS</p>
+<div class="section">
+<h3 class="nobreak" id="II_AMONG_ENGLISH_SPEAKING_ROMANISTS">II. AMONG ENGLISH SPEAKING ROMANISTS</h3>
+</div>
 
 <p>Archbishop Kenrick of St Louis represented opposition
 in the American Church. During the Council
@@ -12878,9 +12885,11 @@ schism; or to warn for ever against the disastrous
 consequences which follow such exercises of authority
 as that which produced the Vatican Decree.</p>
 
-<p>III. AN ITALIAN INSTANCE</p>
+<div class="section">
+<h3 class="nobreak" id="III_AN_ITALIAN_INSTANCE">III. AN ITALIAN INSTANCE</h3>
+</div>
 
-<p><i>Cardinal Hohenlohe</i></p>
+<p class="center"><i>Cardinal Hohenlohe</i></p>
 
 <p>The “Memoirs” of Prince Hohenlohe include numerous
 confidential letters from his brother, Cardinal Hohenlohe,
@@ -12960,7 +12969,7 @@ of moral courage in the German Bishops. To others
 and to himself it seemed a</p>
 
 <blockquote>
-<p>“disgraceful apostasy of the German Bishops, seeing that
+<p class="noindent">“disgraceful apostasy of the German Bishops, seeing that
 after they had pledged themselves, before their departure
 from Rome, to decide nothing about the Dogma of
 Infallibility without previously taking council together,
@@ -13028,7 +13037,9 @@ Hence I remain a member of the Church, without going
 over to the Ultramontanes.”</p>
 </blockquote>
 
-<p>IV. IN GERMANY</p>
+<div class="section">
+<h3 class="nobreak" id="IV_IN_GERMANY">IV. IN GERMANY</h3>
+</div>
 
 <p>1. Hefele, Bishop of Rottenburg, formerly Professor of
 Theology in the University of Tübingen, and learned,
@@ -13770,9 +13781,10 @@ the end of his days he held that this theory could not
 possibly be reconciled with the broad facts of Christian
 history.</p>
 
-<p><span class="pagenum" id="Page_326">[Pg 326]</span></p>
-
-<p>V. LORD ACTON’S SUBMISSION</p>
+<div class="section">
+<span class="pagenum" id="Page_326">[Pg 326]</span>
+<h3 class="nobreak" id="V_LORD_ACTONS_SUBMISSION">V. LORD ACTON’S SUBMISSION</h3>
+</div>
 
 <p>The new decree was profoundly uncongenial to the
 mind of Lord Acton. He had already expressed his
@@ -13960,7 +13972,7 @@ could not be accepted by the minority without virtual
 admission that the Pope must be infallible. For</p>
 
 <blockquote>
-<p>“If the act of a majority of Bishops in the Council,
+<p class="noindent">“If the act of a majority of Bishops in the Council,
 possibly not representing a majority in the Church,
 is infallible, it derives its Infallibility from the Pope.”</p>
 
@@ -13998,7 +14010,7 @@ to be accursed.”</p>
 authorities was, says Acton, that</p>
 
 <blockquote>
-<p>“the Court of Rome became thenceforth reckless in
+<p class="noindent">“the Court of Rome became thenceforth reckless in
 its scorn of the opposition, and proceeded in the belief
 that there was no protest they would not forget, no
 principle they would not betray, rather than defy the
@@ -14527,7 +14539,9 @@ avoid this element of insecurity, unless the human
 instrument be reduced to a mere mechanism upon which
 the Spirit plays as it pleases.</p>
 
-<p>I</p>
+<div class="section">
+<h3 class="nobreak" id="CHAPTER_XIX_SECTION_I">I</h3>
+</div>
 
 <p>What then is the Infallibility of the Church? This
 is precisely what the Council assumes as known, and
@@ -14632,7 +14646,9 @@ indisputable. Instances are recorded when it is said
 that the heart of the people was truer than the lips
 of the priests.</p>
 
-<p>II</p>
+<div class="section">
+<h3 class="nobreak" id="CHAPTER_XIX_SECTION_II">II</h3>
+</div>
 
 <p><i>The Infallibility of the Episcopate</i> has been variously
 asserted and denied by Roman theologians since the
@@ -14778,7 +14794,9 @@ of the Catholic Church.</p>
 
 <p><span class="pagenum" id="Page_350">[Pg 350]</span></p>
 
-<p>III</p>
+<div class="section">
+<h3 class="nobreak" id="CHAPTER_XIX_SECTION_III">III</h3>
+</div>
 
 <p>The Infallibility of the Pope is no mere isolated
 dogma, separable from a system without detriment to
@@ -15055,7 +15073,9 @@ what precise occasions they consider that a Pope has
 complied with the conditions necessary to give his
 pronouncement this supreme unalterable authority.</p>
 
-<p>I</p>
+<div class="section">
+<h3 class="nobreak" id="CHAPTER_XX_SECTION_I">I</h3>
+</div>
 
 <p>The conditions required to make a papal utterance
 infallible are variously described. Bishop Fessler, who
@@ -15188,7 +15208,7 @@ to qualify the character of papal decisions. There is
 the doctrine of intention. The Pope, urges Newman,</p>
 
 <blockquote>
-<p>“could not fulfil the above conditions of an <i>ex cathedra</i>
+<p class="noindent">“could not fulfil the above conditions of an <i>ex cathedra</i>
 utterance if he did not actually <i>mean</i> to fulfil them....
 What is the worth of a signature if a man does not consider
 what he is signing? The Pope cannot address his
@@ -15219,7 +15239,9 @@ none surpass the doctrine of intention. No wonder
 then if there will be discordant verdicts among the
 theologians, and a large element of insecurity.</p>
 
-<p>II</p>
+<div class="section">
+<h3 class="nobreak" id="CHAPTER_XX_SECTION_II">II</h3>
+</div>
 
 <p>Following upon this analysis of the theoretical conditions
 requisite for infallible utterances comes the
@@ -15424,7 +15446,9 @@ must be provided with all the marks which are necessary
 to prove the presence of a real definition.”</p>
 </blockquote>
 
-<p>III</p>
+<div class="section">
+<h3 class="nobreak" id="CHAPTER_XX_SECTION_III">III</h3>
+</div>
 
 <p>Our study of the subject may be closed with a few
 reflections.</p>
