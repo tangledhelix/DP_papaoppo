@@ -287,25 +287,26 @@ References: ([p1347865](https://www.pgdp.net/phpBB3/viewtopic.php?p=1347865#p134
   * Use the `Auto-generate HTML` button.
 * [x] Save the file and open it in a browser.
 * [x] Scroll through looking for systematic errors. (Title pages, tables, etc. will look terrible; no matter). If automatic conversion messed up, start this step over with a reset file.
-* [ ] Page through the book looking for text that was not handled well by automatic HTML generation, in particular:
+* [x] Page through the book looking for text that was not handled well by automatic HTML generation, in particular:
   * [Title pages](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/DP_HTML_Best_Practices/Case_Studies/Title_Pages).
   * [Tables and Tables of Contents](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/DP_HTML_Best_Practices/Case_Studies/Tables). The `Auto Table` button can help format tables.
     * A book with wide tables that don't render well may benefit from the page numbers moving to the left margin. This is easy to do, just change `left` under the `.pagenum` class to something like `2%` or `1.5%`. I used `1.5%` for `presidents`.
   * [Indexes](https://www.pgdp.net/wiki/Indexes) - can use Guiguts `/i ... i/` feature
-    * [ ] Sanity-check index for links, improper line breaks, etc.
-    * [ ] Review index for "see X" entries and link any of those manually
+    * [x] Sanity-check index for links, improper line breaks, etc.
+    * [x] Review index for "see X" entries and link any of those manually
   * Illustrations.
-* [ ] Use `HTML → HTML Markup` to make improvements. Use regex replacements to make systematic changes.
+* [x] Use `HTML → HTML Markup` to make improvements. Use regex replacements to make systematic changes.
   * Where you see a problem, make a correction in Guiguts, save the file, and click the "reload" button in the web browser.
-* [ ] Hyperlink page references in text, TOC, and index (discussed [here](https://www.pgdp.net/wiki/PPTools/Guiguts/HTML#Hyperlinking_Page_Numbers) and [here](https://www.pgdp.net/wiki/Indexes)).
+* [x] Hyperlink page references in text, TOC, and index (discussed [here](https://www.pgdp.net/wiki/PPTools/Guiguts/HTML#Hyperlinking_Page_Numbers) and [here](https://www.pgdp.net/wiki/Indexes)).
 * [x] Remove the [Generated TOC](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/HTML_Menu#Generated_TOC) if it is not needed.
 * [x] If `A.M.` `P.M.` or similar abbreviations were used and have spaces, insert `&nbsp;` to avoid undesirable mid-abbreviation line wraps.
 * [x] If superscripts were used, convert to `<sup>`
-* [ ] Semantic fixup for italics
+* [x] Semantic fixup for italics
+  * (Note: `lang="xx"` can be used on **any** HTML tag including `cite`, `em`, ...)
   * Search `<i>((.|\n)+?)</i>`
-  * Replace (emphasis) `<em>$1</em>`
-  * Replace (citation) `<cite>$1</cite>`
-  * Replace ([languages](http://www.w3schools.com/tags/ref_language_codes.asp)) `<i lang="fr">$1</i>`
+  * Replace (emphasis) `<em>\1</em>`
+  * Replace (citation) `<cite>\1</cite>`
+  * Replace ([languages](http://www.w3schools.com/tags/ref_language_codes.asp)) `<i lang="fr">\1</i>`
   * Leave other cases as `<i>..</i>`
 * [ ] Add `abbr` tags if appropriate. ([Reference](https://www.pgdp.net/wiki/Accessibility_Recipes/Abbreviations))
 * [ ] If there is a cover image for e-readers supplied with the project, or you are creating one yourself, you can find information on what is needed in your HTML in the [Proofreaders' Guide to EPUB](https://www.pgdp.net/wiki/The_Proofreader%27s_Guide_to_EPUB#Cover_Page) or the [PP guide to cover pages](https://www.pgdp.net/wiki/PP_guide_to_cover_pages).

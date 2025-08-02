@@ -30,12 +30,16 @@ Book items:
 * [x] (TEXT) Chapter I, sections i - iv are hanging indent format
 * [ ] (HTML) Chapter I, sections i - iv are hanging indent format
 * [ ] (HTML) footnote 427: change Bishof to Bischof
-* [ ] (HTML) List of Authorities starting on p. ix: list? How to handle the ” spacing?
-* [ ] (HTML) ToC on p. xv – table
-* [ ] (HTML) check poetry on p. 179
-* [ ] (HTML) p. 215, signature of a blockquote
-* [ ] (HTML) Index starts on p. 371
+* [x] (HTML) List of Authorities starting on p. ix: list? How to handle the ” spacing?
+* [x] (HTML) ToC on p. xv – table
+* [x] (HTML) check poetry on p. 179
+* [x] (HTML) p. 215, signature of a blockquote
+* [x] (HTML) Index starts on p. 371
 * [ ] (HTML) p. 376, centered footer block
+* [ ] (TEXT) p. ix: change “de” to “du” (Hist. du Card. Pie.) (update TN)
+* [ ] (TEXT) p. 277 (footnote 384): change “de” to “du” (Histoire du Cardinal Pie) (update TN)
+* [ ] (TEXT) p. 364 (footnote 470): change "Encheiridior" to "Enchiridion"
+* [ ] (TEXT) update TN to match between files
 
 ### Project manager notes ###
 
@@ -132,6 +136,7 @@ No notes.
 
 * “Papautè” changed to “Papauté” in multiple places (Histoire de la Papauté)
 * p. ix: changed “einem” to “einen” (Sendschreiben an einen Deutschen Bischof)
+* p. ix: changed “de” to “du” (Hist. du Card. Pie.)
 * p. x: changed “Memoires” to “Mémoires” (Consalvi, Card. Mémoires.)
 * p. x: changed “addressée” to “adressée” (Lettre sur le futur Concile Œcuménique adressée)
 * p. xi: changed “Allemayne” to “Allemagne” (L’Allemagne religieuse)
@@ -145,6 +150,7 @@ No notes.
 * p. 144: changed “Memoires” to “Mémoires” (Consalvi, Mémoires.)
 * p. 200: changed “Religreuses” to “Religieuses” (Encyclopédie des Sciences Religieuses)
 * p. 215: changed “inbibed” to “imbibed” (I imbibed in my youth)
+* p. 277 (footnote 384): changed “de” to “du” (Histoire du Cardinal Pie)
 * p. 279: inserted closing single-quote (God has confided to my care.’”)
 * p. 279: changed “advisible” to “advisable” (if they think it advisable)
 * p. 301: changed “Altkathliusmus” to “Altkatholicismus” (Schulte, Der Altkatholicismus)
@@ -153,6 +159,7 @@ No notes.
 * p. 317: changed “precedure” to “procedure” (of the Roman procedure)
 * p. 326: added section V name “LORD ACTON’S SUBMISSION”, from printed page header
 * p. 332: changed “Bishof” to “Bischof” (an einen Deutschen Bischof)
+* p. 364 (footnote 470): changed “Encheiridior” to “Enchiridion”
 
 ### HTML file review ###
 The iPhone/iPad simulators can't use `file://` URLs. Start a local web server with `python3 -m http.server` in the project directory and going to `localhost:8000` in Safari on the device. 
