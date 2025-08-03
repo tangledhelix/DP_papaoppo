@@ -28,18 +28,18 @@ Book items:
     * Looking at Chapter I, sec. i., ii., etc, are they h3? They seem to be formatted as hanging indent, so far. The output from the rounds left them as blockquote-rewrap.
 * [ ] throughout book abbrs like `Dr` and `St` have no `.`; note this when looking for them to add `<abbr>` tags in HTML.
 * [x] (TEXT) Chapter I, sections i - iv are hanging indent format
-* [ ] (HTML) Chapter I, sections i - iv are hanging indent format
-* [ ] (HTML) footnote 427: change Bishof to Bischof
+* [x] (HTML) Chapter I, sections i - iv are hanging indent format
+* [x] (HTML) footnote 427: change Bishof to Bischof
 * [x] (HTML) List of Authorities starting on p. ix: list? How to handle the ” spacing?
 * [x] (HTML) ToC on p. xv – table
 * [x] (HTML) check poetry on p. 179
 * [x] (HTML) p. 215, signature of a blockquote
 * [x] (HTML) Index starts on p. 371
-* [ ] (HTML) p. 376, centered footer block
-* [ ] (TEXT) p. ix: change “de” to “du” (Hist. du Card. Pie.) (update TN)
-* [ ] (TEXT) p. 277 (footnote 384): change “de” to “du” (Histoire du Cardinal Pie) (update TN)
-* [ ] (TEXT) p. 364 (footnote 470): change "Encheiridior" to "Enchiridion"
-* [ ] (TEXT) update TN to match between files
+* [x] (HTML) p. 376, centered footer block
+* [x] (TEXT) p. ix: change “de” to “du” (Hist. du Card. Pie.) (update TN)
+* [x] (TEXT) p. 277 (footnote 384): change “de” to “du” (Histoire du Cardinal Pie) (update TN)
+* [x] (TEXT) p. 364 (footnote 470): change "Encheiridior" to "Enchiridion"
+* [x] (TEXT) update TN to match between files
 
 ### Project manager notes ###
 

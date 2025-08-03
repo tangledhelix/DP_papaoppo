@@ -1,6 +1,6 @@
 {
-  "md5checksum": "e611d611d9d6cf1f89aeacf33d09c910",
-  "insertpos": "12335.21",
+  "md5checksum": "57df11b3cfdc711626a1f217366e9e52",
+  "insertpos": "142.20",
   "insertpospeer": "444.0",
   "pagedetails": {
     "f001": {
@@ -2384,7 +2384,9 @@
   "projectid": "projectID6111624b0410e",
   "languages": "en",
   "bookmarks": {
-    "Bookmark1": "1157.0"
+    "Bookmark1": "1157.0",
+    "Bookmark2": "1.0",
+    "Bookmark3": "1.0"
   },
   "imagerotate": {}
 }
