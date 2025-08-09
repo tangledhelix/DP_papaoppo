@@ -175,4 +175,4 @@ The iPhone/iPad simulators can't use `file://` URLs. Start a local web server wi
 
 ### Smooth Reading ###
 
-* [ ] remove CSS `abbr { background-color:mistyrose; }` after SR
+* [x] remove CSS `abbr { background-color:mistyrose; }` after SR
