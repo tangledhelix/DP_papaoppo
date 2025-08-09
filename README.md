@@ -169,7 +169,7 @@ The iPhone/iPad simulators can't use `file://` URLs. Start a local web server wi
 * [x] Edge
 * [x] Chrome
 * [x] iPhone simulator
-* [x] iPad simulator (skipped)
+* [x] iPad simulator
 
 ### Ebook review ###
 
