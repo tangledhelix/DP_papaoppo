@@ -74,6 +74,7 @@ table.autotable th { padding: 0.25em; }
 .pagenum { /* uncomment the next line for invisible page numbers */
     /*  visibility: hidden;  */
     position: absolute;
+    color: #bbbbbb;
     left: 92%;
     font-size: small;
     text-align: right;
@@ -84,7 +85,7 @@ table.autotable th { padding: 0.25em; }
 } /* page numbers */
 
 blockquote {
-    border-left: .2em solid #cccccc;
+    border-left: .15em solid #c8c8c8;
     padding-left: .7em;
     margin-left: 4%;
     margin-right: 8%;
@@ -128,12 +129,14 @@ img {
 .poetry .verse    {text-indent: -3em; padding-left: 3em;}
 
 /* Transcriber's notes */
-.transnote {background-color: #E6E6FA;
+.transnote {/*background-color: #E6E6FA;*/
+    border: 1px dashed #bbbbbb;
     color: black;
     font-size:small;
     padding:0.5em;
-    margin-bottom:5em;
+    margin: 5em 0;
     font-family:sans-serif, serif;
+    page-break-before: always;
 }
 
 /* Poetry indents */
@@ -159,8 +162,6 @@ img {
 .nonitalic { font-style: normal; }
 abbr { border:none; text-decoration:none; font-variant:normal; }
 abbr.spell { speak: spell-out; }
-/* TEMPORARY */
-abbr { background-color:mistyrose; }
     </style>
 </head>
 <body>

@@ -164,12 +164,12 @@ No notes.
 ### HTML file review ###
 The iPhone/iPad simulators can't use `file://` URLs. Start a local web server with `python3 -m http.server` in the project directory and going to `localhost:8000` in Safari on the device. 
 
-* [ ] Safari
-* [ ] Firefox
-* [ ] Edge
-* [ ] Chrome
-* [ ] iPhone simulator
-* [ ] iPad simulator
+* [x] Safari
+* [x] Firefox
+* [x] Edge
+* [x] Chrome
+* [x] iPhone simulator
+* [x] iPad simulator (skipped)
 
 ### Ebook review ###
 

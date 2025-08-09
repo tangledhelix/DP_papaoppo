@@ -414,8 +414,8 @@ Perform these validation steps before submitting your book. Validation is also h
 * [x] Use `HTML → HTML Link Checker`. Fix any reported problems.
 
 ### Review HTML
-* [ ] Review in multiple browsers (Safari, Chrome, Firefox, maybe Edge?)
-* [ ] Pay particular attention to complex items like tables, poetry
+* [x] Review in multiple browsers (Safari, Chrome, Firefox, maybe Edge?)
+* [x] Pay particular attention to complex items like tables, poetry
 
 ## Ebook generation
 
