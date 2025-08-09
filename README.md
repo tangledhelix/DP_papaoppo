@@ -26,7 +26,7 @@ Book items:
 * [x] p002 and forward, sections i, ii, iii etc are marked up as `/# #/` but really they're hanging-indent section headers? Review the structure of the book to determine if these are h3 or what
     * again on p023, similar i., ii.
     * Looking at Chapter I, sec. i., ii., etc, are they h3? They seem to be formatted as hanging indent, so far. The output from the rounds left them as blockquote-rewrap.
-* [ ] throughout book abbrs like `Dr` and `St` have no `.`; note this when looking for them to add `<abbr>` tags in HTML.
+* [x] throughout book abbrs like `Dr` and `St` have no `.`; note this when looking for them to add `<abbr>` tags in HTML.
 * [x] (TEXT) Chapter I, sections i - iv are hanging indent format
 * [x] (HTML) Chapter I, sections i - iv are hanging indent format
 * [x] (HTML) footnote 427: change Bishof to Bischof
