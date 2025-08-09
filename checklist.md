@@ -402,7 +402,7 @@ Perform these validation steps before submitting your book. Validation is also h
 * [x] Use `HTML → HTML5 Validator`. Fix any reported problems.
     * Under "more options" you can look at the headings hierarchy to check for ToC problems ("show outline")
 * [x] Remove unused CSS. `HTML → PPhtml` can help with this. Alternatively, check manually or use a tool such as the Firefox addons Firebug (with CSS Usage extension) or Dust-Me Selectors.
-* [ ] Use `HTML → CSS Validator`. Fix any reported problems.
+* [x] Use `HTML → CSS Validator`. Fix any reported problems.
   * Validate as CSS 2.1
   * CSS3 is acceptable if current status is `REC` on [this page](https://www.w3.org/Style/CSS/current-work)
     * e.g. CSS3 drop-caps
@@ -410,13 +410,8 @@ Perform these validation steps before submitting your book. Validation is also h
       * `display: flex` is acceptable but `flex:` is not permitted!
       * `justify-content` may only be `center` and no other value
     * `speak-as: spell-out` if a screen reader should spell out an acronym rather than read as a word
-    * [ ] if uploading CSS3, leave a note for WWer about it.
-* [ ] Use `HTML → HTML Link Checker`. Fix any reported problems.
-* [ ] Use `HTML → PPVimage` to check for image-related errors. Fix any reported problems.
-    * **NOT IMPLEMENTED YET IN GG2?**
-* [ ] Run [PWBB](https://www.pgdp.net/ppwb/index.php) checks
-  * [ ] [pphtml](https://www.pgdp.net/ppwb/pphtml.php)
-  * [ ] [ppcomp](https://www.pgdp.net/ppwb/ppcomp.php) to compare text/html files
+    * [x] if uploading CSS3, leave a note for WWer about it.
+* [x] Use `HTML → HTML Link Checker`. Fix any reported problems.
 
 ### Review HTML
 * [ ] Review in multiple browsers (Safari, Chrome, Firefox, maybe Edge?)
