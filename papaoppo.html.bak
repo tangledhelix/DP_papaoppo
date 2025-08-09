@@ -84,8 +84,10 @@ table.autotable th { padding: 0.25em; }
 } /* page numbers */
 
 blockquote {
-    margin-left: 5%;
-    margin-right: 10%;
+    border-left: .2em solid #cccccc;
+    padding-left: .7em;
+    margin-left: 4%;
+    margin-right: 8%;
 }
 
 .center   {text-align: center;}
@@ -13665,9 +13667,7 @@ the end of his days he held that this theory could not
 possibly be reconciled with the broad facts of Christian
 history.</p>
 
-<div>
-<span class="pagenum" id="Page_326">[Pg 326]</span>
-</div>
+<p><span class="pagenum" id="Page_326">[Pg 326]</span></p>
 
 <h3 class="nobreak" id="V_LORD_ACTONS_SUBMISSION"><abbr title="five">V.</abbr> LORD ACTON’S SUBMISSION</h3>
 
