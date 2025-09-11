@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       Roman Catholic Opposition to Papal Infallibility | Project Gutenberg
     </title>
@@ -87,6 +88,8 @@ table.autotable th { padding: 0.25em; }
 blockquote {
     border-left: .15em solid #c8c8c8;
     padding-left: .7em;
+    margin-top: 0;
+    margin-bottom: 0;
     margin-left: 4%;
     margin-right: 8%;
 }
@@ -134,7 +137,7 @@ img {
     color: black;
     font-size: small;
     padding: 0.5em;
-    margin: 5em 0;
+    margin: 3em 0;
     font-family: sans-serif, serif;
     page-break-before: always;
 }
