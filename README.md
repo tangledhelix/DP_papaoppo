@@ -40,7 +40,8 @@ Book items:
 * [x] (TEXT) p. 277 (footnote 384): change “de” to “du” (Histoire du Cardinal Pie) (update TN)
 * [x] (TEXT) p. 364 (footnote 470): change "Encheiridior" to "Enchiridion"
 * [x] (TEXT) update TN to match between files
-* [ ] (HTML) verify viewport tag addition didn't cause a problem.
+* [x] (HTML) verify viewport tag addition didn't cause a problem.
+    * No problem caused if present; everything is wrong in iPhone Simulator load when it's absent.
 
 ### Project manager notes ###
 
