@@ -178,3 +178,10 @@ The iPhone/iPad simulators can't use `file://` URLs. Start a local web server wi
 ### Smooth Reading ###
 
 * [x] remove CSS `abbr { background-color:mistyrose; }` after SR
+* Some problematic footnotes (after footnote renumber). These few don't work as a popup in the Kindle app; the link jumps to the footnote page. Weirdly, they're only the first and last in their chapter (and sometimes 2nd).
+    * These are post-renumber. Pre-renumber is in ().
+        * Chapter 9 footnotes 1, 2, 31 (115, 116, 145)
+        * Chapter 15 footnotes 1, 19 (310, 328)
+        * Chapter 16 footnotes 1, 2, 12 (329, 330, 340)
+    * This same list of footnotes was tagged as broken in first read-through
+    * I see no indication why it happens or how to fix. Chalk it up to Kindle format conversion? (shrug)
