@@ -42,6 +42,7 @@ Book items:
 * [x] (TEXT) update TN to match between files
 * [x] (HTML) verify viewport tag addition didn't cause a problem.
     * No problem caused if present; everything is wrong in iPhone Simulator load when it's absent.
+* [x] (HTML) Review `<cite>` that got expanded; did italics get expanded too?
 
 ### Project manager notes ###
 
