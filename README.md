@@ -43,6 +43,7 @@ Book items:
 * [x] (HTML) verify viewport tag addition didn't cause a problem.
     * No problem caused if present; everything is wrong in iPhone Simulator load when it's absent.
 * [x] (HTML) Review `<cite>` that got expanded; did italics get expanded too?
+* [ ] (TEXT) renumber footnotes to match HTML numbering?
 
 ### Project manager notes ###
 
@@ -151,6 +152,7 @@ No notes.
 * p. 121: changed “ilustrates” to “illustrates” (Foreign Review illustrates the restraints)
 * p. 127: changed “trangressed” to “transgressed” (which has transgressed its limits)
 * p. 144: changed “Memoires” to “Mémoires” (Consalvi, Mémoires.)
+* p. 190: changed “li.” to “ii.” in footnote (Ibid. ii. p. 331.)
 * p. 200: changed “Religreuses” to “Religieuses” (Encyclopédie des Sciences Religieuses)
 * p. 215: changed “inbibed” to “imbibed” (I imbibed in my youth)
 * p. 277 (footnote 384): changed “de” to “du” (Histoire du Cardinal Pie)

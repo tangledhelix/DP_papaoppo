@@ -6445,7 +6445,7 @@ centuries many things contributed. The historical evolution was not
 without protests and reactions, but forged documents, accepted by
 uncritical ages as correct, misled even such theologians as St Thomas.
 
-[272] _Ibid._ li. p. 331.
+[272] _Ibid._ ii. p. 331.
 
 [273] Friedrich, _Döllinger_, iii. p. 485.
 
@@ -12657,6 +12657,8 @@ p. 127: changed “trangressed” to “transgressed” (which has transgressed
 its limits)
 
 p. 144: changed “Memoires” to “Mémoires” (Consalvi, Mémoires.)
+
+p. 190: changed “li.” to “ii.” in footnote (Ibid. ii. p. 331.)
 
 p. 200: changed “Religreuses” to “Religieuses” (Encyclopédie des
 Sciences Religieuses)

@@ -1,6 +1,6 @@
 {
-  "md5checksum": "7c66aab105f3e4ba5542e3e7a2204268",
-  "insertpos": "12688.62",
+  "md5checksum": "d6f67ee3343535c38c72d49280045657",
+  "insertpos": "6448.15",
   "insertpospeer": "444.0",
   "pagedetails": {
     "f001": {
@@ -2383,6 +2383,9 @@
   "imagedir": "/Users/dan/dp/pp/papaoppo/pngs",
   "projectid": "projectID6111624b0410e",
   "languages": "en",
+  "charsuites": {
+    "Basic Latin": true
+  },
   "bookmarks": {
     "Bookmark1": "1157.0",
     "Bookmark2": "1.0",
