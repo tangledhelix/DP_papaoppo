@@ -1,6 +1,6 @@
 {
-  "md5checksum": "a557c7144e64e4533ac9b718190fd209",
-  "insertpos": "17421.0",
+  "md5checksum": "82adc284a6733d9bdd9e8ea9705d1790",
+  "insertpos": "16184.26",
   "insertpospeer": "1281.41",
   "pagedetails": {
     "f001": {
@@ -280,7 +280,7 @@
       "label": "Pg 30"
     },
     "p031": {
-      "index": "2102.62",
+      "index": "2102.63",
       "style": "\"",
       "number": "+1",
       "label": "Pg 31"
@@ -2387,7 +2387,7 @@
     "Basic Latin": true
   },
   "bookmarks": {
-    "Bookmark1": "17178.2",
+    "Bookmark1": "350.0",
     "Bookmark2": "2723.0",
     "Bookmark3": "408.0"
   },
