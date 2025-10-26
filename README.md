@@ -43,7 +43,6 @@ Book items:
 * [x] (HTML) verify viewport tag addition didn't cause a problem.
     * No problem caused if present; everything is wrong in iPhone Simulator load when it's absent.
 * [x] (HTML) Review `<cite>` that got expanded; did italics get expanded too?
-* [ ] (TEXT) renumber footnotes to match HTML numbering?
 
 ### Project manager notes ###
 
