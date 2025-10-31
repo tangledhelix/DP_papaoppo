@@ -492,25 +492,25 @@ Submit for a decent length of time, up to the maximum. Check what's in `ebooks/`
 * [x] If time permits, smooth read it myself as well
 
 ### Process SR feedback
-* [ ] After SR is finished, processed SR feedback into project.
-* [ ] Add **anonymized** files to git, e.g. `papaoppo-smoothread01.txt`
-* [ ] Thank your smooth readers with a PM!
-* [ ] If there were changes from the SR round, re-do final checks from above (validators etc)
+* [x] After SR is finished, processed SR feedback into project.
+* [x] Add **anonymized** files to git, e.g. `papaoppo-smoothread01.txt`
+* [x] Thank your smooth readers with a PM!
+* [x] If there were changes from the SR round, re-do final checks from above (validators etc)
 
 ## Upload the Finished Project
 
 [Guide to DU and Posting to PG](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Guide_to_Direct_Uploading_%28DU%29_and_Posting_to_PG)
 
-* [ ] Run through [ebookmaker](https://ebookmaker.pglaf.org/), check output.txt
+* [x] Run through [ebookmaker](https://ebookmaker.pglaf.org/), check output.txt
   * No errors!
   * Warnings are OK
   * Copy link to the output.txt file (will persist about 3 days)
-* [ ] `make zip`
-* [ ] Go to the [PGLAF upload site](https://upload.pglaf.org/)
-* [ ] Enter copyright clearance (get from DP [project page](https://www.pgdp.net/c/project.php?id=projectID6111624b0410e))
-* [ ] Choose zip file to upload
-* [ ] Add `dp-post@pgdp.net` as a Cc on Posted announcement
-* [ ] Carefully check submission details against title page from book
+* [x] `make zip`
+* [x] Go to the [PGLAF upload site](https://upload.pglaf.org/)
+* [x] Enter copyright clearance (get from DP [project page](https://www.pgdp.net/c/project.php?id=projectID6111624b0410e))
+* [x] Choose zip file to upload
+* [x] Add `dp-post@pgdp.net` as a Cc on Posted announcement
+* [x] Carefully check submission details against title page from book
   * If anything won't fit in the form add it to the Notes field
   * If you make any changes mention them in Notes field
   * Use sentence case for title. Proper nouns such as names should be capitalized.
@@ -519,19 +519,19 @@ Submit for a decent length of time, up to the maximum. Check what's in `ebooks/`
     * The writing of fiction
     * Travels in Africa, Egypt, and Syria from the year 1792 to 1798
     * The Squire's young folk : A Christmas story
-* [ ] Credits line
+* [x] Credits line
   * Paste in from DP [project page](https://www.pgdp.net/c/project.php?id=projectID6111624b0410e)
   * Add myself to credits line
   * DO NOT alter any other names, DO NOT turn a DP username into real name!
   * Assume `Produced by` will be added as a prefix to whatever you enter
   * Should be only ASCII, no Unicode
   * Example: `Joe Schmo, Jane Doe, and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/American Libraries.)`
-* [ ] Anything else important, add to Notes field
+* [x] Anything else important, add to Notes field
   * Any CSS3 should be noted, e.g. drop-cap or other stuff.
   * If project contains Hebrew, let WWer know that
-* [ ] Preview the submission
+* [x] Preview the submission
   * **After preview you have to select the upload file again!**
-  * [ ] If the preview looks good and indicates no problem, then submit
+  * [x] If the preview looks good and indicates no problem, then submit
 * If you notice an error post-upload, contact pgww at lists.pglaf.org ASAP
 * If you notice an error in your own recently posted project, contact pgww at lists.pglaf.org ASAP
 * For projects over a month old, use the [errata process](https://www.gutenberg.org/help/errata.html)
