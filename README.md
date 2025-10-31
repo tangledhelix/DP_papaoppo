@@ -8,7 +8,7 @@ This is a [Distributed Proofreaders](http://www.pgdp.net/) post-processing proje
 * [Forum thread](https://www.pgdp.net/phpBB3/viewtopic.php?t=74833)
 * [Good words](good_words.txt)
 * [Bad words](bad_words.txt)
-* [Project Gutenberg listing]() (not posted yet)
+* [Project Gutenberg listing](https://www.gutenberg.org/ebooks/77157)
 
 Page references (e.g. `001`) refer to the scan numbers, not the original book's page numbers.
 
